@@ -96530,6 +96530,201 @@
   }
  },
  {
+  "id": "jp-44-9ae81c20",
+  "schema_version": 1,
+  "title": "大分県出品牛「さだの５」号 全国和牛能力共進会 第2区（若雌の１） 優等賞首席（第12回）",
+  "claim": "全国和牛能力共進会（全国和牛登録協会、第12回・2022年・鹿児島県）の第2区（若雌の１）で、大分県出品の「さだの５」号が優等賞首席（区の1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（和牛能力共進会 区別首席）",
+   "scope_note": "全国和牛能力共進会 第12回（2022年10月）第2区（若雌の１）の優等賞首席。区ごとに首席が決まる大会で、全体の総合1位ではない。"
+  },
+  "subject": {
+   "name": "大分県（出品牛「さだの５」号）",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "44",
+   "municipality": null,
+   "place_name": "大分県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2022,
+   "fiscal_year": 2022,
+   "period_label": "第12回（2022年10月6〜10日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "公益社団法人全国和牛登録協会",
+   "method": "主催者公式サイトの「優等賞首席 受賞牛写真」ページの記載",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "第12回全国和牛能力共進会（鹿児島県霧島市・南九州市）で、第2区（若雌の１）の優等賞首席は大分県出品の「さだの５」号。",
+  "sources": [
+   {
+    "title": "第12回全国和牛能力共進会 優等賞首席 受賞牛写真（全国和牛登録協会）",
+    "url": "http://cus4.zwtk.or.jp/zenkyo/2023/03/27/%e7%ac%ac12%e5%9b%9e%e5%85%a8%e5%9b%bd%e5%92%8c%e7%89%9b%e8%83%bd%e5%8a%9b%e5%85%b1%e9%80%b2%e4%bc%9a%e3%80%80%e5%84%aa%e7%ad%89%e8%b3%9e%e9%a6%96%e5%b8%ad%e3%80%80%e5%8f%97%e8%b3%9e%e7%89%9b%e5%86%99/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "http://www.zwtk.or.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-7350211d",
+  "schema_version": 1,
+  "title": "鹿児島県出品牛「白浜喜」号 全国和牛能力共進会 第1区（若雄） 優等賞首席（第12回）",
+  "claim": "全国和牛能力共進会（全国和牛登録協会、第12回・2022年・鹿児島県）の第1区（若雄）で、鹿児島県出品の「白浜喜」号が優等賞首席（区の1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（和牛能力共進会 区別首席）",
+   "scope_note": "全国和牛能力共進会 第12回（2022年10月）第1区（若雄）の優等賞首席。区ごとに首席が決まる大会で、全体の総合1位ではない。"
+  },
+  "subject": {
+   "name": "鹿児島県（出品牛「白浜喜」号）",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2022,
+   "fiscal_year": 2022,
+   "period_label": "第12回（2022年10月6〜10日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "公益社団法人全国和牛登録協会",
+   "method": "主催者公式サイトの「優等賞首席 受賞牛写真」ページの記載",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "第12回全国和牛能力共進会（鹿児島県霧島市・南九州市）で、第1区（若雄）の優等賞首席は鹿児島県出品の「白浜喜」号。",
+  "sources": [
+   {
+    "title": "第12回全国和牛能力共進会 優等賞首席 受賞牛写真（全国和牛登録協会）",
+    "url": "http://cus4.zwtk.or.jp/zenkyo/2023/03/27/%e7%ac%ac12%e5%9b%9e%e5%85%a8%e5%9b%bd%e5%92%8c%e7%89%9b%e8%83%bd%e5%8a%9b%e5%85%b1%e9%80%b2%e4%bc%9a%e3%80%80%e5%84%aa%e7%ad%89%e8%b3%9e%e9%a6%96%e5%b8%ad%e3%80%80%e5%8f%97%e8%b3%9e%e7%89%9b%e5%86%99/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "http://www.zwtk.or.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-d6ab968f",
+  "schema_version": 1,
+  "title": "鹿児島県出品牛「南迫」号 全国和牛能力共進会 第8区（去勢肥育牛） 優等賞首席（第12回）",
+  "claim": "全国和牛能力共進会（全国和牛登録協会、第12回・2022年・鹿児島県）の第8区（去勢肥育牛）で、鹿児島県出品の「南迫」号が優等賞首席（区の1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（和牛能力共進会 区別首席）",
+   "scope_note": "全国和牛能力共進会 第12回（2022年10月）第8区（去勢肥育牛）の優等賞首席。区ごとに首席が決まる大会で、全体の総合1位ではない。"
+  },
+  "subject": {
+   "name": "鹿児島県（出品牛「南迫」号）",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2022,
+   "fiscal_year": 2022,
+   "period_label": "第12回（2022年10月6〜10日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "公益社団法人全国和牛登録協会",
+   "method": "主催者公式サイトの「優等賞首席 受賞牛写真」ページの記載",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "第12回全国和牛能力共進会（鹿児島県霧島市・南九州市）で、第8区（去勢肥育牛）の優等賞首席は鹿児島県出品の「南迫」号。",
+  "sources": [
+   {
+    "title": "第12回全国和牛能力共進会 優等賞首席 受賞牛写真（全国和牛登録協会）",
+    "url": "http://cus4.zwtk.or.jp/zenkyo/2023/03/27/%e7%ac%ac12%e5%9b%9e%e5%85%a8%e5%9b%bd%e5%92%8c%e7%89%9b%e8%83%bd%e5%8a%9b%e5%85%b1%e9%80%b2%e4%bc%9a%e3%80%80%e5%84%aa%e7%ad%89%e8%b3%9e%e9%a6%96%e5%b8%ad%e3%80%80%e5%8f%97%e8%b3%9e%e7%89%9b%e5%86%99/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "http://www.zwtk.or.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-01-0a3b863e",
   "schema_version": 1,
   "title": "冬に行きたいと思う「北海道の道の駅」 1位: うとろ・シリエトク",
