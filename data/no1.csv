@@ -7499,7 +7499,7 @@ jp-42-d46d580d,さざえ漁獲量,農林水産省「令和5年漁業・養殖業
 jp-42-ee6ee178,真珠(養殖)生産量,農林水産省「漁業・養殖業生産統計」（令和5年）の養殖品目別生産量で、長崎県の真珠は全国1位（長崎県水産業振興基本計画 素案に記載）。,national,全国1位,42,,,,A,official_stat,2023,0,https://www.pref.nagasaki.lg.jp/uploads/2026/02/1770004498.pdf
 jp-42-7715af32,煮干し品(いわし)生産量,"農林水産省の水産加工統計調査（平成29年）で、長崎県の煮干し品（いわし）生産量が6,260トンで全国1位",national,全国1位,42,,,,A,official_stat,2017,0,https://www.pref.nagasaki.jp/shared/uploads/2021/03/1616991854.pdf
 jp-42-74450264,肉用牛の農業産出額(県内品目1位),農林水産省「令和8年版 長崎県の農林水産業の概要」で、肉用牛は長崎県の農業産出額で品目別1位(県内1位)。,prefecture,県内1位,42,,,,A,official_stat,2026,1,https://www.maff.go.jp/j/kanbo/tiho/15sonota/2026PDF/todouhuken_gaiyou2026-42.pdf
-jp-42-6a028e64,雲仙市 農業産出額(県内市町1位),農林水産省の市町村別農業産出額（2024年）で、雲仙市は334.4億円で長崎県内の市町1位,prefecture,県内1位,42,雲仙市,32.835,130.23,A,official_stat,2024,0,https://www.teikokushoin.co.jp/statistics/prefecture/detail/42/data/3/
+jp-42-6a028e64,雲仙市 農業産出額(県内市町村1位),農林水産省『市町村別農業産出額（推計）』令和6年（2024年）で、雲仙市は334.4億円で長崎県内の市町村1位,prefecture,県内1位,42,雲仙市,32.835,130.23,A,official_stat,2024,0,https://www.maff.go.jp/j/tokei/kouhyou/sityoson_sansyutu/attach/xls/index-25.xlsx
 jp-42-79a76784,諫早市 米の収穫量(県内市町1位),"農林水産省（作物統計）による2024年の水稲収穫量で諫早市が長崎県内の市町1位（9,950t）",prefecture,県内1位,42,諫早市,32.8444,130.0543,A,official_stat,2024,0,https://www.teikokushoin.co.jp/statistics/prefecture/detail/42/data/3/
 jp-42-e66f4461,松浦市 マアジ水揚げ量,長崎県「推し魚」第2弾のプレスリリース(2026年4月)で、松浦市のマアジは水揚げ量日本一と紹介されている（県・市の公称）,national,日本一,42,松浦市,33.3417,129.7094,C,self_claim,2026,0,https://kyodonewsprwire.jp/release/202604288266
 jp-42-0a686e55,佐世保市 いりこ(煮干し)生産量,九州農政局「市町別の情報（長崎）」に、九十九島漁協（佐世保市）の6次産業化の取組事例として「いりこ生産量日本一の産地」（平成29年）・「生産量全国一のいりこ産地」（平成28年）と記載（自称・公称で調査基準は不明）。,national,日本一,42,佐世保市,33.1801,129.7154,C,self_claim,2017,0,https://www.maff.go.jp/kyusyu/nagasaki/shimatibetu.html

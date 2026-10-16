@@ -497694,13 +497694,13 @@
  {
   "id": "jp-42-6a028e64",
   "schema_version": 1,
-  "title": "雲仙市 農業産出額(県内市町1位)",
-  "claim": "農林水産省の市町村別農業産出額（2024年）で、雲仙市は334.4億円で長崎県内の市町1位",
+  "title": "雲仙市 農業産出額(県内市町村1位)",
+  "claim": "農林水産省『市町村別農業産出額（推計）』令和6年（2024年）で、雲仙市は334.4億円で長崎県内の市町村1位",
   "rank": {
    "position": 1,
    "scope": "prefecture",
    "label": "県内1位",
-   "scope_note": null
+   "scope_note": "長崎県内の市町村の比較（令和6年）"
   },
   "subject": {
    "name": "雲仙市",
@@ -497723,19 +497723,24 @@
    "kind": "periodic",
    "year": 2024,
    "fiscal_year": null,
-   "period_label": "2024年",
+   "period_label": "令和6年（2024年）",
    "streak": null
   },
   "evidence": {
    "type": "official_stat",
    "strength": "A",
-   "org": "農林水産省(市町村別農業産出額)",
-   "method": null,
+   "org": "農林水産省(市町村別農業産出額（推計）)",
+   "method": "農林水産省の令和6年 市町村別農業産出額（推計）の詳細品目別データで長崎県内の順位を確認",
    "sample_size": null,
    "population_note": null
   },
-  "detail": "雲仙市の農業産出額は334.4億円で県内1位。2位南島原市289.1億円、3位島原市262.1億円。",
+  "detail": "令和6年（2024年）の雲仙市の農業産出額は334.4億円で長崎県内1位（全国35位）。2位南島原市289.1億円、3位島原市262.1億円、4位諫早市203.7億円、5位西海市119.9億円。農林水産省の詳細品目別データ（Excel、令和6年）で値と順位を確認した（2026-10-16）。同じ指標の令和4年（2022年）は285.9億円（別記録）。",
   "sources": [
+   {
+    "title": "農林水産省 市町村別農業産出額（推計）令和6年 詳細品目別データ（Excel）",
+    "url": "https://www.maff.go.jp/j/tokei/kouhyou/sityoson_sansyutu/attach/xls/index-25.xlsx",
+    "accessed": "2026-10-16"
+   },
    {
     "title": "帝国書院 統計データ 農業産出額:2024年:長崎県",
     "url": "https://www.teikokushoin.co.jp/statistics/prefecture/detail/42/data/3/",
