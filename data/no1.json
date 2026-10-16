@@ -60580,6 +60580,221 @@
   }
  },
  {
+  "id": "jp-19-4de815c4",
+  "schema_version": 1,
+  "title": "楽天トラベルアワード2025 全国総合1位 富士河口湖温泉 大池ホテル",
+  "claim": "楽天トラベルアワード2025（楽天トラベル）で、山梨県の富士河口湖温泉 富士山の見える温泉旅館 大池ホテルが全国総合1位。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "楽天トラベルアワード2025 全国総合1位",
+   "scope_note": "楽天トラベル登録宿泊施設が対象。過去1年間の実績・評価によるゴールド等の表彰のうち「全国総合」の順位。"
+  },
+  "subject": {
+   "name": "富士河口湖温泉 富士山の見える温泉旅館 大池ホテル",
+   "kind": "lodging"
+  },
+  "location": {
+   "pref_code": "19",
+   "municipality": "富士河口湖町",
+   "place_name": "大池ホテル",
+   "address": "山梨県南都留郡富士河口湖町船津6713-103",
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "travel_stay"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "楽天トラベルアワード2025",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "B",
+   "org": "楽天トラベル",
+   "method": "「過去1年間で顕著な実績をあげ、高い評価を得られた宿泊施設」を順位づけ（具体的な集計式は非公表）",
+   "sample_size": null,
+   "population_note": "事業者（楽天トラベル）自身の表彰で、集計方法・母数は公表なし。"
+  },
+  "detail": "【甲信越】山梨県。宿泊施設ページでは『全国で唯一３年連続の受賞』『全国1位』とあるが、これは宿の自称で2023・2024年は未確認。",
+  "sources": [
+   {
+    "title": "楽天トラベル アワード 2025 受賞宿泊施設発表",
+    "url": "https://travel.rakuten.co.jp/award/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "楽天トラベル 大池ホテル 施設情報",
+    "url": "https://travel.rakuten.co.jp/HOTEL/2946/2946.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-41-2b3dce7d",
+  "schema_version": 1,
+  "title": "ふるさとづくり大賞 最優秀賞(内閣総理大臣賞) いきいき唐津株式会社",
+  "claim": "ふるさとづくり大賞（総務省、令和6年度・第42回）で、いきいき唐津株式会社（佐賀県唐津市）が最優秀賞（内閣総理大臣賞）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "ふるさとづくり大賞 最優秀賞(内閣総理大臣賞)",
+   "scope_note": "総務省ふるさとづくり大賞の最高位（最優秀賞・内閣総理大臣賞）。令和6年度は1団体のみ。"
+  },
+  "subject": {
+   "name": "いきいき唐津株式会社",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "41",
+   "municipality": "唐津市",
+   "place_name": "いきいき唐津株式会社（KARAE内）",
+   "address": "佐賀県唐津市京町1783",
+   "lat": 33.447201,
+   "lng": 129.969467,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "living_town"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "令和6年度ふるさとづくり大賞（第42回）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "総務省",
+   "method": "総務省による表彰（受賞者決定の報道発表）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "2010年設立のまちづくり会社。商店街の課題解決のためカフェや映画館を設営し、2019年に商業施設KARAEに22年ぶりの映画館を開館。ホテル、焼物ギャラリー、シェアオフィス、観光ツアーなど多事業を展開し、若手UIターン中心で40名の雇用創出（総務省の受賞者概要による）。",
+  "sources": [
+   {
+    "title": "総務省 報道資料 令和6年度ふるさとづくり大賞受賞者の決定",
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01gyosei09_02000162.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "総務省 令和6年度ふるさとづくり大賞 受賞者一覧",
+    "url": "https://www.soumu.go.jp/main_content/001050109.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "いきいき唐津株式会社 会社概要",
+    "url": "https://ikiiki-karatsu.jp/company/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://ikiiki-karatsu.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-43-c62f1eeb",
+  "schema_version": 1,
+  "title": "ゆるキャラグランプリ2024 総合ゆるキャラランキング 1位 ちくワン(湯の里日奈久振興会)",
+  "claim": "ゆるキャラ®グランプリ2024（ゆるバース製作委員会）の総合ゆるキャラランキングで、湯の里日奈久振興会（熊本県八代市）のご当地キャラ「ちくワン」が1位（46,570PT）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "ゆるキャラグランプリ2024 総合1位",
+   "scope_note": "ゆるキャラ®グランプリ2024の総合ゆるキャラランキング（公式サイトのランキング）。ネット投票のポイント順位。"
+  },
+  "subject": {
+   "name": "湯の里日奈久振興会（キャラクター:ちくワン）",
+   "kind": "organization"
+  },
+  "location": {
+   "pref_code": "43",
+   "municipality": "八代市",
+   "place_name": "日奈久（湯の里日奈久振興会）",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "culture"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "ゆるキャラ®グランプリ2024",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "ゆるバース製作委員会（ゆるキャラグランプリ公式）",
+   "method": "オンライン投票のポイント（PT）合計の順位",
+   "sample_size": null,
+   "population_note": "1位 46,570PT、2位 42,603PT（公式ランキング）。投票者数は非公開のためsample_sizeはnull。"
+  },
+  "detail": "熊本県八代市公認キャラクター「ちくワン」（所属:湯の里日奈久振興会）。46,570PTで総合1位。",
+  "sources": [
+   {
+    "title": "ゆるキャラグランプリ公式 ランキング一覧（2024 総合ゆるキャラランキング）",
+    "url": "https://www.yurugp.jp/yvs/vote/rankings",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "ゆるキャラグランプリ公式 ちくワン 詳細",
+    "url": "https://www.yurugp.jp/yvs/vote/detail/00006472",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
   "id": "jp-01-ef929eb6",
   "schema_version": 1,
   "title": "住み続けたい街ランキング（北海道版）",
