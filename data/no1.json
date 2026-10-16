@@ -1,5 +1,5330 @@
 [
  {
+  "id": "jp-22-0cc5680b",
+  "schema_version": 1,
+  "title": "まぐろ類(海面漁業・大分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、静岡県のまぐろ類（大分類の小計）の海面漁業の漁獲量は全国1位（23,704t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。大分類「まぐろ類」の小計の比較。細分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "静岡県のまぐろ類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "22",
+   "municipality": null,
+   "place_name": "静岡県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、静岡県のまぐろ類（大分類の小計）の漁獲量は23,704t、2位は宮城県の19,257t（比較した都道府県 33件）。全国値は144,948t。秘匿値 4 件は全国合計との差(70)が1位の値より小さく、順位に影響しない。大分類「まぐろ類」の小計の比較。細分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-04-d80f33ca",
+  "schema_version": 1,
+  "title": "みなみまぐろ(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、宮城県のみなみまぐろ（まぐろ類の細分類）の海面漁業の漁獲量は全国1位（1,946t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。まぐろ類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "宮城県のみなみまぐろ(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "04",
+   "municipality": null,
+   "place_name": "宮城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、宮城県のみなみまぐろ（まぐろ類の細分類）の漁獲量は1,946t、2位は静岡県の1,360t（比較した都道府県 8件）。全国値は6,216t。まぐろ類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-45-b9758183",
+  "schema_version": 1,
+  "title": "びんなが(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、宮崎県のびんなが（まぐろ類の細分類）の海面漁業の漁獲量は全国1位（9,083t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。まぐろ類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "宮崎県のびんなが(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "45",
+   "municipality": null,
+   "place_name": "宮崎県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、宮崎県のびんなが（まぐろ類の細分類）の漁獲量は9,083t、2位は高知県の7,378t（比較した都道府県 28件）。全国値は38,194t。秘匿値 3 件は全国合計との差(4)が1位の値より小さく、順位に影響しない。まぐろ類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-22-bcef6715",
+  "schema_version": 1,
+  "title": "きはだ(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、静岡県のきはだ（まぐろ類の細分類）の海面漁業の漁獲量は全国1位（13,780t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。まぐろ類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "静岡県のきはだ(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "22",
+   "municipality": null,
+   "place_name": "静岡県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、静岡県のきはだ（まぐろ類の細分類）の漁獲量は13,780t、2位は宮城県の8,514t（比較した都道府県 29件）。全国値は57,969t。秘匿値 6 件は全国合計との差(14)が1位の値より小さく、順位に影響しない。まぐろ類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-04-242cff75",
+  "schema_version": 1,
+  "title": "かじき類(海面漁業・大分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、宮城県のかじき類（大分類の小計）の海面漁業の漁獲量は全国1位（2,235t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。大分類「かじき類」の小計の比較。細分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "宮城県のかじき類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "04",
+   "municipality": null,
+   "place_name": "宮城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、宮城県のかじき類（大分類の小計）の漁獲量は2,235t、2位は宮崎県の819t（比較した都道府県 32件）。全国値は8,465t。秘匿値 4 件は全国合計との差(255)が1位の値より小さく、順位に影響しない。大分類「かじき類」の小計の比較。細分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-45-71590077",
+  "schema_version": 1,
+  "title": "まかじき(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、宮崎県のまかじき（かじき類の細分類）の海面漁業の漁獲量は全国1位（329t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。かじき類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "宮崎県のまかじき(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "45",
+   "municipality": null,
+   "place_name": "宮崎県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、宮崎県のまかじき（かじき類の細分類）の漁獲量は329t、2位は高知県の131t（比較した都道府県 23件）。全国値は1,000t。秘匿値 8 件は全国合計との差(22)が1位の値より小さく、順位に影響しない。かじき類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-04-4bf52270",
+  "schema_version": 1,
+  "title": "めかじき(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、宮城県のめかじき（かじき類の細分類）の海面漁業の漁獲量は全国1位（1,749t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。かじき類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "宮城県のめかじき(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "04",
+   "municipality": null,
+   "place_name": "宮城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、宮城県のめかじき（かじき類の細分類）の漁獲量は1,749t、2位は岩手県の505t（比較した都道府県 20件）。全国値は5,035t。秘匿値 6 件は全国合計との差(135)が1位の値より小さく、順位に影響しない。かじき類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-47-7d7a0f68",
+  "schema_version": 1,
+  "title": "くろかじき類(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、沖縄県のくろかじき類（かじき類の細分類）の海面漁業の漁獲量は全国1位（321t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。かじき類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "沖縄県のくろかじき類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "47",
+   "municipality": null,
+   "place_name": "沖縄県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、沖縄県のくろかじき類（かじき類の細分類）の漁獲量は321t、2位は宮城県の313t（比較した都道府県 23件）。全国値は1,726t。秘匿値 5 件は全国合計との差(43)が1位の値より小さく、順位に影響しない。かじき類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-22-c30ac35a",
+  "schema_version": 1,
+  "title": "かつお類(海面漁業・大分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、静岡県のかつお類（大分類の小計）の海面漁業の漁獲量は全国1位（60,618t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。大分類「かつお類」の小計の比較。細分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "静岡県のかつお類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "22",
+   "municipality": null,
+   "place_name": "静岡県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、静岡県のかつお類（大分類の小計）の漁獲量は60,618t、2位は宮城県の21,584t（比較した都道府県 36件）。全国値は206,399t。大分類「かつお類」の小計の比較。細分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-39-95eba5f4",
+  "schema_version": 1,
+  "title": "そうだがつお類(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、高知県のそうだがつお類（かつお類の細分類）の海面漁業の漁獲量は全国1位（4,476t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。かつお類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "高知県のそうだがつお類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "39",
+   "municipality": null,
+   "place_name": "高知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、高知県のそうだがつお類（かつお類の細分類）の漁獲量は4,476t、2位は静岡県の3,650t（比較した都道府県 33件）。全国値は14,181t。秘匿値 2 件は全国合計との差(51)が1位の値より小さく、順位に影響しない。かつお類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-63a017ae",
+  "schema_version": 1,
+  "title": "さけ・ます類(海面漁業・大分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のさけ・ます類（大分類の小計）の海面漁業の漁獲量は全国1位（62,183t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。大分類「さけ・ます類」の小計の比較。細分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のさけ・ます類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のさけ・ます類（大分類の小計）の漁獲量は62,183t、2位は青森県の364t（比較した都道府県 14件）。全国値は62,960t。秘匿値 2 件は全国合計との差(1)が1位の値より小さく、順位に影響しない。大分類「さけ・ます類」の小計の比較。細分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-d84475c3",
+  "schema_version": 1,
+  "title": "さけ類(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のさけ類（さけ・ます類の細分類）の海面漁業の漁獲量は全国1位（59,674t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。さけ・ます類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のさけ類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のさけ類（さけ・ます類の細分類）の漁獲量は59,674t、2位は青森県の198t（比較した都道府県 14件）。全国値は60,154t。秘匿値 2 件は全国合計との差(-2)が1位の値より小さく、順位に影響しない。さけ・ます類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-01f97747",
+  "schema_version": 1,
+  "title": "ます類(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のます類（さけ・ます類の細分類）の海面漁業の漁獲量は全国1位（2,510t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。さけ・ます類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のます類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のます類（さけ・ます類の細分類）の漁獲量は2,510t、2位は青森県の166t（比較した都道府県 12件）。全国値は2,806t。秘匿値 2 件は全国合計との差(-1)が1位の値より小さく、順位に影響しない。さけ・ます類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-b72424fb",
+  "schema_version": 1,
+  "title": "にしん(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のにしんの海面漁業の漁獲量は全国1位（18,364t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のにしん(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のにしんの漁獲量は18,364t、2位は青森県の16t（比較した都道府県 10件）。全国値は18,393t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-08-10bdd62e",
+  "schema_version": 1,
+  "title": "いわし類(海面漁業・大分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、茨城県のいわし類（大分類の小計）の海面漁業の漁獲量は全国1位（233,727t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。大分類「いわし類」の小計の比較。細分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "茨城県のいわし類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "08",
+   "municipality": null,
+   "place_name": "茨城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、茨城県のいわし類（大分類の小計）の漁獲量は233,727t、2位は長崎県の107,000t（比較した都道府県 37件）。全国値は944,842t。大分類「いわし類」の小計の比較。細分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-42-7b316bbb",
+  "schema_version": 1,
+  "title": "まあじ(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、長崎県のまあじ（あじ類の細分類）の海面漁業の漁獲量は全国1位（42,567t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。あじ類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "長崎県のまあじ(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "42",
+   "municipality": null,
+   "place_name": "長崎県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、長崎県のまあじ（あじ類の細分類）の漁獲量は42,567t、2位は島根県の11,298t（比較した都道府県 36件）。全国値は92,280t。秘匿値 2 件は全国合計との差(434)が1位の値より小さく、順位に影響しない。あじ類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-45-7e89da74",
+  "schema_version": 1,
+  "title": "むろあじ類(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、宮崎県のむろあじ類（あじ類の細分類）の海面漁業の漁獲量は全国1位（6,461t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。あじ類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "宮崎県のむろあじ類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "45",
+   "municipality": null,
+   "place_name": "宮崎県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、宮崎県のむろあじ類（あじ類の細分類）の漁獲量は6,461t、2位は長崎県の3,438t（比較した都道府県 33件）。全国値は20,010t。秘匿値 2 件は全国合計との差(38)が1位の値より小さく、順位に影響しない。あじ類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-a1a3ef0b",
+  "schema_version": 1,
+  "title": "さんま(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のさんまの海面漁業の漁獲量は全国1位（12,585t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のさんま(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のさんまの漁獲量は12,585t、2位は岩手県の3,180t（比較した都道府県 13件）。全国値は25,753t。秘匿値 4 件は全国合計との差(1,056)が1位の値より小さく、順位に影響しない。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-0d92c221",
+  "schema_version": 1,
+  "title": "ぶり類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のぶり類の海面漁業の漁獲量は全国1位（13,659t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のぶり類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のぶり類の漁獲量は13,659t、2位は長崎県の12,991t（比較した都道府県 39件）。全国値は87,184t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-0c5f2430",
+  "schema_version": 1,
+  "title": "ひらめ・かれい類(海面漁業・大分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のひらめ・かれい類（大分類の小計）の海面漁業の漁獲量は全国1位（19,284t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。大分類「ひらめ・かれい類」の小計の比較。細分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のひらめ・かれい類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のひらめ・かれい類（大分類の小計）の漁獲量は19,284t、2位は鳥取県の2,617t（比較した都道府県 38件）。全国値は38,171t。大分類「ひらめ・かれい類」の小計の比較。細分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-9af00ab1",
+  "schema_version": 1,
+  "title": "ひらめ(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のひらめ（ひらめ・かれい類の細分類）の海面漁業の漁獲量は全国1位（1,051t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。ひらめ・かれい類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のひらめ(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のひらめ（ひらめ・かれい類の細分類）の漁獲量は1,051t、2位は青森県の948t（比較した都道府県 38件）。全国値は6,271t。ひらめ・かれい類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-7b70a165",
+  "schema_version": 1,
+  "title": "かれい類(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のかれい類（ひらめ・かれい類の細分類）の海面漁業の漁獲量は全国1位（18,233t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。ひらめ・かれい類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のかれい類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のかれい類（ひらめ・かれい類の細分類）の漁獲量は18,233t、2位は鳥取県の2,583t（比較した都道府県 38件）。全国値は31,900t。ひらめ・かれい類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-c76889a8",
+  "schema_version": 1,
+  "title": "たら類(海面漁業・大分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のたら類（大分類の小計）の海面漁業の漁獲量は全国1位（155,872t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。大分類「たら類」の小計の比較。細分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のたら類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のたら類（大分類の小計）の漁獲量は155,872t、2位は青森県の8,580t（比較した都道府県 18件）。全国値は177,519t。大分類「たら類」の小計の比較。細分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-3114bdbe",
+  "schema_version": 1,
+  "title": "まだら(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のまだら（たら類の細分類）の海面漁業の漁獲量は全国1位（42,141t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。たら類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のまだら(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のまだら（たら類の細分類）の漁獲量は42,141t、2位は青森県の5,434t（比較した都道府県 16件）。全国値は54,508t。秘匿値 2 件は全国合計との差(49)が1位の値より小さく、順位に影響しない。たら類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-8f5e64a6",
+  "schema_version": 1,
+  "title": "ほっけ(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のほっけの海面漁業の漁獲量は全国1位（31,089t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のほっけ(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のほっけの漁獲量は31,089t、2位は青森県の259t（比較した都道府県 14件）。全国値は31,723t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-cefd7c21",
+  "schema_version": 1,
+  "title": "きちじ(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のきちじの海面漁業の漁獲量は全国1位（602t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のきちじ(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のきちじの漁獲量は602t、2位は岩手県の151t（比較した都道府県 5件）。全国値は930t。秘匿値 2 件は全国合計との差(17)が1位の値より小さく、順位に影響しない。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-6e96b187",
+  "schema_version": 1,
+  "title": "はたはた(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のはたはたの海面漁業の漁獲量は全国1位（160t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のはたはた(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のはたはたの漁獲量は160t、2位は秋田県の111t（比較した都道府県 13件）。全国値は565t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-17-61ab8bc8",
+  "schema_version": 1,
+  "title": "にぎす類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、石川県のにぎす類の海面漁業の漁獲量は全国1位（823t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "石川県のにぎす類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "17",
+   "municipality": null,
+   "place_name": "石川県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、石川県のにぎす類の漁獲量は823t、2位は島根県の334t（比較した都道府県 17件）。全国値は2,137t。秘匿値 5 件は全国合計との差(26)が1位の値より小さく、順位に影響しない。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-12-61ecccc4",
+  "schema_version": 1,
+  "title": "たちうお(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、千葉県のたちうおの海面漁業の漁獲量は全国1位（1,695t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "千葉県のたちうお(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "12",
+   "municipality": null,
+   "place_name": "千葉県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、千葉県のたちうおの漁獲量は1,695t、2位は長崎県の518t（比較した都道府県 39件）。全国値は5,420t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-42-5336d557",
+  "schema_version": 1,
+  "title": "まだい(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、長崎県のまだい（たい類の細分類）の海面漁業の漁獲量は全国1位（1,848t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。たい類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "長崎県のまだい(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "42",
+   "municipality": null,
+   "place_name": "長崎県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、長崎県のまだい（たい類の細分類）の漁獲量は1,848t、2位は兵庫県の1,820t（比較した都道府県 38件）。全国値は14,706t。たい類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-42-bdba3e9d",
+  "schema_version": 1,
+  "title": "ちだい(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、長崎県のちだい（たい類の細分類）の海面漁業の漁獲量は全国1位（349t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。たい類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "長崎県のちだい(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "42",
+   "municipality": null,
+   "place_name": "長崎県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、長崎県のちだい（たい類の細分類）の漁獲量は349t、2位は福岡県の231t（比較した都道府県 36件）。全国値は1,706t。たい類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-42-65ef23ab",
+  "schema_version": 1,
+  "title": "きだい(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、長崎県のきだい（たい類の細分類）の海面漁業の漁獲量は全国1位（1,851t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。たい類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "長崎県のきだい(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "42",
+   "municipality": null,
+   "place_name": "長崎県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、長崎県のきだい（たい類の細分類）の漁獲量は1,851t、2位は島根県の815t（比較した都道府県 28件）。全国値は4,319t。秘匿値 2 件は全国合計との差(22)が1位の値より小さく、順位に影響しない。たい類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-28-6b940ac0",
+  "schema_version": 1,
+  "title": "くろだい(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、兵庫県のくろだい（たい類の細分類）の海面漁業の漁獲量は全国1位（273t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。たい類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "兵庫県のくろだい(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": null,
+   "place_name": "兵庫県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、兵庫県のくろだい（たい類の細分類）の漁獲量は273t、2位は愛知県の232t（比較した都道府県 39件）。全国値は2,106t。たい類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-39-e521f813",
+  "schema_version": 1,
+  "title": "へだい(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、高知県のへだい（たい類の細分類）の海面漁業の漁獲量は全国1位（139t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。たい類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "高知県のへだい(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "39",
+   "municipality": null,
+   "place_name": "高知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、高知県のへだい（たい類の細分類）の漁獲量は139t、2位は三重県の47t（比較した都道府県 24件）。全国値は438t。秘匿値 2 件は全国合計との差(45)が1位の値より小さく、順位に影響しない。たい類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-18-85dc0928",
+  "schema_version": 1,
+  "title": "さわら類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、福井県のさわら類の海面漁業の漁獲量は全国1位（1,429t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "福井県のさわら類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "18",
+   "municipality": null,
+   "place_name": "福井県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、福井県のさわら類の漁獲量は1,429t、2位は京都府の1,266t（比較した都道府県 39件）。全国値は10,730t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-28-14d2dbcd",
+  "schema_version": 1,
+  "title": "いかなご(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、兵庫県のいかなごの海面漁業の漁獲量は全国1位（1,224t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "兵庫県のいかなご(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": null,
+   "place_name": "兵庫県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、兵庫県のいかなごの漁獲量は1,224t、2位は香川県の452t（比較した都道府県 9件）。全国値は2,196t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-ef569afc",
+  "schema_version": 1,
+  "title": "ふぐ類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のふぐ類の海面漁業の漁獲量は全国1位（1,434t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のふぐ類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のふぐ類の漁獲量は1,434t、2位は石川県の633t（比較した都道府県 38件）。全国値は4,856t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-23-f63e3dea",
+  "schema_version": 1,
+  "title": "くるまえび(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、愛知県のくるまえびの海面漁業の漁獲量は全国1位（72t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "愛知県のくるまえび(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "23",
+   "municipality": null,
+   "place_name": "愛知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、愛知県のくるまえびの漁獲量は72t、2位は愛媛県の28t（比較した都道府県 33件）。全国値は202t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-32-1438d793",
+  "schema_version": 1,
+  "title": "べにずわいがに(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、島根県のべにずわいがにの海面漁業の漁獲量は全国1位（2,509t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "島根県のべにずわいがに(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "32",
+   "municipality": null,
+   "place_name": "島根県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、島根県のべにずわいがにの漁獲量は2,509t、2位は鳥取県の2,190t（比較した都道府県 12件）。全国値は13,371t。秘匿値 2 件は全国合計との差(1,548)が1位の値より小さく、順位に影響しない。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-23-be3db260",
+  "schema_version": 1,
+  "title": "がざみ類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、愛知県のがざみ類の海面漁業の漁獲量は全国1位（383t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "愛知県のがざみ類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "23",
+   "municipality": null,
+   "place_name": "愛知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、愛知県のがざみ類の漁獲量は383t、2位は宮城県の329t（比較した都道府県 37件）。全国値は1,486t。秘匿値 2 件は全国合計との差(2)が1位の値より小さく、順位に影響しない。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-03-9638f67b",
+  "schema_version": 1,
+  "title": "おきあみ類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、岩手県のおきあみ類の海面漁業の漁獲量は全国1位（6,497t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "岩手県のおきあみ類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "03",
+   "municipality": null,
+   "place_name": "岩手県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、岩手県のおきあみ類の漁獲量は6,497t、2位は宮城県の5,481t（比較した都道府県 3件）。全国値は11,978t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-03-9d0e91ea",
+  "schema_version": 1,
+  "title": "あわび類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、岩手県のあわび類の海面漁業の漁獲量は全国1位（135t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "岩手県のあわび類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "03",
+   "municipality": null,
+   "place_name": "岩手県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、岩手県のあわび類の漁獲量は135t、2位は北海道の85t（比較した都道府県 38件）。全国値は678t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-23-ec0b03c7",
+  "schema_version": 1,
+  "title": "あさり類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、愛知県のあさり類の海面漁業の漁獲量は全国1位（2,896t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "愛知県のあさり類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "23",
+   "municipality": null,
+   "place_name": "愛知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、愛知県のあさり類の漁獲量は2,896t、2位は北海道の1,469t（比較した都道府県 25件）。全国値は5,514t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-02-f0b0c02a",
+  "schema_version": 1,
+  "title": "するめいか(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、青森県のするめいかの海面漁業の漁獲量は全国1位（5,370t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "青森県のするめいか(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "02",
+   "municipality": null,
+   "place_name": "青森県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、青森県のするめいかの漁獲量は5,370t、2位は北海道の5,012t（比較した都道府県 34件）。全国値は21,248t。秘匿値 2 件は全国合計との差(49)が1位の値より小さく、順位に影響しない。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-02-cf3a0020",
+  "schema_version": 1,
+  "title": "あかいか(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、青森県のあかいかの海面漁業の漁獲量は全国1位（2,761t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "青森県のあかいか(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "02",
+   "municipality": null,
+   "place_name": "青森県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、青森県のあかいかの漁獲量は2,761t、2位は北海道の269t（比較した都道府県 9件）。全国値は3,585t。秘匿値 2 件は全国合計との差(194)が1位の値より小さく、順位に影響しない。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-1b7740e7",
+  "schema_version": 1,
+  "title": "たこ類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のたこ類の海面漁業の漁獲量は全国1位（14,074t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のたこ類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のたこ類の漁獲量は14,074t、2位は岩手県の1,394t（比較した都道府県 39件）。全国値は22,848t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-b73e3e0b",
+  "schema_version": 1,
+  "title": "なまこ類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のなまこ類の海面漁業の漁獲量は全国1位（1,690t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のなまこ類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のなまこ類の漁獲量は1,690t、2位は青森県の716t（比較した都道府県 38件）。全国値は5,777t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-20962ab4",
+  "schema_version": 1,
+  "title": "うに類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のうに類の海面漁業の漁獲量は全国1位（4,091t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のうに類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のうに類の漁獲量は4,091t、2位は岩手県の1,289t（比較した都道府県 30件）。全国値は7,204t。秘匿値 2 件は全国合計との差(140)が1位の値より小さく、順位に影響しない。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-3dba9e73",
+  "schema_version": 1,
+  "title": "こんぶ類(海面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のこんぶ類の海面漁業の漁獲量は全国1位（42,536t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のこんぶ類(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043248)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（統計表ID 0004043248、令和5年）で、北海道のこんぶ類の漁獲量は42,536t、2位は青森県の2,035t（比較した都道府県 3件）。全国値は44,840t。 使用した統計表: ID 0004043248。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043248：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043248",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-19a13dff",
+  "schema_version": 1,
+  "title": "しろざけ（さけ類）(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のしろざけ（さけ類）（さけ・ます類の細分類）の海面漁業の漁獲量は全国1位（59,601t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。さけ・ます類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のしろざけ（さけ類）(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043249)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）（統計表ID 0004043249、令和5年）で、北海道のしろざけ（さけ類）（さけ・ます類の細分類）の漁獲量は59,601t、2位は青森県の197t（比較した都道府県 14件）。全国値は60,077t。秘匿値 2 件は全国合計との差(0)が1位の値より小さく、順位に影響しない。さけ・ます類の細分類の比較。大分類の1位とは別の指標。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118030、0002066893、0002018312）。 使用した統計表: ID 0004043249。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043249：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043249",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118030：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118030",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066893：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066893",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018312：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018312",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-04c79a38",
+  "schema_version": 1,
+  "title": "ぎんざけ（さけ類）(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のぎんざけ（さけ類）（さけ・ます類の細分類）の海面漁業の漁獲量は全国1位（5t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。さけ・ます類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のぎんざけ（さけ類）(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 3
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043249)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）（統計表ID 0004043249、令和5年）で、北海道のぎんざけ（さけ類）（さけ・ます類の細分類）の漁獲量は5t、2位は宮城県の2t（比較した都道府県 4件）。全国値は8t。秘匿値 2 件は全国合計との差(-1)が1位の値より小さく、順位に影響しない。さけ・ます類の細分類の比較。大分類の1位とは別の指標。令和3年から令和5年まで3年連続で同県が1位（過去年の統計表ID: 0002118030、0002066893）。 使用した統計表: ID 0004043249。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043249：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043249",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118030：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118030",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066893：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066893",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-02a60147",
+  "schema_version": 1,
+  "title": "ますのすけ（さけ類）(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のますのすけ（さけ類）（さけ・ます類の細分類）の海面漁業の漁獲量は全国1位（56t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。さけ・ます類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のますのすけ（さけ類）(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043249)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）（統計表ID 0004043249、令和5年）で、北海道のますのすけ（さけ類）（さけ・ます類の細分類）の漁獲量は56t、2位は青森県の1t（比較した都道府県 4件）。全国値は58t。秘匿値 2 件は全国合計との差(0)が1位の値より小さく、順位に影響しない。さけ・ます類の細分類の比較。大分類の1位とは別の指標。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118030、0002066893、0002018312）。 使用した統計表: ID 0004043249。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043249：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043249",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118030：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118030",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066893：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066893",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018312：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018312",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-ed67b2c3",
+  "schema_version": 1,
+  "title": "からふとます（ます類）(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のからふとます（ます類）（さけ・ます類の細分類）の海面漁業の漁獲量は全国1位（948t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。さけ・ます類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のからふとます（ます類）(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043249)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）（統計表ID 0004043249、令和5年）で、北海道のからふとます（ます類）（さけ・ます類の細分類）の漁獲量は948t、2位は青森県の1t（比較した都道府県 4件）。全国値は949t。秘匿値 2 件は全国合計との差(0)が1位の値より小さく、順位に影響しない。さけ・ます類の細分類の比較。大分類の1位とは別の指標。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118030、0002066893、0002018312）。 使用した統計表: ID 0004043249。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043249：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043249",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118030：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118030",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066893：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066893",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018312：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018312",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-e89dff44",
+  "schema_version": 1,
+  "title": "さくらます（ます類）(海面漁業・細分類)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のさくらます（ます類）（さけ・ます類の細分類）の海面漁業の漁獲量は全国1位（1,561t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。さけ・ます類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "北海道のさくらます（ます類）(海面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043249)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）（統計表ID 0004043249、令和5年）で、北海道のさくらます（ます類）（さけ・ます類の細分類）の漁獲量は1,561t、2位は青森県の166t（比較した都道府県 12件）。全国値は1,857t。秘匿値 2 件は全国合計との差(-1)が1位の値より小さく、順位に影響しない。さけ・ます類の細分類の比較。大分類の1位とは別の指標。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118030、0002066893、0002018312）。 使用した統計表: ID 0004043249。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043249：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043249",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118030：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118030",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066893：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066893",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018312：海面漁業の部 大海区都道府県振興局別統計 魚種別漁獲量（さけ・ます類細分類）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018312",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-65fb02fa",
+  "schema_version": 1,
+  "title": "ぶり類(海面養殖業・大分類)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、鹿児島県のぶり類（大分類の小計）の海面養殖業の収獲量は全国1位（40,588t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。大分類「ぶり類」の小計の比較。細分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "鹿児島県のぶり類(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、鹿児島県のぶり類（大分類の小計）の収獲量は40,588t、2位は愛媛県の16,733t（比較した都道府県 15件）。全国値は123,502t。秘匿値 3 件は全国合計との差(568)が1位の値より小さく、順位に影響しない。大分類「ぶり類」の小計の比較。細分類の1位とは別の指標。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118107、0002066971、0002018390）。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118107：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118107",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066971：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066971",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018390：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018390",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-69e583d9",
+  "schema_version": 1,
+  "title": "ぶり(海面養殖業・細分類)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、鹿児島県のぶり（ぶり類の細分類）の海面養殖業の収獲量は全国1位（23,977t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。ぶり類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "鹿児島県のぶり(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、鹿児島県のぶり（ぶり類の細分類）の収獲量は23,977t、2位は愛媛県の13,855t（比較した都道府県 14件）。全国値は94,646t。秘匿値 4 件は全国合計との差(565)が1位の値より小さく、順位に影響しない。ぶり類の細分類の比較。大分類の1位とは別の指標。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118107、0002066971、0002018390）。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118107：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118107",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066971：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066971",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018390：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018390",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-1f150f51",
+  "schema_version": 1,
+  "title": "かんぱち(海面養殖業・細分類)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、鹿児島県のかんぱち（ぶり類の細分類）の海面養殖業の収獲量は全国1位（14,803t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。ぶり類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "鹿児島県のかんぱち(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、鹿児島県のかんぱち（ぶり類の細分類）の収獲量は14,803t、2位は愛媛県の2,389t（比較した都道府県 8件）。全国値は24,658t。秘匿値 3 件は全国合計との差(1,962)が1位の値より小さく、順位に影響しない。ぶり類の細分類の比較。大分類の1位とは別の指標。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118107、0002066971、0002018390）。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118107：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118107",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066971：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066971",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018390：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018390",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-38-49fd29ac",
+  "schema_version": 1,
+  "title": "しまあじ(海面養殖業)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、愛媛県のしまあじの海面養殖業の収獲量は全国1位（2,524t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "愛媛県のしまあじ(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "38",
+   "municipality": null,
+   "place_name": "愛媛県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、愛媛県のしまあじの収獲量は2,524t、2位は熊本県の736t（比較した都道府県 10件）。全国値は4,710t。秘匿値 4 件は全国合計との差(166)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118107、0002066971、0002018390）。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118107：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118107",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066971：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066971",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018390：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018390",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-38-e0408eb8",
+  "schema_version": 1,
+  "title": "まだい(海面養殖業)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、愛媛県のまだいの海面養殖業の収獲量は全国1位（37,893t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "愛媛県のまだい(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "38",
+   "municipality": null,
+   "place_name": "愛媛県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、愛媛県のまだいの収獲量は37,893t、2位は熊本県の9,386t（比較した都道府県 16件）。全国値は67,257t。秘匿値 7 件は全国合計との差(208)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118107、0002066971、0002018390）。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118107：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118107",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066971：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066971",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018390：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018390",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-44-505e48b9",
+  "schema_version": 1,
+  "title": "ひらめ(海面養殖業)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、大分県のひらめの海面養殖業の収獲量は全国1位（467t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "大分県のひらめ(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "44",
+   "municipality": null,
+   "place_name": "大分県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、大分県のひらめの収獲量は467t、2位は鹿児島県の278t（比較した都道府県 8件）。全国値は1,722t。秘匿値 10 件は全国合計との差(405)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118107、0002066971、0002018390）。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118107：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118107",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066971：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066971",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018390：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018390",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-47-a9e5c37e",
+  "schema_version": 1,
+  "title": "くるまえび(海面養殖業)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、沖縄県のくるまえびの海面養殖業の収獲量は全国1位（469t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "沖縄県のくるまえび(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "47",
+   "municipality": null,
+   "place_name": "沖縄県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、沖縄県のくるまえびの収獲量は469t、2位は鹿児島県の267t（比較した都道府県 4件）。全国値は1,332t。秘匿値 13 件は全国合計との差(271)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118107、0002066971、0002018390）。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118107：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118107",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066971：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066971",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018390：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018390",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-04-216abec2",
+  "schema_version": 1,
+  "title": "ほや類(海面養殖業)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、宮城県のほや類の海面養殖業の収獲量は全国1位（4,850t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "宮城県のほや類(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "04",
+   "municipality": null,
+   "place_name": "宮城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、宮城県のほや類の収獲量は4,850t、2位は岩手県の1,372t（比較した都道府県 4件）。全国値は7,129t。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118107、0002066971、0002018390）。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118107：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118107",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066971：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066971",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018390：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018390",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-04-108f5eeb",
+  "schema_version": 1,
+  "title": "わかめ類(海面養殖業)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、宮城県のわかめ類の海面養殖業の収獲量は全国1位（25,525t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "宮城県のわかめ類(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "04",
+   "municipality": null,
+   "place_name": "宮城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、宮城県のわかめ類の収獲量は25,525t、2位は岩手県の13,410t（比較した都道府県 25件）。全国値は49,588t。秘匿値 8 件は全国合計との差(973)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118107、0002066971、0002018390）。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118107：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118107",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066971：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066971",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018390：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018390",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-28-5b1f97b7",
+  "schema_version": 1,
+  "title": "のり類(海面養殖業・大分類)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、兵庫県ののり類（大分類の小計）の海面養殖業の収獲量は全国1位（49,836t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。大分類「のり類」の小計の比較。細分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "兵庫県ののり類(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": null,
+   "place_name": "兵庫県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、兵庫県ののり類（大分類の小計）の収獲量は49,836t、2位は佐賀県の37,034t（比較した都道府県 19件）。全国値は201,011t。秘匿値 4 件は全国合計との差(1,323)が1位の値より小さく、順位に影響しない。大分類「のり類」の小計の比較。細分類の1位とは別の指標。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-28-46ec2f2b",
+  "schema_version": 1,
+  "title": "くろのり（板のり）(海面養殖業・細分類)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、兵庫県のくろのり（板のり）（のり類の細分類）の海面養殖業の収獲量は全国1位（49,836t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。のり類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "兵庫県のくろのり（板のり）(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": null,
+   "place_name": "兵庫県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、兵庫県のくろのり（板のり）（のり類の細分類）の収獲量は49,836t、2位は佐賀県の37,032t（比較した都道府県 19件）。全国値は191,546t。のり類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-23-8c03c584",
+  "schema_version": 1,
+  "title": "あおのり（板のり）(海面養殖業・細分類)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、愛知県のあおのり（板のり）（のり類の細分類）の海面養殖業の収獲量は全国1位（417t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。のり類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "愛知県のあおのり（板のり）(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "23",
+   "municipality": null,
+   "place_name": "愛知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、愛知県のあおのり（板のり）（のり類の細分類）の収獲量は417t、2位は静岡県の98t（比較した都道府県 2件）。全国値は515t。のり類の細分類の比較。大分類の1位とは別の指標。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-47-dfed1ad7",
+  "schema_version": 1,
+  "title": "もずく類(海面養殖業・細分類)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、沖縄県のもずく類（のり類の細分類）の海面養殖業の収獲量は全国1位（20,084t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）。のり類の細分類の比較。大分類の1位とは別の指標"
+  },
+  "subject": {
+   "name": "沖縄県のもずく類(海面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "47",
+   "municipality": null,
+   "place_name": "沖縄県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 2
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043326)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)（統計表ID 0004043326、令和5年）で、沖縄県のもずく類（のり類の細分類）の収獲量は20,084t、2位は鹿児島県の82t（比較した都道府県 2件）。全国値は20,174t。秘匿値 2 件は全国合計との差(8)が1位の値より小さく、順位に影響しない。のり類の細分類の比較。大分類の1位とは別の指標。令和4年から令和5年まで2年連続で同県が1位（過去年の統計表ID: 0002118107）。 使用した統計表: ID 0004043326。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043326：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043326",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118107：海面養殖業の部 都道府県別統計 養殖魚種別収獲量(種苗養殖を除く｡)",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118107",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-2be2f5fb",
+  "schema_version": 1,
+  "title": "さくらます(内水面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、北海道のさくらますの内水面漁業の漁獲量は全国1位（10t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "北海道のさくらます(内水面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043331)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量（統計表ID 0004043331、令和5年）で、北海道のさくらますの漁獲量は10t、2位は岩手県の1t（比較した都道府県 15件）。全国値は14t。秘匿値 2 件は全国合計との差(0)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118112、0002066977、0002018395）。 使用した統計表: ID 0004043331。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043331：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043331",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118112：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118112",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066977：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066977",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018395：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018395",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-02-8b8545b1",
+  "schema_version": 1,
+  "title": "わかさぎ(内水面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、青森県のわかさぎの内水面漁業の漁獲量は全国1位（268t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "青森県のわかさぎ(内水面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "02",
+   "municipality": null,
+   "place_name": "青森県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 2
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043331)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量（統計表ID 0004043331、令和5年）で、青森県のわかさぎの漁獲量は268t、2位は秋田県の120t（比較した都道府県 13件）。全国値は585t。秘匿値 2 件は全国合計との差(97)が1位の値より小さく、順位に影響しない。令和4年から令和5年まで2年連続で同県が1位（過去年の統計表ID: 0002118112）。 使用した統計表: ID 0004043331。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043331：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043331",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118112：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118112",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-02-4e6f5916",
+  "schema_version": 1,
+  "title": "しらうお(内水面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、青森県のしらうおの内水面漁業の漁獲量は全国1位（144t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "青森県のしらうお(内水面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "02",
+   "municipality": null,
+   "place_name": "青森県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043331)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量（統計表ID 0004043331、令和5年）で、青森県のしらうおの漁獲量は144t、2位は茨城県の38t（比較した都道府県 5件）。全国値は200t。秘匿値 2 件は全国合計との差(-2)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118112、0002066977、0002018395）。 使用した統計表: ID 0004043331。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043331：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043331",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118112：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118112",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066977：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066977",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018395：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018395",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-02-44f1366b",
+  "schema_version": 1,
+  "title": "こい(内水面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、青森県のこいの内水面漁業の漁獲量は全国1位（42t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "青森県のこい(内水面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "02",
+   "municipality": null,
+   "place_name": "青森県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043331)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量（統計表ID 0004043331、令和5年）で、青森県のこいの漁獲量は42t、2位は新潟県の23t（比較した都道府県 26件）。全国値は99t。秘匿値 2 件は全国合計との差(7)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118112、0002066977、0002018395）。 使用した統計表: ID 0004043331。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043331：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043331",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118112：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118112",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066977：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066977",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018395：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018395",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-33-422ccf62",
+  "schema_version": 1,
+  "title": "ふな(内水面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、岡山県のふなの内水面漁業の漁獲量は全国1位（126t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "岡山県のふな(内水面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "33",
+   "municipality": null,
+   "place_name": "岡山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043331)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量（統計表ID 0004043331、令和5年）で、岡山県のふなの漁獲量は126t、2位は新潟県の50t（比較した都道府県 27件）。全国値は284t。秘匿値 2 件は全国合計との差(57)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118112、0002066977、0002018395）。 使用した統計表: ID 0004043331。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043331：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043331",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118112：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118112",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066977：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066977",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018395：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018395",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-02-973720fe",
+  "schema_version": 1,
+  "title": "うぐい・おいかわ(内水面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、青森県のうぐい・おいかわの内水面漁業の漁獲量は全国1位（54t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "青森県のうぐい・おいかわ(内水面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "02",
+   "municipality": null,
+   "place_name": "青森県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043331)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量（統計表ID 0004043331、令和5年）で、青森県のうぐい・おいかわの漁獲量は54t、2位は神奈川県の6t（比較した都道府県 26件）。全国値は82t。秘匿値 2 件は全国合計との差(4)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118112、0002066977、0002018395）。 使用した統計表: ID 0004043331。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043331：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043331",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118112：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118112",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066977：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066977",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018395：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018395",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-08-f4a2e6e0",
+  "schema_version": 1,
+  "title": "うなぎ(内水面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、茨城県のうなぎの内水面漁業の漁獲量は全国1位（13t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "茨城県のうなぎ(内水面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "08",
+   "municipality": null,
+   "place_name": "茨城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043331)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量（統計表ID 0004043331、令和5年）で、茨城県のうなぎの漁獲量は13t、2位は岡山県の8t（比較した都道府県 29件）。全国値は55t。秘匿値 2 件は全国合計との差(6)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118112、0002066977、0002018395）。 使用した統計表: ID 0004043331。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043331：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043331",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118112：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118112",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066977：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066977",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018395：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018395",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-32-762071f2",
+  "schema_version": 1,
+  "title": "しじみ(内水面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、島根県のしじみの内水面漁業の漁獲量は全国1位（4,595t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "島根県のしじみ(内水面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "32",
+   "municipality": null,
+   "place_name": "島根県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043331)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量（統計表ID 0004043331、令和5年）で、島根県のしじみの漁獲量は4,595t、2位は青森県の2,217t（比較した都道府県 18件）。全国値は9,211t。秘匿値 2 件は全国合計との差(36)が1位の値より小さく、順位に影響しない。令和2年から令和5年まで4年連続で同県が1位（過去年の統計表ID: 0002118112、0002066977、0002018395）。 使用した統計表: ID 0004043331。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043331：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043331",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002118112：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002118112",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002066977：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002066977",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0002018395：内水面漁業・養殖業の部 内水面漁業漁獲量 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0002018395",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-08-05fb41f4",
+  "schema_version": 1,
+  "title": "えび類(内水面漁業)（漁獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、茨城県のえび類の内水面漁業の漁獲量は全国1位（80t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "茨城県のえび類(内水面漁業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "08",
+   "municipality": null,
+   "place_name": "茨城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043331)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量（統計表ID 0004043331、令和5年）で、茨城県のえび類の漁獲量は80t、2位は北海道の11t（比較した都道府県 19件）。全国値は158t。秘匿値 2 件は全国合計との差(50)が1位の値より小さく、順位に影響しない。 使用した統計表: ID 0004043331。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043331：内水面漁業・養殖業の部 内水面漁業漁獲量（全国・都道府県別） 都道府県別･魚種別漁獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043331",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-4139bcf0",
+  "schema_version": 1,
+  "title": "うなぎ(内水面養殖業)（収獲量）",
+  "claim": "農林水産省「漁業・養殖業生産統計」（海面漁業生産統計調査、令和5年）によると、鹿児島県のうなぎの内水面養殖業の収獲量は全国1位（7,852t）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の値の比較（e-Stat の統計表から算出）"
+  },
+  "subject": {
+   "name": "鹿児島県のうなぎ(内水面養殖業)",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "令和5年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004043334)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "内水面漁業・養殖業の部 内水面養殖業収獲量（全国・都道府県別） 都道府県別･魚種別収獲量（統計表ID 0004043334、令和5年）で、鹿児島県のうなぎの収獲量は7,852t、2位は愛知県の3,810t（比較した都道府県 13件）。全国値は18,341t。秘匿値 17 件は全国合計との差(174)が1位の値より小さく、順位に影響しない。 使用した統計表: ID 0004043334。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004043334：内水面漁業・養殖業の部 内水面養殖業収獲量（全国・都道府県別） 都道府県別･魚種別収獲量",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004043334",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-13-af4f2391",
   "schema_version": 1,
   "title": "東京都区部の「食料」支出金額 家計調査 全国1位（2025年）",
