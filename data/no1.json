@@ -10050,6 +10050,71 @@
   }
  },
  {
+  "id": "jp-01-1510e60d",
+  "schema_version": 1,
+  "title": "秋冬ねぎの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、北海道の秋冬ねぎは10a当たり収量が、表に掲載された都道府県の中で最も多い（3,250kg、掲載38県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある38都道府県）の中での順位で、調査対象外の県（表で「…」）が9あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "北海道の秋冬ねぎ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045969)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の秋冬ねぎの10a当たり収量は、北海道が3,250kg、2位の埼玉県が2,370kg（比較対象38都道府県）。北海道の作付面積は237ha（全国13,200ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045969。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045969：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ねぎ 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045969",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-01-1df51d66",
   "schema_version": 1,
   "title": "夏だいこんの出荷量",
@@ -10505,6 +10570,71 @@
   }
  },
  {
+  "id": "jp-01-2fdffedf",
+  "schema_version": 1,
+  "title": "たまねぎの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、北海道のたまねぎは10a当たり収量が、表に掲載された都道府県の中で最も多い（5,120kg、掲載25県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある25都道府県）の中での順位で、調査対象外の県（表で「…」）が22あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "北海道のたまねぎ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045971)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のたまねぎの10a当たり収量は、北海道が5,120kg、2位の愛知県が4,860kg（比較対象25都道府県）。北海道の作付面積は14,700ha（全国25,000ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045971。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045971：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 たまねぎ",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045971",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-01-309f0400",
   "schema_version": 1,
   "title": "ばれいしょの出荷量",
@@ -10765,6 +10895,136 @@
   }
  },
  {
+  "id": "jp-01-35b1e214",
+  "schema_version": 1,
+  "title": "小豆の10a当たり収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、北海道の小豆は10a当たり収量が最も多い（218kg、全国1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の10a当たり収量の比較（値のある45都道府県）"
+  },
+  "subject": {
+   "name": "北海道の小豆",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046421)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の小豆の10a当たり収量は、北海道が218kg、2位の秋田県が97kg（比較対象45都道府県）。北海道の作付面積は20,800ha（全国24,000ha）。 使用した統計表: ID 0004046421。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046421：統計表（令和６年産）（2025年６月27日公表） 豆類・そば 令和６年産豆類（乾燥子実）及びそば（乾燥子実）の収穫量（全国農業地域別・都道府県別) 小豆、いんげん、らっかせい",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046421",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-3f775ba3",
+  "schema_version": 1,
+  "title": "ねぎの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、北海道のねぎは10a当たり収量が、表に掲載された都道府県の中で最も多い（3,260kg、掲載39県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある39都道府県）の中での順位で、調査対象外の県（表で「…」）が8あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "北海道のねぎ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045969)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のねぎの10a当たり収量は、北海道が3,260kg、2位の茨城県が2,470kg（比較対象39都道府県）。北海道の作付面積は607ha（全国21,200ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045969。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045969：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ねぎ 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045969",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-01-547ab075",
   "schema_version": 1,
   "title": "スイートコーンの出荷量",
@@ -10895,6 +11155,136 @@
   }
  },
  {
+  "id": "jp-01-5c65e06c",
+  "schema_version": 1,
+  "title": "すいかの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、北海道のすいかは10a当たり収量が、表に掲載された都道府県の中で最も多い（5,610kg、掲載25県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある25都道府県）の中での順位で、調査対象外の県（表で「…」）が22あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "北海道のすいか",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045987)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のすいかの10a当たり収量は、北海道が5,610kg、2位の長野県が5,370kg（比較対象25都道府県）。北海道の作付面積は329ha（全国8,600ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045987。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045987：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 すいか",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045987",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-664d2655",
+  "schema_version": 1,
+  "title": "青刈りとうもろこしの10a当たり収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、北海道の青刈りとうもろこしは10a当たり収量が、表に掲載された都道府県の中で最も多い（5,560kg、掲載8県中1位）。北海道の作付面積は60,400ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある8都道府県）の中での順位で、調査対象外の県（表で「…」）が38あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が8と少ない）"
+  },
+  "subject": {
+   "name": "北海道の青刈りとうもろこし",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046426)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の青刈りとうもろこしの10a当たり収量は、北海道が5,560kg、2位の栃木県が5,130kg（比較対象8都道府県）。北海道の作付面積は60,400ha（全国96,500ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046426。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046426：統計表（令和６年産）（2025年８月29日公表） 飼料作物 令和６年産工芸農作物の収穫量 牧草、青刈りとうもろこし、ソルゴー",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046426",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-01-6f3be629",
   "schema_version": 1,
   "title": "えだまめの収穫量",
@@ -10960,6 +11350,71 @@
   }
  },
  {
+  "id": "jp-01-726ba4ad",
+  "schema_version": 1,
+  "title": "夏ねぎの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、北海道の夏ねぎは10a当たり収量が、表に掲載された都道府県の中で最も多い（3,230kg、掲載27県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある27都道府県）の中での順位で、調査対象外の県（表で「…」）が20あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "北海道の夏ねぎ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045969)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の夏ねぎの10a当たり収量は、北海道が3,230kg、2位の長野県が2,760kg（比較対象27都道府県）。北海道の作付面積は341ha（全国4,720ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045969。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045969：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ねぎ 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045969",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-01-7588909d",
   "schema_version": 1,
   "title": "小麦の作付面積",
@@ -11007,6 +11462,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046418：統計表（令和６年産）（2025年３月28日公表） 麦類 令和６年産麦類（子実用）の収穫量（全国農業地域別・都道府県別） 小麦、二条大麦、六条大麦、はだか麦",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004046418",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-76ba1dad",
+  "schema_version": 1,
+  "title": "秋にんじんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、北海道の秋にんじんは10a当たり収量が、表に掲載された都道府県の中で最も多い（4,130kg、掲載3県中1位）。北海道の作付面積は4,180ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある3都道府県）の中での順位で、調査対象外の県（表で「…」）が44あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が3と少ない）"
+  },
+  "subject": {
+   "name": "北海道の秋にんじん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045949)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の秋にんじんの10a当たり収量は、北海道が4,130kg、2位の青森県が3,190kg（比較対象3都道府県）。北海道の作付面積は4,180ha（全国5,060ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045949。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045949：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 にんじん 計、春夏、秋、冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045949",
     "accessed": "2026-10-16"
    }
   ],
@@ -11267,6 +11787,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045949：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 にんじん 計、春夏、秋、冬",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045949",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-92557ff6",
+  "schema_version": 1,
+  "title": "ごぼうの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、北海道のごぼうは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,260kg、掲載8県中1位）。北海道の作付面積は441ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある8都道府県）の中での順位で、調査対象外の県（表で「…」）が39あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が8と少ない）"
+  },
+  "subject": {
+   "name": "北海道のごぼう",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045950)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のごぼうの10a当たり収量は、北海道が2,260kg、2位の青森県が2,030kg（比較対象8都道府県）。北海道の作付面積は441ha（全国6,700ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045950。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045950：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ごぼう",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045950",
     "accessed": "2026-10-16"
    }
   ],
@@ -11805,6 +12390,71 @@
   }
  },
  {
+  "id": "jp-01-adaac8e6",
+  "schema_version": 1,
+  "title": "夏秋きゅうりの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、北海道の夏秋きゅうりは10a当たり収量が、表に掲載された都道府県の中で最も多い（12,700kg、掲載38県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある38都道府県）の中での順位で、調査対象外の県（表で「…」）が9あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "北海道の夏秋きゅうり",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045973)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の夏秋きゅうりの10a当たり収量は、北海道が12,700kg、2位の佐賀県が6,900kg（比較対象38都道府県）。北海道の作付面積は108ha（全国6,720ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045973。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045973：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 きゅうり 計、冬春、夏秋",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045973",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-01-b29bf2e6",
   "schema_version": 1,
   "title": "なたねの収穫量",
@@ -12260,6 +12910,71 @@
   }
  },
  {
+  "id": "jp-01-d60eb8ae",
+  "schema_version": 1,
+  "title": "小麦の10a当たり収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、北海道の小麦は10a当たり収量が最も多い（541kg、全国1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の10a当たり収量の比較（値のある47都道府県）"
+  },
+  "subject": {
+   "name": "北海道の小麦",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046418)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の小麦の10a当たり収量は、北海道が541kg、2位の愛知県が473kg（比較対象47都道府県）。北海道の作付面積は132,000ha（全国231,800ha）。 使用した統計表: ID 0004046418。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046418：統計表（令和６年産）（2025年３月28日公表） 麦類 令和６年産麦類（子実用）の収穫量（全国農業地域別・都道府県別） 小麦、二条大麦、六条大麦、はだか麦",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046418",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-01-d89d5dc0",
   "schema_version": 1,
   "title": "にんじんの収穫量",
@@ -12325,6 +13040,71 @@
   }
  },
  {
+  "id": "jp-01-d8cf2eae",
+  "schema_version": 1,
+  "title": "ばれいしょの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、北海道のばれいしょは10a当たり収量が、表に掲載された都道府県の中で最も多い（3,840kg、掲載16県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある16都道府県）の中での順位で、調査対象外の県（表で「…」）が31あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "北海道のばれいしょ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045952)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のばれいしょの10a当たり収量は、北海道が3,840kg、2位の茨城県が3,050kg（比較対象16都道府県）。北海道の作付面積は48,700ha（全国70,900ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045952。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045952：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ばれいしょ 計、春植え、秋植え",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045952",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-01-d8deb00b",
   "schema_version": 1,
   "title": "ばれいしょの作付面積",
@@ -12372,6 +13152,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045952：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ばれいしょ 計、春植え、秋植え",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045952",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-e05e3337",
+  "schema_version": 1,
+  "title": "いんげんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、北海道のいんげんは10a当たり収量が最も多い（102kg、全国1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の10a当たり収量の比較（値のある25都道府県）"
+  },
+  "subject": {
+   "name": "北海道のいんげん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046421)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のいんげんの10a当たり収量は、北海道が102kg、2位の秋田県が100kg（比較対象25都道府県）。北海道の作付面積は5,270ha（全国5,650ha）。 使用した統計表: ID 0004046421。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046421：統計表（令和６年産）（2025年６月27日公表） 豆類・そば 令和６年産豆類（乾燥子実）及びそば（乾燥子実）の収穫量（全国農業地域別・都道府県別) 小豆、いんげん、らっかせい",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046421",
     "accessed": "2026-10-16"
    }
   ],
@@ -12502,6 +13347,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045974：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 かぼちゃ",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045974",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-f7c5bd05",
+  "schema_version": 1,
+  "title": "冬キャベツの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、北海道の冬キャベツは10a当たり収量が、表に掲載された都道府県の中で最も多い（5,420kg、掲載28県中1位）。北海道の作付面積は138ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある28都道府県）の中での順位で、調査対象外の県（表で「…」）が19あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（北海道の作付面積は138haで全国（14,500ha）の1.0%）"
+  },
+  "subject": {
+   "name": "北海道の冬キャベツ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045957)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の冬キャベツの10a当たり収量は、北海道が5,420kg、2位の徳島県が4,560kg（比較対象28都道府県）。北海道の作付面積は138ha（全国14,500ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045957。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045957：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 キャベツ 計、春、夏秋、冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045957",
     "accessed": "2026-10-16"
    }
   ],
@@ -12762,6 +13672,201 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046679：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 りんご",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004046679",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-02-7735082f",
+  "schema_version": 1,
+  "title": "りんごの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、青森県のりんごは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,940kg、掲載14県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある14都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "青森県のりんご",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "02",
+   "municipality": null,
+   "place_name": "青森県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046679)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のりんごの10a当たり収量は、青森県が1,940kg、2位の岐阜県が1,850kg（比較対象14都道府県）。青森県の結果樹面積は19,100ha（全国33,700ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046679。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046679：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 りんご",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046679",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-02-9e6b0372",
+  "schema_version": 1,
+  "title": "にんにくの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、青森県のにんにくは10a当たり収量が、表に掲載された都道府県の中で最も多い（825kg、掲載11県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある11都道府県）の中での順位で、調査対象外の県（表で「…」）が36あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "青森県のにんにく",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "02",
+   "municipality": null,
+   "place_name": "青森県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045972)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のにんにくの10a当たり収量は、青森県が825kg、2位の徳島県が733kg（比較対象11都道府県）。青森県の作付面積は1,420ha（全国2,520ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045972。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045972：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 にんにく",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045972",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-02-aba37512",
+  "schema_version": 1,
+  "title": "水稲の10a当たり収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、青森県の水稲は10a当たり収量が最も多い（623kg、全国1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の10a当たり収量の比較（値のある47都道府県）"
+  },
+  "subject": {
+   "name": "青森県の水稲",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "02",
+   "municipality": null,
+   "place_name": "青森県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046173)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の水稲の10a当たり収量は、青森県が623kg、2位の長野県が620kg（比較対象47都道府県）。青森県の作付面積は42,400ha（全国1,359,000ha）。 使用した統計表: ID 0004046173。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046173：統計表（令和６年産）（2025年２月28日公表） 米 水陸稲の収穫量 水稲（全国農業地域別・都道府県別）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046173",
     "accessed": "2026-10-16"
    }
   ],
@@ -13105,6 +14210,71 @@
   }
  },
  {
+  "id": "jp-06-4e796d60",
+  "schema_version": 1,
+  "title": "すももの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、山形県のすももは10a当たり収量が、表に掲載された都道府県の中で最も多い（929kg、掲載9県中1位）。山形県の結果樹面積は235ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある9都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が9と少ない）"
+  },
+  "subject": {
+   "name": "山形県のすもも",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "06",
+   "municipality": null,
+   "place_name": "山形県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046685)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のすももの10a当たり収量は、山形県が929kg、2位の長野県が902kg（比較対象9都道府県）。山形県の結果樹面積は235ha（全国2,520ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046685。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046685：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 すもも",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046685",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-06-563368e0",
   "schema_version": 1,
   "title": "おうとうの出荷量",
@@ -13300,6 +14470,201 @@
   }
  },
  {
+  "id": "jp-06-8e3edab8",
+  "schema_version": 1,
+  "title": "おうとうの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、山形県のおうとうは10a当たり収量が、表に掲載された都道府県の中で最も多い（317kg、掲載4県中1位）。山形県の結果樹面積は2,710ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある4都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が4と少ない）"
+  },
+  "subject": {
+   "name": "山形県のおうとう",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "06",
+   "municipality": null,
+   "place_name": "山形県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046686)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のおうとうの10a当たり収量は、山形県が317kg、2位の秋田県が301kg（比較対象4都道府県）。山形県の結果樹面積は2,710ha（全国4,110ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046686。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046686：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 おうとう",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046686",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-06-8e54ab82",
+  "schema_version": 1,
+  "title": "西洋なしの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、山形県の西洋なしは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,280kg、掲載5県中1位）。山形県の結果樹面積は780ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある5都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が5と少ない）"
+  },
+  "subject": {
+   "name": "山形県の西洋なし",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "06",
+   "municipality": null,
+   "place_name": "山形県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046681)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の西洋なしの10a当たり収量は、山形県が2,280kg、2位の長野県が1,690kg（比較対象5都道府県）。山形県の結果樹面積は780ha（全国1,310ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046681。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046681：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 西洋なし",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046681",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-07-56afafc9",
+  "schema_version": 1,
+  "title": "冬春トマトの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、福島県の冬春トマトは10a当たり収量が、表に掲載された都道府県の中で最も多い（21,100kg、掲載33県中1位）。福島県の作付面積は30ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある33都道府県）の中での順位で、調査対象外の県（表で「…」）が14あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（福島県の作付面積は30haで全国（3,560ha）の0.8%）"
+  },
+  "subject": {
+   "name": "福島県の冬春トマト",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "07",
+   "municipality": null,
+   "place_name": "福島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045976)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の冬春トマトの10a当たり収量は、福島県が21,100kg、2位の岐阜県が15,900kg（比較対象33都道府県）。福島県の作付面積は30ha（全国3,560ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045976。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045976：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 トマト 計、計_うちミニトマト、冬春、冬春_うちミニトマト、夏秋、夏秋_うちミニトマト",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045976",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-07-5a125c5e",
   "schema_version": 1,
   "title": "夏秋きゅうりの収穫量",
@@ -13347,6 +14712,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045973：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 きゅうり 計、冬春、夏秋",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045973",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-07-5fec379a",
+  "schema_version": 1,
+  "title": "ももの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、福島県のももは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,890kg、掲載11県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある11都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "福島県のもも",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "07",
+   "municipality": null,
+   "place_name": "福島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046684)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のももの10a当たり収量は、福島県が1,890kg、2位の山形県が1,610kg（比較対象11都道府県）。福島県の結果樹面積は1,540ha（全国9,190ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046684。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046684：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 もも",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046684",
     "accessed": "2026-10-16"
    }
   ],
@@ -14860,6 +16290,71 @@
   }
  },
  {
+  "id": "jp-08-673f3fd2",
+  "schema_version": 1,
+  "title": "かんしょの10a当たり収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、茨城県のかんしょは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,550kg、掲載6県中1位）。茨城県の作付面積は7,810ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある6都道府県）の中での順位で、調査対象外の県（表で「…」）が41あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が6と少ない）"
+  },
+  "subject": {
+   "name": "茨城県のかんしょ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "08",
+   "municipality": null,
+   "place_name": "茨城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046424)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のかんしょの10a当たり収量は、茨城県が2,550kg、2位の千葉県が2,450kg（比較対象6都道府県）。茨城県の作付面積は7,810ha（全国31,800ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046424。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046424：統計表（令和６年産）（2025年６月27日公表） かんしょ 令和６年産かんしょの収穫量（全国農業地域別・都道府県別）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046424",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-08-69307835",
   "schema_version": 1,
   "title": "冬レタスの収穫量",
@@ -15297,6 +16792,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045951：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 れんこん",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045951",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-08-8234461a",
+  "schema_version": 1,
+  "title": "メロンの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、茨城県のメロンは10a当たり収量が、表に掲載された都道府県の中で最も多い（3,150kg、掲載13県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある13都道府県）の中での順位で、調査対象外の県（表で「…」）が34あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "茨城県のメロン",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "08",
+   "municipality": null,
+   "place_name": "茨城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045986)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のメロンの10a当たり収量は、茨城県が3,150kg、2位の千葉県が2,700kg（比較対象13都道府県）。茨城県の作付面積は1,170ha（全国5,520ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045986。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045986：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 メロン 計、温室メロン（アールスフェボリット系）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045986",
     "accessed": "2026-10-16"
    }
   ],
@@ -16810,6 +18370,71 @@
   }
  },
  {
+  "id": "jp-09-1737fa1a",
+  "schema_version": 1,
+  "title": "陸稲の10a当たり収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、栃木県の陸稲は10a当たり収量が、表に掲載された都道府県の中で最も多い（270kg、掲載2県中1位）。栃木県の作付面積は73ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある2都道府県）の中での順位で、調査対象外の県（表で「…」）が45あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が2と少ない）"
+  },
+  "subject": {
+   "name": "栃木県の陸稲",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "09",
+   "municipality": null,
+   "place_name": "栃木県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046408)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の陸稲の10a当たり収量は、栃木県が270kg、2位の茨城県が254kg（比較対象2都道府県）。栃木県の作付面積は73ha（全国320ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046408。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046408：統計表（令和６年産）（2025年２月28日公表） 米 水陸稲の収穫量 水陸稲計・陸稲（全国農業地域別・都道府県別）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046408",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-09-1ab5683d",
   "schema_version": 1,
   "title": "二条大麦の収穫量",
@@ -16857,6 +18482,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046418：統計表（令和６年産）（2025年３月28日公表） 麦類 令和６年産麦類（子実用）の収穫量（全国農業地域別・都道府県別） 小麦、二条大麦、六条大麦、はだか麦",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004046418",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-09-27e28778",
+  "schema_version": 1,
+  "title": "いちごの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、栃木県のいちごは10a当たり収量が、表に掲載された都道府県の中で最も多い（5,080kg、掲載24県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある24都道府県）の中での順位で、調査対象外の県（表で「…」）が23あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "栃木県のいちご",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "09",
+   "municipality": null,
+   "place_name": "栃木県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045985)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のいちごの10a当たり収量は、栃木県が5,080kg、2位の愛知県が4,340kg（比較対象24都道府県）。栃木県の作付面積は506ha（全国4,700ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045985。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045985：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 いちご",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045985",
     "accessed": "2026-10-16"
    }
   ],
@@ -17005,6 +18695,201 @@
   }
  },
  {
+  "id": "jp-09-d6556c09",
+  "schema_version": 1,
+  "title": "しゅんぎくの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、栃木県のしゅんぎくは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,320kg、掲載24県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある24都道府県）の中での順位で、調査対象外の県（表で「…」）が23あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "栃木県のしゅんぎく",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "09",
+   "municipality": null,
+   "place_name": "栃木県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045962)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のしゅんぎくの10a当たり収量は、栃木県が2,320kg、2位の愛知県が1,920kg（比較対象24都道府県）。栃木県の作付面積は44ha（全国1,650ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045962。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045962：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 しゅんぎく",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045962",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-10-06450212",
+  "schema_version": 1,
+  "title": "キャベツの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、群馬県のキャベツは10a当たり収量が、表に掲載された都道府県の中で最も多い（6,640kg、掲載36県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある36都道府県）の中での順位で、調査対象外の県（表で「…」）が11あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "群馬県のキャベツ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "10",
+   "municipality": null,
+   "place_name": "群馬県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045957)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のキャベツの10a当たり収量は、群馬県が6,640kg、2位の北海道が4,890kg（比較対象36都道府県）。群馬県の作付面積は4,090ha（全国32,700ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045957。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045957：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 キャベツ 計、春、夏秋、冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045957",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-10-1135cad3",
+  "schema_version": 1,
+  "title": "夏秋キャベツの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、群馬県の夏秋キャベツは10a当たり収量が、表に掲載された都道府県の中で最も多い（6,990kg、掲載16県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある16都道府県）の中での順位で、調査対象外の県（表で「…」）が31あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "群馬県の夏秋キャベツ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "10",
+   "municipality": null,
+   "place_name": "群馬県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045957)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の夏秋キャベツの10a当たり収量は、群馬県が6,990kg、2位の北海道が4,830kg（比較対象16都道府県）。群馬県の作付面積は3,630ha（全国9,670ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045957。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045957：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 キャベツ 計、春、夏秋、冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045957",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-10-1f20cd95",
   "schema_version": 1,
   "title": "なすの作付面積",
@@ -17135,6 +19020,71 @@
   }
  },
  {
+  "id": "jp-10-37f77825",
+  "schema_version": 1,
+  "title": "春レタスの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、群馬県の春レタスは10a当たり収量が、表に掲載された都道府県の中で最も多い（4,030kg、掲載18県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある18都道府県）の中での順位で、調査対象外の県（表で「…」）が29あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "群馬県の春レタス",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "10",
+   "municipality": null,
+   "place_name": "群馬県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045968)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の春レタスの10a当たり収量は、群馬県が4,030kg、2位の長崎県が3,430kg（比較対象18都道府県）。群馬県の作付面積は342ha（全国3,800ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045968。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045968：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 レタス 計、計_うちサラダ菜、春、春_うちサラダ菜、夏秋、夏秋_うちサラダ菜、冬、冬_うちサラダ菜",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045968",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-10-3d894416",
   "schema_version": 1,
   "title": "夏秋キャベツの出荷量",
@@ -17182,6 +19132,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045957：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 キャベツ 計、春、夏秋、冬",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045957",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-10-6e4064b9",
+  "schema_version": 1,
+  "title": "夏秋レタスの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、群馬県の夏秋レタスは10a当たり収量が、表に掲載された都道府県の中で最も多い（4,290kg、掲載8県中1位）。群馬県の作付面積は1,010ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある8都道府県）の中での順位で、調査対象外の県（表で「…」）が39あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が8と少ない）"
+  },
+  "subject": {
+   "name": "群馬県の夏秋レタス",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "10",
+   "municipality": null,
+   "place_name": "群馬県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045968)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の夏秋レタスの10a当たり収量は、群馬県が4,290kg、2位の長野県が3,290kg（比較対象8都道府県）。群馬県の作付面積は1,010ha（全国8,260ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045968。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045968：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 レタス 計、計_うちサラダ菜、春、春_うちサラダ菜、夏秋、夏秋_うちサラダ菜、冬、冬_うちサラダ菜",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045968",
     "accessed": "2026-10-16"
    }
   ],
@@ -17395,6 +19410,71 @@
   }
  },
  {
+  "id": "jp-10-aeb8b2b0",
+  "schema_version": 1,
+  "title": "そばの10a当たり収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、群馬県のそばは10a当たり収量が最も多い（83kg、全国1位）。群馬県の作付面積は574ha。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県別の10a当たり収量の比較（値のある47都道府県）。作付面積が小さい県を含む比較（群馬県の作付面積は574haで全国（69,000ha）の0.8%）"
+  },
+  "subject": {
+   "name": "群馬県のそば",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "10",
+   "municipality": null,
+   "place_name": "群馬県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046422)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のそばの10a当たり収量は、群馬県が83kg、2位の千葉県が80kg（比較対象47都道府県）。群馬県の作付面積は574ha（全国69,000ha）。 使用した統計表: ID 0004046422。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046422：統計表（令和６年産）（2025年４月８日公表） 豆類・そば 令和６年産豆類（乾燥子実）及びそば（乾燥子実）の収穫量（全国農業地域別・都道府県別) そば",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046422",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-10-b7161d50",
   "schema_version": 1,
   "title": "夏秋キャベツの作付面積",
@@ -17507,6 +19587,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045959：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ほうれんそう",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045959",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-10-cbe9d2a4",
+  "schema_version": 1,
+  "title": "レタスの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、群馬県のレタスは10a当たり収量が、表に掲載された都道府県の中で最も多い（4,220kg、掲載24県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある24都道府県）の中での順位で、調査対象外の県（表で「…」）が23あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "群馬県のレタス",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "10",
+   "municipality": null,
+   "place_name": "群馬県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045968)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のレタスの10a当たり収量は、群馬県が4,220kg、2位の長崎県が3,420kg（比較対象24都道府県）。群馬県の作付面積は1,390ha（全国19,300ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045968。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045968：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 レタス 計、計_うちサラダ菜、春、春_うちサラダ菜、夏秋、夏秋_うちサラダ菜、冬、冬_うちサラダ菜",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045968",
     "accessed": "2026-10-16"
    }
   ],
@@ -17702,6 +19847,136 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045960：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ふき",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045960",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-11-06ddae8e",
+  "schema_version": 1,
+  "title": "スイートコーンの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、埼玉県のスイートコーンは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,230kg、掲載20県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある20都道府県）の中での順位で、調査対象外の県（表で「…」）が27あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "埼玉県のスイートコーン",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "11",
+   "municipality": null,
+   "place_name": "埼玉県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045978)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のスイートコーンの10a当たり収量は、埼玉県が1,230kg、2位の茨城県が1,180kg（比較対象20都道府県）。埼玉県の作付面積は617ha（全国20,900ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045978。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045978：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 スイートコーン",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045978",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-11-2733ca10",
+  "schema_version": 1,
+  "title": "みつばの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、埼玉県のみつばは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,580kg、掲載10県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある10都道府県）の中での順位で、調査対象外の県（表で「…」）が37あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "埼玉県のみつば",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "11",
+   "municipality": null,
+   "place_name": "埼玉県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045961)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のみつばの10a当たり収量は、埼玉県が2,580kg、2位の大阪府が2,230kg（比較対象10都道府県）。埼玉県の作付面積は46ha（全国787ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045961。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045961：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 みつば",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045961",
     "accessed": "2026-10-16"
    }
   ],
@@ -18110,6 +20385,136 @@
   }
  },
  {
+  "id": "jp-11-774889cf",
+  "schema_version": 1,
+  "title": "春ねぎの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、埼玉県の春ねぎは10a当たり収量が、表に掲載された都道府県の中で最も多い（3,280kg、掲載22県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある22都道府県）の中での順位で、調査対象外の県（表で「…」）が25あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "埼玉県の春ねぎ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "11",
+   "municipality": null,
+   "place_name": "埼玉県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045969)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の春ねぎの10a当たり収量は、埼玉県が3,280kg、2位の茨城県が3,020kg（比較対象22都道府県）。埼玉県の作付面積は163ha（全国3,350ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045969。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045969：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ねぎ 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045969",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-11-7dffa0cc",
+  "schema_version": 1,
+  "title": "さといもの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、埼玉県のさといもは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,400kg、掲載26県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある26都道府県）の中での順位で、調査対象外の県（表で「…」）が21あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "埼玉県のさといも",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "11",
+   "municipality": null,
+   "place_name": "埼玉県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045953)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のさといもの10a当たり収量は、埼玉県が2,400kg、2位の愛媛県が1,900kg（比較対象26都道府県）。埼玉県の作付面積は733ha（全国9,260ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045953。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045953：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 さといも 計、秋冬、その他",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045953",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-11-97e95faa",
   "schema_version": 1,
   "title": "さといもの出荷量",
@@ -18435,6 +20840,71 @@
   }
  },
  {
+  "id": "jp-11-f952899e",
+  "schema_version": 1,
+  "title": "秋冬さといもの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、埼玉県の秋冬さといもは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,400kg、掲載25県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある25都道府県）の中での順位で、調査対象外の県（表で「…」）が22あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "埼玉県の秋冬さといも",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "11",
+   "municipality": null,
+   "place_name": "埼玉県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045953)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の秋冬さといもの10a当たり収量は、埼玉県が2,400kg、2位の愛媛県が1,900kg（比較対象25都道府県）。埼玉県の作付面積は733ha（全国9,260ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045953。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045953：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 さといも 計、秋冬、その他",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045953",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-12-11109dc2",
   "schema_version": 1,
   "title": "春だいこんの出荷量",
@@ -18677,6 +21147,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045947：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 だいこん 計、春、夏、秋冬",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045947",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-12-3ca1ceec",
+  "schema_version": 1,
+  "title": "びわの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、千葉県のびわは10a当たり収量が、表に掲載された都道府県の中で最も多い（350kg、掲載8県中1位）。千葉県の結果樹面積は119ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある8都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が8と少ない）"
+  },
+  "subject": {
+   "name": "千葉県のびわ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "12",
+   "municipality": null,
+   "place_name": "千葉県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046683)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のびわの10a当たり収量は、千葉県が350kg、2位の大分県が272kg（比較対象8都道府県）。千葉県の結果樹面積は119ha（全国806ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046683。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046683：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 びわ",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046683",
     "accessed": "2026-10-16"
    }
   ],
@@ -19800,6 +22335,71 @@
   }
  },
  {
+  "id": "jp-14-a1ba3de1",
+  "schema_version": 1,
+  "title": "えだまめの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、神奈川県のえだまめは10a当たり収量が、表に掲載された都道府県の中で最も多い（863kg、掲載19県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある19都道府県）の中での順位で、調査対象外の県（表で「…」）が28あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "神奈川県のえだまめ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "14",
+   "municipality": null,
+   "place_name": "神奈川県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045983)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のえだまめの10a当たり収量は、神奈川県が863kg、2位の埼玉県が835kg（比較対象19都道府県）。神奈川県の作付面積は315ha（全国11,900ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045983。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045983：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 えだまめ",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045983",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-15-14ab253c",
   "schema_version": 1,
   "title": "水稲の収穫量",
@@ -19977,6 +22577,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045983：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 えだまめ",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045983",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-15-926769e2",
+  "schema_version": 1,
+  "title": "かきの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、新潟県のかきは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,740kg、掲載24県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある24都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "新潟県のかき",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "15",
+   "municipality": null,
+   "place_name": "新潟県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046682)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のかきの10a当たり収量は、新潟県が1,740kg、2位の奈良県が1,410kg（比較対象24都道府県）。新潟県の結果樹面積は611ha（全国17,200ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046682。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046682：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 かき",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046682",
     "accessed": "2026-10-16"
    }
   ],
@@ -20970,6 +23635,71 @@
   }
  },
  {
+  "id": "jp-20-0151aee2",
+  "schema_version": 1,
+  "title": "夏はくさいの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、長野県の夏はくさいは10a当たり収量が、表に掲載された都道府県の中で最も多い（8,260kg、掲載4県中1位）。長野県の作付面積は1,640ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある4都道府県）の中での順位で、調査対象外の県（表で「…」）が43あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が4と少ない）"
+  },
+  "subject": {
+   "name": "長野県の夏はくさい",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": null,
+   "place_name": "長野県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045955)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の夏はくさいの10a当たり収量は、長野県が8,260kg、2位の群馬県が4,140kg（比較対象4都道府県）。長野県の作付面積は1,640ha（全国2,170ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045955。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045955：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 はくさい 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045955",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-20-04378d17",
   "schema_version": 1,
   "title": "シクラメン（鉢もの）の出荷量",
@@ -21147,6 +23877,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045964：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 セルリー",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045964",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-20-2ca4a573",
+  "schema_version": 1,
+  "title": "春はくさいの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、長野県の春はくさいは10a当たり収量が、表に掲載された都道府県の中で最も多い（7,880kg、掲載10県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある10都道府県）の中での順位で、調査対象外の県（表で「…」）が37あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "長野県の春はくさい",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": null,
+   "place_name": "長野県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045955)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の春はくさいの10a当たり収量は、長野県が7,880kg、2位の茨城県が7,600kg（比較対象10都道府県）。長野県の作付面積は307ha（全国1,770ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045955。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045955：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 はくさい 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045955",
     "accessed": "2026-10-16"
    }
   ],
@@ -21815,6 +24610,71 @@
   }
  },
  {
+  "id": "jp-20-8f935859",
+  "schema_version": 1,
+  "title": "秋冬はくさいの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、長野県の秋冬はくさいは10a当たり収量が、表に掲載された都道府県の中で最も多い（7,870kg、掲載30県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある30都道府県）の中での順位で、調査対象外の県（表で「…」）が17あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "長野県の秋冬はくさい",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": null,
+   "place_name": "長野県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045955)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の秋冬はくさいの10a当たり収量は、長野県が7,870kg、2位の茨城県が7,490kg（比較対象30都道府県）。長野県の作付面積は841ha（全国11,400ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045955。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045955：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 はくさい 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045955",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-20-91860e27",
   "schema_version": 1,
   "title": "レタスの出荷量",
@@ -21880,6 +24740,136 @@
   }
  },
  {
+  "id": "jp-20-a3f8edbe",
+  "schema_version": 1,
+  "title": "くりの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、長野県のくりは10a当たり収量が、表に掲載された都道府県の中で最も多い（202kg、掲載22県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある22都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "長野県のくり",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": null,
+   "place_name": "長野県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046689)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のくりの10a当たり収量は、長野県が202kg、2位の岐阜県が154kg（比較対象22都道府県）。長野県の結果樹面積は218ha（全国15,200ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046689。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046689：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 くり",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046689",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-20-a7c5a74d",
+  "schema_version": 1,
+  "title": "はくさいの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、長野県のはくさいは10a当たり収量が、表に掲載された都道府県の中で最も多い（8,100kg、掲載31県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある31都道府県）の中での順位で、調査対象外の県（表で「…」）が16あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "長野県のはくさい",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": null,
+   "place_name": "長野県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045955)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のはくさいの10a当たり収量は、長野県が8,100kg、2位の茨城県が7,520kg（比較対象31都道府県）。長野県の作付面積は2,790ha（全国15,300ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045955。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045955：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 はくさい 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045955",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-20-ae8bb121",
   "schema_version": 1,
   "title": "セルリーの作付面積",
@@ -21927,6 +24917,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045964：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 セルリー",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045964",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-20-b1e02ee4",
+  "schema_version": 1,
+  "title": "ぶどうの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、長野県のぶどうは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,260kg、掲載25県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある25都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "長野県のぶどう",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": null,
+   "place_name": "長野県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046688)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のぶどうの10a当たり収量は、長野県が1,260kg、2位の岡山県が1,230kg（比較対象25都道府県）。長野県の結果樹面積は2,550ha（全国16,300ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046688。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046688：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 ぶどう",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046688",
     "accessed": "2026-10-16"
    }
   ],
@@ -22187,6 +25242,136 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046993：都道府県別の作付（収穫）面積及び出荷量 切り花類 カーネーション",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004046993",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-21-365f7336",
+  "schema_version": 1,
+  "title": "夏秋トマトの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、岐阜県の夏秋トマトは10a当たり収量が、表に掲載された都道府県の中で最も多い（9,240kg、掲載38県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある38都道府県）の中での順位で、調査対象外の県（表で「…」）が9あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "岐阜県の夏秋トマト",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "21",
+   "municipality": null,
+   "place_name": "岐阜県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045976)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の夏秋トマトの10a当たり収量は、岐阜県が9,240kg、2位の北海道が7,220kg（比較対象38都道府県）。岐阜県の作付面積は227ha（全国7,060ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045976。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045976：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 トマト 計、計_うちミニトマト、冬春、冬春_うちミニトマト、夏秋、夏秋_うちミニトマト",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045976",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-21-d34734d0",
+  "schema_version": 1,
+  "title": "夏だいこんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、岐阜県の夏だいこんは10a当たり収量が、表に掲載された都道府県の中で最も多い（5,000kg、掲載13県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある13都道府県）の中での順位で、調査対象外の県（表で「…」）が34あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "岐阜県の夏だいこん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "21",
+   "municipality": null,
+   "place_name": "岐阜県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045947)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の夏だいこんの10a当たり収量は、岐阜県が5,000kg、2位の北海道が4,920kg（比較対象13都道府県）。岐阜県の作付面積は139ha（全国4,890ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045947。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045947：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 だいこん 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045947",
     "accessed": "2026-10-16"
    }
   ],
@@ -22790,6 +25975,71 @@
   }
  },
  {
+  "id": "jp-22-7b8e076b",
+  "schema_version": 1,
+  "title": "ちんげんさいの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、静岡県のちんげんさいは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,350kg、掲載17県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある17都道府県）の中での順位で、調査対象外の県（表で「…」）が30あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "静岡県のちんげんさい",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "22",
+   "municipality": null,
+   "place_name": "静岡県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045958)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のちんげんさいの10a当たり収量は、静岡県が2,350kg、2位の北海道が2,290kg（比較対象17都道府県）。静岡県の作付面積は291ha（全国2,050ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045958。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045958：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ちんげんさい",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045958",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-22-9a35984e",
   "schema_version": 1,
   "title": "茶の栽培面積",
@@ -23245,6 +26495,71 @@
   }
  },
  {
+  "id": "jp-23-1cd3679e",
+  "schema_version": 1,
+  "title": "春キャベツの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、愛知県の春キャベツは10a当たり収量が、表に掲載された都道府県の中で最も多い（5,150kg、掲載26県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある26都道府県）の中での順位で、調査対象外の県（表で「…」）が21あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "愛知県の春キャベツ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "23",
+   "municipality": null,
+   "place_name": "愛知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045957)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の春キャベツの10a当たり収量は、愛知県が5,150kg、2位の香川県が5,140kg（比較対象26都道府県）。愛知県の作付面積は1,360ha（全国8,590ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045957。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045957：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 キャベツ 計、春、夏秋、冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045957",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-23-1fbf08ff",
   "schema_version": 1,
   "title": "切り花類の出荷量",
@@ -23422,6 +26737,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046992：都道府県別の作付（収穫）面積及び出荷量 切り花類 きく",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004046992",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-23-354489a5",
+  "schema_version": 1,
+  "title": "温室メロン（アールスフェボリット系）の10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、愛知県の温室メロン（アールスフェボリット系）は10a当たり収量が、表に掲載された都道府県の中で最も多い（2,920kg、掲載8県中1位）。愛知県の作付面積は114ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある8都道府県）の中での順位で、調査対象外の県（表で「…」）が34あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が8と少ない）"
+  },
+  "subject": {
+   "name": "愛知県の温室メロン（アールスフェボリット系）",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "23",
+   "municipality": null,
+   "place_name": "愛知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045986)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の温室メロン（アールスフェボリット系）の10a当たり収量は、愛知県が2,920kg、2位の茨城県が2,840kg（比較対象8都道府県）。愛知県の作付面積は114ha（全国568ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045986。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045986：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 メロン 計、温室メロン（アールスフェボリット系）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045986",
     "accessed": "2026-10-16"
    }
   ],
@@ -24415,6 +27795,71 @@
   }
  },
  {
+  "id": "jp-23-e3004d6c",
+  "schema_version": 1,
+  "title": "冬にんじんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、愛知県の冬にんじんは10a当たり収量が、表に掲載された都道府県の中で最も多い（4,450kg、掲載22県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある22都道府県）の中での順位で、調査対象外の県（表で「…」）が25あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "愛知県の冬にんじん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "23",
+   "municipality": null,
+   "place_name": "愛知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045949)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の冬にんじんの10a当たり収量は、愛知県が4,450kg、2位の鹿児島県が3,640kg（比較対象22都道府県）。愛知県の作付面積は310ha（全国7,140ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045949。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045949：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 にんじん 計、春夏、秋、冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045949",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-23-e861b35c",
   "schema_version": 1,
   "title": "キャベツの作付面積",
@@ -24610,6 +28055,331 @@
   }
  },
  {
+  "id": "jp-24-ada6628a",
+  "schema_version": 1,
+  "title": "ミニトマトの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、三重県のミニトマトは10a当たり収量が、表に掲載された都道府県の中で最も多い（12,100kg、掲載45県中1位）。三重県の作付面積は20ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある45都道府県）の中での順位で、調査対象外の県（表で「…」）が2あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（三重県の作付面積は20haで全国（2,660ha）の0.8%）"
+  },
+  "subject": {
+   "name": "三重県のミニトマト",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "24",
+   "municipality": null,
+   "place_name": "三重県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045976)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のミニトマトの10a当たり収量は、三重県が12,100kg、2位の愛知県が10,400kg（比較対象45都道府県）。三重県の作付面積は20ha（全国2,660ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045976。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045976：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 トマト 計、計_うちミニトマト、冬春、冬春_うちミニトマト、夏秋、夏秋_うちミニトマト",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045976",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-26-eaebc038",
+  "schema_version": 1,
+  "title": "ほうれんそうの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、京都府のほうれんそうは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,450kg、掲載33県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある33都道府県）の中での順位で、調査対象外の県（表で「…」）が14あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "京都府のほうれんそう",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "26",
+   "municipality": null,
+   "place_name": "京都府",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045959)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のほうれんそうの10a当たり収量は、京都府が1,450kg、2位の茨城県が1,390kg（比較対象33都道府県）。京都府の作付面積は318ha（全国17,900ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045959。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045959：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ほうれんそう",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045959",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-27-0464645f",
+  "schema_version": 1,
+  "title": "ふきの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、大阪府のふきは10a当たり収量が、表に掲載された都道府県の中で最も多い（6,840kg、掲載16県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある16都道府県）の中での順位で、調査対象外の県（表で「…」）が31あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "大阪府のふき",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": null,
+   "place_name": "大阪府",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045960)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のふきの10a当たり収量は、大阪府が6,840kg、2位の愛知県が5,160kg（比較対象16都道府県）。大阪府の作付面積は11ha（全国361ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045960。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045960：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ふき",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045960",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-27-299ec41c",
+  "schema_version": 1,
+  "title": "みずなの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、大阪府のみずなは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,140kg、掲載11県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある11都道府県）の中での順位で、調査対象外の県（表で「…」）が36あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "大阪府のみずな",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": null,
+   "place_name": "大阪府",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045963)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のみずなの10a当たり収量は、大阪府が2,140kg、2位の茨城県が1,780kg（比較対象11都道府県）。大阪府の作付面積は44ha（全国2,190ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045963。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045963：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 みずな",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045963",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-27-5756dc1e",
+  "schema_version": 1,
+  "title": "こまつなの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、大阪府のこまつなは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,980kg、掲載24県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある24都道府県）の中での順位で、調査対象外の県（表で「…」）が23あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "大阪府のこまつな",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": null,
+   "place_name": "大阪府",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045956)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のこまつなの10a当たり収量は、大阪府が1,980kg、2位の茨城県が1,900kg（比較対象24都道府県）。大阪府の作付面積は183ha（全国7,380ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045956。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045956：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 こまつな",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045956",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-27-8f8e87b7",
   "schema_version": 1,
   "title": "しゅんぎくの出荷量",
@@ -24722,6 +28492,201 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045962：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 しゅんぎく",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045962",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-27-f6f3eeb1",
+  "schema_version": 1,
+  "title": "ブロッコリーの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、大阪府のブロッコリーは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,430kg、掲載35県中1位）。大阪府の作付面積は35ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある35都道府県）の中での順位で、調査対象外の県（表で「…」）が12あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（大阪府の作付面積は35haで全国（17,300ha）の0.2%）"
+  },
+  "subject": {
+   "name": "大阪府のブロッコリー",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": null,
+   "place_name": "大阪府",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045967)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のブロッコリーの10a当たり収量は、大阪府が1,430kg、2位の埼玉県が1,200kg（比較対象35都道府県）。大阪府の作付面積は35ha（全国17,300ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045967。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045967：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ブロッコリー",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045967",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-28-c93ce4c4",
+  "schema_version": 1,
+  "title": "れんこんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、兵庫県のれんこんは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,590kg、掲載8県中1位）。兵庫県の作付面積は24ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある8都道府県）の中での順位で、調査対象外の県（表で「…」）が39あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（兵庫県の作付面積は24haで全国（4,030ha）の0.6%、値のある都道府県が8と少ない）"
+  },
+  "subject": {
+   "name": "兵庫県のれんこん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": null,
+   "place_name": "兵庫県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045951)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のれんこんの10a当たり収量は、兵庫県が1,590kg、2位の茨城県が1,480kg（比較対象8都道府県）。兵庫県の作付面積は24ha（全国4,030ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045951。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045951：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 れんこん",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045951",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-30-00636ba3",
+  "schema_version": 1,
+  "title": "だいこんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、和歌山県のだいこんは10a当たり収量が、表に掲載された都道府県の中で最も多い（7,170kg、掲載37県中1位）。和歌山県の作付面積は104ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある37都道府県）の中での順位で、調査対象外の県（表で「…」）が10あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（和歌山県の作付面積は104haで全国（26,600ha）の0.4%）"
+  },
+  "subject": {
+   "name": "和歌山県のだいこん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "30",
+   "municipality": null,
+   "place_name": "和歌山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045947)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のだいこんの10a当たり収量は、和歌山県が7,170kg、2位の徳島県が6,660kg（比較対象37都道府県）。和歌山県の作付面積は104ha（全国26,600ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045947。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045947：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 だいこん 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045947",
     "accessed": "2026-10-16"
    }
   ],
@@ -24935,6 +28900,71 @@
   }
  },
  {
+  "id": "jp-30-2b5d7658",
+  "schema_version": 1,
+  "title": "早生温州みかんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、和歌山県の早生温州みかんは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,180kg、掲載20県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある20都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "和歌山県の早生温州みかん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "30",
+   "municipality": null,
+   "place_name": "和歌山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046675)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の早生温州みかんの10a当たり収量は、和歌山県が2,180kg、2位の佐賀県が1,990kg（比較対象20都道府県）。和歌山県の結果樹面積は3,970ha（全国19,400ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046675。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046675：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 みかん 早生温州",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046675",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-30-2ed4a0d0",
   "schema_version": 1,
   "title": "極早生みかんの収穫量",
@@ -25000,6 +29030,71 @@
   }
  },
  {
+  "id": "jp-30-445f8e7a",
+  "schema_version": 1,
+  "title": "秋冬だいこんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、和歌山県の秋冬だいこんは10a当たり収量が、表に掲載された都道府県の中で最も多い（7,210kg、掲載36県中1位）。和歌山県の作付面積は90ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある36都道府県）の中での順位で、調査対象外の県（表で「…」）が11あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（和歌山県の作付面積は90haで全国（17,800ha）の0.5%）"
+  },
+  "subject": {
+   "name": "和歌山県の秋冬だいこん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "30",
+   "municipality": null,
+   "place_name": "和歌山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045947)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の秋冬だいこんの10a当たり収量は、和歌山県が7,210kg、2位の徳島県が6,890kg（比較対象36都道府県）。和歌山県の作付面積は90ha（全国17,800ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045947。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045947：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 だいこん 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045947",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-30-4ae6b439",
   "schema_version": 1,
   "title": "みかんの出荷量",
@@ -25047,6 +29142,266 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046674：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 みかん 計",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004046674",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-30-508d0719",
+  "schema_version": 1,
+  "title": "グリーンピースの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、和歌山県のグリーンピースは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,130kg、掲載13県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある13都道府県）の中での順位で、調査対象外の県（表で「…」）が34あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "和歌山県のグリーンピース",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "30",
+   "municipality": null,
+   "place_name": "和歌山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045981)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のグリーンピースの10a当たり収量は、和歌山県が1,130kg、2位の熊本県が791kg（比較対象13都道府県）。和歌山県の作付面積は150ha（全国555ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045981。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045981：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 グリーンピース",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045981",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-30-64d946a0",
+  "schema_version": 1,
+  "title": "普通温州みかんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、和歌山県の普通温州みかんは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,130kg、掲載20県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある20都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "和歌山県の普通温州みかん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "30",
+   "municipality": null,
+   "place_name": "和歌山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046678)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の普通温州みかんの10a当たり収量は、和歌山県が2,130kg、2位の熊本県が1,890kg（比較対象20都道府県）。和歌山県の結果樹面積は2,590ha（全国15,200ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046678。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046678：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 みかん 普通温州",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046678",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-30-65986a53",
+  "schema_version": 1,
+  "title": "みかんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、和歌山県のみかんは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,160kg、掲載20県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある20都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "和歌山県のみかん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "30",
+   "municipality": null,
+   "place_name": "和歌山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046674)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のみかんの10a当たり収量は、和歌山県が2,160kg、2位の愛知県が1,880kg（比較対象20都道府県）。和歌山県の結果樹面積は6,560ha（全国34,500ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046674。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046674：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 みかん 計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046674",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-30-6932f7b6",
+  "schema_version": 1,
+  "title": "極早生みかんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、和歌山県の極早生みかんは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,140kg、掲載17県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある17都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "和歌山県の極早生みかん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "30",
+   "municipality": null,
+   "place_name": "和歌山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046676)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の極早生みかんの10a当たり収量は、和歌山県が2,140kg、2位の静岡県が1,930kg（比較対象17都道府県）。和歌山県の結果樹面積は844ha（全国5,430ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046676。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046676：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 みかん 早生温州 早生温州のうち極早生みかん",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046676",
     "accessed": "2026-10-16"
    }
   ],
@@ -25260,6 +29615,71 @@
   }
  },
  {
+  "id": "jp-30-7eb2061b",
+  "schema_version": 1,
+  "title": "キウイフルーツの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、和歌山県のキウイフルーツは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,990kg、掲載18県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある18都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "和歌山県のキウイフルーツ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "30",
+   "municipality": null,
+   "place_name": "和歌山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046691)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のキウイフルーツの10a当たり収量は、和歌山県が1,990kg、2位の佐賀県が1,400kg（比較対象18都道府県）。和歌山県の結果樹面積は164ha（全国1,820ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046691。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046691：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 キウイフルーツ",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046691",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-30-965ed4ff",
   "schema_version": 1,
   "title": "スターチス（切り花）の出荷量",
@@ -25437,6 +29857,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046687：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 うめ",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004046687",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-30-b7333095",
+  "schema_version": 1,
+  "title": "春夏にんじんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、和歌山県の春夏にんじんは10a当たり収量が、表に掲載された都道府県の中で最も多い（4,950kg、掲載18県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある18都道府県）の中での順位で、調査対象外の県（表で「…」）が29あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "和歌山県の春夏にんじん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "30",
+   "municipality": null,
+   "place_name": "和歌山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045949)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の春夏にんじんの10a当たり収量は、和歌山県が4,950kg、2位の徳島県が4,740kg（比較対象18都道府県）。和歌山県の作付面積は45ha（全国3,770ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045949。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045949：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 にんじん 計、春夏、秋、冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045949",
     "accessed": "2026-10-16"
    }
   ],
@@ -25650,6 +30135,266 @@
   }
  },
  {
+  "id": "jp-30-ed2ca57f",
+  "schema_version": 1,
+  "title": "うめの10a当たり収量",
+  "claim": "農林水産省作物統計調査（果樹生産出荷統計）（令和6年産）によると、和歌山県のうめは10a当たり収量が、表に掲載された都道府県の中で最も多い（620kg、掲載21県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある21都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "和歌山県のうめ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "30",
+   "municipality": null,
+   "place_name": "和歌山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046687)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のうめの10a当たり収量は、和歌山県が620kg、2位の群馬県が500kg（比較対象21都道府県）。和歌山県の結果樹面積は4,790ha（全国12,900ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046687。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046687：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 うめ",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046687",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-36-7221825c",
+  "schema_version": 1,
+  "title": "カリフラワーの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、徳島県のカリフラワーは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,330kg、掲載18県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある18都道府県）の中での順位で、調査対象外の県（表で「…」）が29あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "徳島県のカリフラワー",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "36",
+   "municipality": null,
+   "place_name": "徳島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045966)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のカリフラワーの10a当たり収量は、徳島県が2,330kg、2位の茨城県が2,250kg（比較対象18都道府県）。徳島県の作付面積は73ha（全国1,190ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045966。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045966：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 カリフラワー",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045966",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-36-9b36173f",
+  "schema_version": 1,
+  "title": "にんじんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、徳島県のにんじんは10a当たり収量が、表に掲載された都道府県の中で最も多い（4,700kg、掲載28県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある28都道府県）の中での順位で、調査対象外の県（表で「…」）が19あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "徳島県のにんじん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "36",
+   "municipality": null,
+   "place_name": "徳島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045949)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のにんじんの10a当たり収量は、徳島県が4,700kg、2位の和歌山県が4,640kg（比較対象28都道府県）。徳島県の作付面積は921ha（全国16,000ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045949。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045949：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 にんじん 計、春夏、秋、冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045949",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-36-b2eeef91",
+  "schema_version": 1,
+  "title": "夏秋なすの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、徳島県の夏秋なすは10a当たり収量が、表に掲載された都道府県の中で最も多い（6,750kg、掲載36県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある36都道府県）の中での順位で、調査対象外の県（表で「…」）が11あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "徳島県の夏秋なす",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "36",
+   "municipality": null,
+   "place_name": "徳島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045975)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の夏秋なすの10a当たり収量は、徳島県が6,750kg、2位の群馬県が5,290kg（比較対象36都道府県）。徳島県の作付面積は69ha（全国6,480ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045975。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045975：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 なす 計、冬春、夏秋",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045975",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-36-bf005ff3",
   "schema_version": 1,
   "title": "春夏にんじんの収穫量",
@@ -25827,6 +30572,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045949：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 にんじん 計、春夏、秋、冬",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045949",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-37-ad98bb95",
+  "schema_version": 1,
+  "title": "セルリーの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、香川県のセルリーは10a当たり収量が、表に掲載された都道府県の中で最も多い（7,640kg、掲載7県中1位）。香川県の作付面積は12ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある7都道府県）の中での順位で、調査対象外の県（表で「…」）が40あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が7と少ない）"
+  },
+  "subject": {
+   "name": "香川県のセルリー",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "37",
+   "municipality": null,
+   "place_name": "香川県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045964)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のセルリーの10a当たり収量は、香川県が7,640kg、2位の福岡県が7,320kg（比較対象7都道府県）。香川県の作付面積は12ha（全国540ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045964。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045964：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 セルリー",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045964",
     "accessed": "2026-10-16"
    }
   ],
@@ -26560,6 +31370,71 @@
   }
  },
  {
+  "id": "jp-39-492be409",
+  "schema_version": 1,
+  "title": "ピーマンの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、高知県のピーマンは10a当たり収量が、表に掲載された都道府県の中で最も多い（11,200kg、掲載27県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある27都道府県）の中での順位で、調査対象外の県（表で「…」）が20あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "高知県のピーマン",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "39",
+   "municipality": null,
+   "place_name": "高知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045977)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のピーマンの10a当たり収量は、高知県が11,200kg、2位の鹿児島県が9,700kg（比較対象27都道府県）。高知県の作付面積は116ha（全国3,050ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045977。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045977：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ピーマン 計、計_うちししとう、冬春、冬春_うちししとう、夏秋、夏秋_うちししとう",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045977",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-39-54326d28",
   "schema_version": 1,
   "title": "しょうがの収穫量",
@@ -26690,6 +31565,136 @@
   }
  },
  {
+  "id": "jp-39-789a6ddb",
+  "schema_version": 1,
+  "title": "にらの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、高知県のにらは10a当たり収量が、表に掲載された都道府県の中で最も多い（6,070kg、掲載13県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある13都道府県）の中での順位で、調査対象外の県（表で「…」）が34あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "高知県のにら",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "39",
+   "municipality": null,
+   "place_name": "高知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045970)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のにらの10a当たり収量は、高知県が6,070kg、2位の大分県が5,150kg（比較対象13都道府県）。高知県の作付面積は265ha（全国1,870ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045970。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045970：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 にら",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045970",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-39-7c1c2421",
+  "schema_version": 1,
+  "title": "冬春ピーマンの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、高知県の冬春ピーマンは10a当たり収量が、表に掲載された都道府県の中で最も多い（14,100kg、掲載7県中1位）。高知県の作付面積は86ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある7都道府県）の中での順位で、調査対象外の県（表で「…」）が40あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が7と少ない）"
+  },
+  "subject": {
+   "name": "高知県の冬春ピーマン",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "39",
+   "municipality": null,
+   "place_name": "高知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045977)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の冬春ピーマンの10a当たり収量は、高知県が14,100kg、2位の鹿児島県が12,900kg（比較対象7都道府県）。高知県の作付面積は86ha（全国724ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045977。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045977：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ピーマン 計、計_うちししとう、冬春、冬春_うちししとう、夏秋、夏秋_うちししとう",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045977",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-39-a0a8d406",
   "schema_version": 1,
   "title": "冬春なすの収穫量",
@@ -26733,6 +31738,136 @@
    "population_note": null
   },
   "detail": "令和6年産の冬春なすの収穫量は、高知県が37,600t、2位の熊本県が24,500t（比較対象16都道府県）。全国は108,800t。 使用した統計表: ID 0004045975。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045975：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 なす 計、冬春、夏秋",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045975",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-39-a6b6e93d",
+  "schema_version": 1,
+  "title": "さやいんげんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、高知県のさやいんげんは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,780kg、掲載25県中1位）。高知県の作付面積は17ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある25都道府県）の中での順位で、調査対象外の県（表で「…」）が22あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（高知県の作付面積は17haで全国（4,300ha）の0.4%）"
+  },
+  "subject": {
+   "name": "高知県のさやいんげん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "39",
+   "municipality": null,
+   "place_name": "高知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045979)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のさやいんげんの10a当たり収量は、高知県が1,780kg、2位の千葉県が1,240kg（比較対象25都道府県）。高知県の作付面積は17ha（全国4,300ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045979。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045979：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 さやいんげん",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045979",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-39-b27ba857",
+  "schema_version": 1,
+  "title": "なすの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、高知県のなすは10a当たり収量が、表に掲載された都道府県の中で最も多い（12,100kg、掲載38県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある38都道府県）の中での順位で、調査対象外の県（表で「…」）が9あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "高知県のなす",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "39",
+   "municipality": null,
+   "place_name": "高知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045975)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のなすの10a当たり収量は、高知県が12,100kg、2位の熊本県が8,550kg（比較対象38都道府県）。高知県の作付面積は318ha（全国7,500ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045975。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
   "sources": [
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045975：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 なす 計、冬春、夏秋",
@@ -26802,6 +31937,136 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045984：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 しょうが",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045984",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-39-caa99b89",
+  "schema_version": 1,
+  "title": "きゅうりの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、高知県のきゅうりは10a当たり収量が、表に掲載された都道府県の中で最も多い（16,200kg、掲載43県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある43都道府県）の中での順位で、調査対象外の県（表で「…」）が4あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "高知県のきゅうり",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "39",
+   "municipality": null,
+   "place_name": "高知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045973)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のきゅうりの10a当たり収量は、高知県が16,200kg、2位の北海道が12,100kg（比較対象43都道府県）。高知県の作付面積は134ha（全国9,160ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045973。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045973：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 きゅうり 計、冬春、夏秋",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045973",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-39-d363d550",
+  "schema_version": 1,
+  "title": "ししとうの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、高知県のししとうは10a当たり収量が、表に掲載された都道府県の中で最も多い（4,730kg、掲載27県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある27都道府県）の中での順位で、調査対象外の県（表で「…」）が20あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "高知県のししとう",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "39",
+   "municipality": null,
+   "place_name": "高知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045977)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のししとうの10a当たり収量は、高知県が4,730kg、2位の北海道が3,140kg（比較対象27都道府県）。高知県の作付面積は37ha（全国267ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045977。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045977：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 ピーマン 計、計_うちししとう、冬春、冬春_うちししとう、夏秋、夏秋_うちししとう",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045977",
     "accessed": "2026-10-16"
    }
   ],
@@ -26950,6 +32215,71 @@
   }
  },
  {
+  "id": "jp-39-e7e5f12e",
+  "schema_version": 1,
+  "title": "しょうがの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、高知県のしょうがは10a当たり収量が、表に掲載された都道府県の中で最も多い（4,440kg、掲載11県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある11都道府県）の中での順位で、調査対象外の県（表で「…」）が36あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "高知県のしょうが",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "39",
+   "municipality": null,
+   "place_name": "高知県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045984)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のしょうがの10a当たり収量は、高知県が4,440kg、2位の宮崎県が3,060kg（比較対象11都道府県）。高知県の作付面積は406ha（全国1,550ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045984。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045984：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 しょうが",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045984",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-39-ecc8f09a",
   "schema_version": 1,
   "title": "冬春なすの出荷量",
@@ -27062,6 +32392,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045975：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 なす 計、冬春、夏秋",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045975",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-40-78788e2d",
+  "schema_version": 1,
+  "title": "かぶの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、福岡県のかぶは10a当たり収量が、表に掲載された都道府県の中で最も多い（3,780kg、掲載20県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある20都道府県）の中での順位で、調査対象外の県（表で「…」）が27あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "福岡県のかぶ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "40",
+   "municipality": null,
+   "place_name": "福岡県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045948)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のかぶの10a当たり収量は、福岡県が3,780kg、2位の青森県が3,740kg（比較対象20都道府県）。福岡県の作付面積は98ha（全国3,680ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045948。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045948：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 かぶ",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045948",
     "accessed": "2026-10-16"
    }
   ],
@@ -27517,6 +32912,136 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046683：統計表 令和６年産都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量 びわ",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004046683",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-42-a441590c",
+  "schema_version": 1,
+  "title": "冬レタスの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、長崎県の冬レタスは10a当たり収量が、表に掲載された都道府県の中で最も多い（3,510kg、掲載17県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある17都道府県）の中での順位で、調査対象外の県（表で「…」）が30あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "長崎県の冬レタス",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "42",
+   "municipality": null,
+   "place_name": "長崎県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045968)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の冬レタスの10a当たり収量は、長崎県が3,510kg、2位の栃木県が2,820kg（比較対象17都道府県）。長崎県の作付面積は677ha（全国7,260ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045968。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045968：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 レタス 計、計_うちサラダ菜、春、春_うちサラダ菜、夏秋、夏秋_うちサラダ菜、冬、冬_うちサラダ菜",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045968",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-42-bfc93298",
+  "schema_version": 1,
+  "title": "春だいこんの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、長崎県の春だいこんは10a当たり収量が、表に掲載された都道府県の中で最も多い（7,060kg、掲載20県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある20都道府県）の中での順位で、調査対象外の県（表で「…」）が27あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "長崎県の春だいこん",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "42",
+   "municipality": null,
+   "place_name": "長崎県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045947)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の春だいこんの10a当たり収量は、長崎県が7,060kg、2位の香川県が5,540kg（比較対象20都道府県）。長崎県の作付面積は130ha（全国3,930ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045947。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045947：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 だいこん 計、春、夏、秋冬",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045947",
     "accessed": "2026-10-16"
    }
   ],
@@ -28185,6 +33710,71 @@
   }
  },
  {
+  "id": "jp-43-8964b3f2",
+  "schema_version": 1,
+  "title": "アスパラガスの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、熊本県のアスパラガスは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,980kg、掲載18県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある18都道府県）の中での順位で、調査対象外の県（表で「…」）が29あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "熊本県のアスパラガス",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "43",
+   "municipality": null,
+   "place_name": "熊本県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045965)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のアスパラガスの10a当たり収量は、熊本県が1,980kg、2位の佐賀県が1,810kg（比較対象18都道府県）。熊本県の作付面積は96ha（全国4,010ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045965。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045965：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 アスパラガス",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045965",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-43-8df9f3f9",
   "schema_version": 1,
   "title": "すいかの作付面積",
@@ -28232,6 +33822,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045987：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 すいか",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045987",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-43-9154ac0d",
+  "schema_version": 1,
+  "title": "さやえんどうの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、熊本県のさやえんどうは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,590kg、掲載24県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある24都道府県）の中での順位で、調査対象外の県（表で「…」）が23あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "熊本県のさやえんどう",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "43",
+   "municipality": null,
+   "place_name": "熊本県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045980)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のさやえんどうの10a当たり収量は、熊本県が1,590kg、2位の和歌山県が1,400kg（比較対象24都道府県）。熊本県の作付面積は59ha（全国2,540ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045980。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045980：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 さやえんどう",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045980",
     "accessed": "2026-10-16"
    }
   ],
@@ -28553,6 +34208,136 @@
    "population_note": null
   },
   "detail": "令和6年産の冬春トマトの作付面積は、熊本県が838ha、2位の愛知県が368ha（比較対象33都道府県）。全国は3,560ha。 使用した統計表: ID 0004045976。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045976：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 トマト 計、計_うちミニトマト、冬春、冬春_うちミニトマト、夏秋、夏秋_うちミニトマト",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045976",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-43-f247b34c",
+  "schema_version": 1,
+  "title": "冬春なすの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、熊本県の冬春なすは10a当たり収量が、表に掲載された都道府県の中で最も多い（14,400kg、掲載16県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある16都道府県）の中での順位で、調査対象外の県（表で「…」）が31あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "熊本県の冬春なす",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "43",
+   "municipality": null,
+   "place_name": "熊本県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045975)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の冬春なすの10a当たり収量は、熊本県が14,400kg、2位の福岡県が14,100kg（比較対象16都道府県）。熊本県の作付面積は170ha（全国1,020ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045975。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045975：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 なす 計、冬春、夏秋",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045975",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-43-f5e74be9",
+  "schema_version": 1,
+  "title": "トマトの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、熊本県のトマトは10a当たり収量が、表に掲載された都道府県の中で最も多い（10,700kg、掲載45県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある45都道府県）の中での順位で、調査対象外の県（表で「…」）が2あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "熊本県のトマト",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "43",
+   "municipality": null,
+   "place_name": "熊本県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045976)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のトマトの10a当たり収量は、熊本県が10,700kg、2位の栃木県が10,300kg（比較対象45都道府県）。熊本県の作付面積は1,210ha（全国10,600ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045976。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
   "sources": [
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045976：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 トマト 計、計_うちミニトマト、冬春、冬春_うちミニトマト、夏秋、夏秋_うちミニトマト",
@@ -29095,6 +34880,71 @@
   }
  },
  {
+  "id": "jp-45-84a89b51",
+  "schema_version": 1,
+  "title": "かぼちゃの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、宮崎県のかぼちゃは10a当たり収量が、表に掲載された都道府県の中で最も多い（2,060kg、掲載24県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある24都道府県）の中での順位で、調査対象外の県（表で「…」）が23あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "宮崎県のかぼちゃ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "45",
+   "municipality": null,
+   "place_name": "宮崎県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045974)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のかぼちゃの10a当たり収量は、宮崎県が2,060kg、2位の神奈川県が1,650kg（比較対象24都道府県）。宮崎県の作付面積は185ha（全国13,600ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045974。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045974：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 かぼちゃ",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045974",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-45-9bb2ba85",
   "schema_version": 1,
   "title": "きゅうりの収穫量",
@@ -29337,6 +35187,71 @@
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045980：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 さやえんどう",
     "url": "https://www.e-stat.go.jp/dbview?sid=0004045980",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-207bb3ca",
+  "schema_version": 1,
+  "title": "そらまめの10a当たり収量",
+  "claim": "農林水産省作物統計調査（野菜生産出荷統計）（令和6年産）によると、鹿児島県のそらまめは10a当たり収量が、表に掲載された都道府県の中で最も多い（1,510kg、掲載17県中1位）。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある17都道府県）の中での順位で、調査対象外の県（表で「…」）が30あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）"
+  },
+  "subject": {
+   "name": "鹿児島県のそらまめ",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004045982)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のそらまめの10a当たり収量は、鹿児島県が1,510kg、2位の熊本県が1,210kg（比較対象17都道府県）。鹿児島県の作付面積は163ha（全国1,430ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004045982。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004045982：野菜調査 都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 そらまめ",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004045982",
     "accessed": "2026-10-16"
    }
   ],
@@ -29745,6 +35660,71 @@
   }
  },
  {
+  "id": "jp-46-ac2c622a",
+  "schema_version": 1,
+  "title": "茶の10a当たり生葉収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、鹿児島県の茶は10a当たり生葉収量が、表に掲載された都道府県の中で最も多い（1,680kg、掲載8県中1位）。鹿児島県の摘採面積は7,790ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある8都道府県）の中での順位で、調査対象外の県（表で「…」）が39あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が8と少ない）"
+  },
+  "subject": {
+   "name": "鹿児島県の茶",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046428)の都道府県別の10a当たり生葉収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の茶の10a当たり生葉収量は、鹿児島県が1,680kg、2位の宮崎県が1,290kg（比較対象8都道府県）。鹿児島県の摘採面積は7,790ha。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046428。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046428：統計表（令和６年産）（2025年６月27日公表） 工芸農作物 令和６年産工芸農作物の収穫量 茶 摘採面積、10ａ当たり生葉収量、生葉収穫量・荒茶生産量（主産県別）、摘採面積率（主産県別）、製茶歩留まり（主産県別）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046428",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-46-c4e7e2b1",
   "schema_version": 1,
   "title": "茶（荒茶）の荒茶生産量",
@@ -30005,6 +35985,71 @@
   }
  },
  {
+  "id": "jp-46-e13bff8d",
+  "schema_version": 1,
+  "title": "一番茶の10a当たり生葉収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、鹿児島県の一番茶は10a当たり生葉収量が、表に掲載された都道府県の中で最も多い（576kg、掲載8県中1位）。鹿児島県の摘採面積は7,790ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある8都道府県）の中での順位で、調査対象外の県（表で「…」）が39あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が8と少ない）"
+  },
+  "subject": {
+   "name": "鹿児島県の一番茶",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046428)の都道府県別の10a当たり生葉収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の一番茶の10a当たり生葉収量は、鹿児島県が576kg、2位の京都府が524kg（比較対象8都道府県）。鹿児島県の摘採面積は7,790ha。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046428。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046428：統計表（令和６年産）（2025年６月27日公表） 工芸農作物 令和６年産工芸農作物の収穫量 茶 摘採面積、10ａ当たり生葉収量、生葉収穫量・荒茶生産量（主産県別）、摘採面積率（主産県別）、製茶歩留まり（主産県別）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046428",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-47-3314a690",
   "schema_version": 1,
   "title": "さとうきびの収穫面積",
@@ -30178,6 +36223,136 @@
    "population_note": null
   },
   "detail": "令和6年産のさとうきびの栽培面積は、沖縄県が16,500ha、2位の鹿児島県が10,600ha（比較対象2都道府県）。全国は27,100ha。主産県のみの調査のため、表に掲載された県の中での順位（対象外県は全国値との差から1位に及ばないことを確認）。 使用した統計表: ID 0004046431。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046431：統計表（令和６年産）（2025年８月29日公表） 工芸農作物 令和６年産工芸農作物の収穫量 さとうきび",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046431",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-47-843ef0c9",
+  "schema_version": 1,
+  "title": "牧草の10a当たり収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、沖縄県の牧草は10a当たり収量が、表に掲載された都道府県の中で最も多い（10,400kg、掲載6県中1位）。沖縄県の作付面積は5,850ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある6都道府県）の中での順位で、調査対象外の県（表で「…」）が41あるため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（沖縄県の作付面積は5,850haで全国（695,500ha）の0.8%、値のある都道府県が6と少ない）"
+  },
+  "subject": {
+   "name": "沖縄県の牧草",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "47",
+   "municipality": null,
+   "place_name": "沖縄県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046426)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産の牧草の10a当たり収量は、沖縄県が10,400kg、2位の鹿児島県が5,890kg（比較対象6都道府県）。沖縄県の作付面積は5,850ha（全国695,500ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046426。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046426：統計表（令和６年産）（2025年８月29日公表） 飼料作物 令和６年産工芸農作物の収穫量 牧草、青刈りとうもろこし、ソルゴー",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004046426",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-47-da6dd578",
+  "schema_version": 1,
+  "title": "さとうきびの10a当たり収量",
+  "claim": "農林水産省作物統計調査（作況調査）（令和6年産）によると、沖縄県のさとうきびは10a当たり収量が、表に掲載された都道府県の中で最も多い（6,260kg、掲載2県中1位）。沖縄県の収穫面積は13,500ha。",
+  "rank": {
+   "position": 1,
+   "scope": "other",
+   "label": "掲載県中1位",
+   "scope_note": "主産県などを対象にした調査の表。表に掲載された県（値のある2都道府県）の中での順位で、表に掲載された県の面積の合計が全国値に満たないため全国1位とは言えない（掲載外の県が上回る可能性は、全国値からは判定できない）。作付面積が小さい県を含む比較（値のある都道府県が2と少ない）"
+  },
+  "subject": {
+   "name": "沖縄県のさとうきび",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "47",
+   "municipality": null,
+   "place_name": "沖縄県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年産",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004046431)の都道府県別の10a当たり収量（kg）を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "令和6年産のさとうきびの10a当たり収量は、沖縄県が6,260kg、2位の鹿児島県が5,850kg（比較対象2都道府県）。沖縄県の収穫面積は13,500ha（全国23,100ha）。表に掲載された県の中での順位（全国1位ではない）。 使用した統計表: ID 0004046431。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
   "sources": [
    {
     "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004046431：統計表（令和６年産）（2025年８月29日公表） 工芸農作物 令和６年産工芸農作物の収穫量 さとうきび",
