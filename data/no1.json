@@ -24960,6 +24960,981 @@
   }
  },
  {
+  "id": "jp-01-13a67f1e",
+  "schema_version": 1,
+  "title": "経産牛の頭数（乳用牛）",
+  "claim": "農林水産省「畜産統計調査」（令和7年2月1日現在）によると、北海道の経産牛の頭数（乳用牛）は全国1位（470,500頭）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "北海道",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "令和7年2月1日現在",
+   "streak": 5
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004047181)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和7年2月1日現在）の統計表で、北海道の経産牛の頭数（乳用牛）は470,500頭、2位の栃木県は39,200頭で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 820,100頭）。2021年から2025年まで5年連続で北海道が1位（令和3年以降の表で確認。それ以前は未確認）。 各年の値: 2025年 470,500頭、2024年 468,000頭、2023年 470,000頭、2022年 480,900頭、2021年 470,200頭。 使用した統計表: ID 0004047181。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004047181：乳用牛（令和７年２月１日現在） 全国農業地域・都道府県別 飼養戸数・頭数 成畜飼養頭数規模別の飼養戸数 成畜飼養頭数規模別の飼養頭数 成畜飼養頭数規模別の成畜飼養頭数 年齢別飼養頭数 月別経産牛頭数 月別出生頭数（乳用種めす）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004047181",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-37c90ed4",
+  "schema_version": 1,
+  "title": "乳用種の肉用牛の飼養頭数",
+  "claim": "農林水産省「畜産統計調査」（令和7年2月1日現在）によると、北海道の乳用種の肉用牛の飼養頭数は全国1位（333,500頭）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "北海道",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "令和7年2月1日現在",
+   "streak": 5
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004047183)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和7年2月1日現在）の統計表で、北海道の乳用種の肉用牛の飼養頭数は333,500頭、2位の栃木県は37,100頭で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 743,800頭）。2021年から2025年まで5年連続で北海道が1位（令和3年以降の表で確認。それ以前は未確認）。 各年の値: 2025年 333,500頭、2024年 344,800頭、2023年 356,300頭、2022年 352,100頭、2021年 336,700頭。 使用した統計表: ID 0004047183。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004047183：肉用牛（令和７年２月１日現在） 全国農業地域・都道府県別 飼養戸数・頭数 ～ 飼養状態別飼養頭数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004047183",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-7765dfd1",
+  "schema_version": 1,
+  "title": "搾乳牛の頭数",
+  "claim": "農林水産省「畜産統計調査」（令和7年2月1日現在）によると、北海道の搾乳牛の頭数は全国1位（397,500頭）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "北海道",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "令和7年2月1日現在",
+   "streak": 5
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004047181)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和7年2月1日現在）の統計表で、北海道の搾乳牛の頭数は397,500頭、2位の栃木県は33,800頭で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 696,700頭）。2021年から2025年まで5年連続で北海道が1位（令和3年以降の表で確認。それ以前は未確認）。 各年の値: 2025年 397,500頭、2024年 397,800頭、2023年 400,000頭、2022年 409,700頭、2021年 400,600頭。 使用した統計表: ID 0004047181。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004047181：乳用牛（令和７年２月１日現在） 全国農業地域・都道府県別 飼養戸数・頭数 成畜飼養頭数規模別の飼養戸数 成畜飼養頭数規模別の飼養頭数 成畜飼養頭数規模別の成畜飼養頭数 年齢別飼養頭数 月別経産牛頭数 月別出生頭数（乳用種めす）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004047181",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-82b2ec9b",
+  "schema_version": 1,
+  "title": "交雑種（肉用牛）の飼養頭数",
+  "claim": "農林水産省「畜産統計調査」（令和7年2月1日現在）によると、北海道の交雑種（肉用牛）の飼養頭数は全国1位（193,400頭）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "北海道",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "令和7年2月1日現在",
+   "streak": 5
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004047183)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和7年2月1日現在）の統計表で、北海道の交雑種（肉用牛）の飼養頭数は193,400頭、2位の栃木県は31,600頭で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 559,400頭）。2021年から2025年まで5年連続で北海道が1位（令和3年以降の表で確認。それ以前は未確認）。 各年の値: 2025年 193,400頭、2024年 191,800頭、2023年 186,400頭、2022年 176,500頭、2021年 165,100頭。 使用した統計表: ID 0004047183。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004047183：肉用牛（令和７年２月１日現在） 全国農業地域・都道府県別 飼養戸数・頭数 ～ 飼養状態別飼養頭数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004047183",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-e4c4fffe",
+  "schema_version": 1,
+  "title": "ホルスタイン種他（肉用牛）の飼養頭数",
+  "claim": "農林水産省「畜産統計調査」（令和7年2月1日現在）によると、北海道のホルスタイン種他（肉用牛）の飼養頭数は全国1位（140,100頭）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "北海道",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": null,
+   "place_name": "北海道",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "令和7年2月1日現在",
+   "streak": 5
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004047183)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和7年2月1日現在）の統計表で、北海道のホルスタイン種他（肉用牛）の飼養頭数は140,100頭、2位の青森県は6,760頭で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 184,400頭）。2021年から2025年まで5年連続で北海道が1位（令和3年以降の表で確認。それ以前は未確認）。 各年の値: 2025年 140,100頭、2024年 153,000頭、2023年 169,900頭、2022年 175,600頭、2021年 171,600頭。 使用した統計表: ID 0004047183。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004047183：肉用牛（令和７年２月１日現在） 全国農業地域・都道府県別 飼養戸数・頭数 ～ 飼養状態別飼養頭数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004047183",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-12-501e8f85",
+  "schema_version": 1,
+  "title": "採卵鶏・種鶏の飼養羽数（合計）",
+  "claim": "農林水産省「畜産統計調査」（令和6年2月1日現在）によると、千葉県の採卵鶏・種鶏の飼養羽数（合計）は全国1位（14,173千羽）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "千葉県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "12",
+   "municipality": null,
+   "place_name": "千葉県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年2月1日現在",
+   "streak": 2
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004041877)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和6年2月1日現在）の統計表で、千葉県の採卵鶏・種鶏の飼養羽数（合計）は14,173千羽、2位の茨城県は12,310千羽で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 170,776千羽）。2023年から2024年まで2年連続で千葉県が1位（令和5年以降の表で確認。それ以前は未確認）。 各年の値: 2024年 14,173千羽、2023年 13,113千羽。 使用した統計表: ID 0004041877。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004041877：採卵鶏（令和６年２月１日現在） 飼養戸数・羽数（全国農業地域・都道府県別）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004041877",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-12-fab16204",
+  "schema_version": 1,
+  "title": "採卵鶏（種鶏を除く）の飼養羽数",
+  "claim": "農林水産省「畜産統計調査」（令和6年2月1日現在）によると、千葉県の採卵鶏（種鶏を除く）の飼養羽数は全国1位（14,129千羽）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "千葉県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "12",
+   "municipality": null,
+   "place_name": "千葉県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年2月1日現在",
+   "streak": 2
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004041877)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和6年2月1日現在）の統計表で、千葉県の採卵鶏（種鶏を除く）の飼養羽数は14,129千羽、2位の茨城県は12,109千羽で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 168,599千羽）。2023年から2024年まで2年連続で千葉県が1位（令和5年以降の表で確認。それ以前は未確認）。 各年の値: 2024年 14,129千羽、2023年 13,073千羽。 使用した統計表: ID 0004041877。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004041877：採卵鶏（令和６年２月１日現在） 飼養戸数・羽数（全国農業地域・都道府県別）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004041877",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-12-fe4ae250",
+  "schema_version": 1,
+  "title": "成鶏めす（採卵鶏）の飼養羽数",
+  "claim": "農林水産省「畜産統計調査」（令和6年2月1日現在）によると、千葉県の成鶏めす（採卵鶏）の飼養羽数は全国1位（11,186千羽）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "千葉県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "12",
+   "municipality": null,
+   "place_name": "千葉県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年2月1日現在",
+   "streak": null
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004041877)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和6年2月1日現在）の統計表で、千葉県の成鶏めす（採卵鶏）の飼養羽数は11,186千羽、2位の茨城県は10,222千羽で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 129,729千羽）。 使用した統計表: ID 0004041877。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004041877：採卵鶏（令和６年２月１日現在） 飼養戸数・羽数（全国農業地域・都道府県別）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004041877",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-43-b5f64c4c",
+  "schema_version": 1,
+  "title": "褐毛和種の飼養頭数",
+  "claim": "農林水産省「畜産統計調査」（令和7年2月1日現在）によると、熊本県の褐毛和種の飼養頭数は全国1位（16,900頭）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "熊本県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "43",
+   "municipality": null,
+   "place_name": "熊本県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "令和7年2月1日現在",
+   "streak": 5
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004047183)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和7年2月1日現在）の統計表で、熊本県の褐毛和種の飼養頭数は16,900頭、2位の北海道は2,430頭で、都道府県の値を比較すると1位（比較対象34都道府県、全国合計 23,100頭）。2021年から2025年まで5年連続で熊本県が1位（令和3年以降の表で確認。それ以前は未確認）。 各年の値: 2025年 16,900頭、2024年 17,000頭、2023年 17,300頭、2022年 16,400頭、2021年 16,300頭。 使用した統計表: ID 0004047183。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004047183：肉用牛（令和７年２月１日現在） 全国農業地域・都道府県別 飼養戸数・頭数 ～ 飼養状態別飼養頭数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004047183",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-0244aac9",
+  "schema_version": 1,
+  "title": "肥育用牛（肉用種）の飼養頭数",
+  "claim": "農林水産省「畜産統計調査」（令和7年2月1日現在）によると、鹿児島県の肥育用牛（肉用種）の飼養頭数は全国1位（156,400頭）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "鹿児島県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "令和7年2月1日現在",
+   "streak": 5
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004047183)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和7年2月1日現在）の統計表で、鹿児島県の肥育用牛（肉用種）の飼養頭数は156,400頭、2位の宮崎県は83,900頭で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 833,600頭）。2021年から2025年まで5年連続で鹿児島県が1位（令和3年以降の表で確認。それ以前は未確認）。 各年の値: 2025年 156,400頭、2024年 154,900頭、2023年 152,900頭、2022年 142,700頭、2021年 147,400頭。 使用した統計表: ID 0004047183。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004047183：肉用牛（令和７年２月１日現在） 全国農業地域・都道府県別 飼養戸数・頭数 ～ 飼養状態別飼養頭数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004047183",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-332bc9c5",
+  "schema_version": 1,
+  "title": "肥育豚の飼養頭数",
+  "claim": "農林水産省「畜産統計調査」（令和6年2月1日現在）によると、鹿児島県の肥育豚の飼養頭数は全国1位（856,200頭）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "鹿児島県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年2月1日現在",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004041860)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和6年2月1日現在）の統計表で、鹿児島県の肥育豚の飼養頭数は856,200頭、2位の北海道は625,400頭で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 7,362,000頭）。2021年から2024年まで4年連続で鹿児島県が1位（令和3年以降の表で確認。それ以前は未確認）。 各年の値: 2024年 856,200頭、2023年 896,900頭、2022年 929,400頭、2021年 950,000頭。 使用した統計表: ID 0004041860。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004041860：豚（令和６年２月１日現在） 全国農業地域・都道府県別 飼養戸数・頭数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004041860",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-409d3c57",
+  "schema_version": 1,
+  "title": "子取り用めす豚の飼養頭数",
+  "claim": "農林水産省「畜産統計調査」（令和6年2月1日現在）によると、鹿児島県の子取り用めす豚の飼養頭数は全国1位（112,300頭）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "鹿児島県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年2月1日現在",
+   "streak": 4
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004041860)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和6年2月1日現在）の統計表で、鹿児島県の子取り用めす豚の飼養頭数は112,300頭、2位の北海道は66,200頭で、都道府県の値を比較すると1位（比較対象44都道府県、全国合計 758,300頭）。秘匿値 2 件は全国合計との差(150)が1位の値より小さく、順位に影響しない。2021年から2024年まで4年連続で鹿児島県が1位（令和3年以降の表で確認。それ以前は未確認）。 各年の値: 2024年 112,300頭、2023年 114,300頭、2022年 119,200頭、2021年 120,200頭。 使用した統計表: ID 0004041860。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004041860：豚（令和６年２月１日現在） 全国農業地域・都道府県別 飼養戸数・頭数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004041860",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-6ff06d22",
+  "schema_version": 1,
+  "title": "ブロイラーの飼養羽数",
+  "claim": "農林水産省「畜産統計調査」（令和6年2月1日現在）によると、鹿児島県のブロイラーの飼養羽数は全国1位（32,003千羽）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "鹿児島県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "令和6年2月1日現在",
+   "streak": 3
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004041880)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和6年2月1日現在）の統計表で、鹿児島県のブロイラーの飼養羽数は32,003千羽、2位の宮崎県は28,155千羽で、都道府県の値を比較すると1位（比較対象37都道府県、全国合計 144,859千羽）。秘匿値 4 件は全国合計との差(318)が1位の値より小さく、順位に影響しない。2022年から2024年まで3年連続で鹿児島県が1位（令和4年以降の表で確認。それ以前は未確認）。 各年の値: 2024年 32,003千羽、2023年 31,285千羽、2022年 28,090千羽。 使用した統計表: ID 0004041880。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004041880：ブロイラー（令和６年２月１日現在） 飼養戸数・羽数（全国農業地域・都道府県別）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004041880",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-87a30eaa",
+  "schema_version": 1,
+  "title": "子取り用めす牛（肉用種）の飼養頭数",
+  "claim": "農林水産省「畜産統計調査」（令和7年2月1日現在）によると、鹿児島県の子取り用めす牛（肉用種）の飼養頭数は全国1位（120,800頭）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "鹿児島県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "令和7年2月1日現在",
+   "streak": 5
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004047183)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和7年2月1日現在）の統計表で、鹿児島県の子取り用めす牛（肉用種）の飼養頭数は120,800頭、2位の宮崎県は80,900頭で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 611,400頭）。2021年から2025年まで5年連続で鹿児島県が1位（令和3年以降の表で確認。それ以前は未確認）。 各年の値: 2025年 120,800頭、2024年 123,100頭、2023年 121,200頭、2022年 117,800頭、2021年 118,600頭。 使用した統計表: ID 0004047183。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004047183：肉用牛（令和７年２月１日現在） 全国農業地域・都道府県別 飼養戸数・頭数 ～ 飼養状態別飼養頭数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004047183",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-bb975d9d",
+  "schema_version": 1,
+  "title": "肉用種の飼養頭数",
+  "claim": "農林水産省「畜産統計調査」（令和7年2月1日現在）によると、鹿児島県の肉用種の飼養頭数は全国1位（349,900頭）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位",
+   "scope_note": "都道府県間の比較（統計表の数値から算出）"
+  },
+  "subject": {
+   "name": "鹿児島県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": null,
+   "place_name": "鹿児島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "令和7年2月1日現在",
+   "streak": 5
+  },
+  "evidence": {
+   "type": "official_stat",
+   "strength": "A",
+   "org": "農林水産省",
+   "method": "e-Stat の統計表(ID 0004047183)の値を比較して算出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産統計調査（令和7年2月1日現在）の統計表で、鹿児島県の肉用種の飼養頭数は349,900頭、2位の宮崎県は220,600頭で、都道府県の値を比較すると1位（比較対象47都道府県、全国合計 1,851,000頭）。2021年から2025年まで5年連続で鹿児島県が1位（令和3年以降の表で確認。それ以前は未確認）。 各年の値: 2025年 349,900頭、2024年 350,100頭、2023年 343,400頭、2022年 323,100頭、2021年 336,600頭。 使用した統計表: ID 0004047183。政府統計の総合窓口(e-Stat)の統計表を編集・加工して作成。国が作成したものではありません。",
+  "sources": [
+   {
+    "title": "政府統計の総合窓口(e-Stat) 統計表ID 0004047183：肉用牛（令和７年２月１日現在） 全国農業地域・都道府県別 飼養戸数・頭数 ～ 飼養状態別飼養頭数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004047183",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-46-5fef6473",
   "schema_version": 1,
   "title": "鹿児島県の「部分肉、冷凍肉（ブロイラーを除く）」の出荷額は全国1位",
