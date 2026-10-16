@@ -130216,12 +130216,12 @@
   },
   "location": {
    "pref_code": "08",
-   "municipality": null,
+   "municipality": "ひたちなか市",
    "place_name": "国営ひたち海浜公園周辺ルート",
-   "address": null,
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "address": "茨城県ひたちなか市馬渡605-4",
+   "lat": 36.398067,
+   "lng": 140.572067,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -130261,7 +130261,7 @@
   },
   "status": {
    "verified_at": "2026-10-16",
-   "needs_review": true
+   "needs_review": false
   }
  },
  {
@@ -130606,12 +130606,12 @@
   },
   "location": {
    "pref_code": "08",
-   "municipality": null,
+   "municipality": "ひたちなか市",
    "place_name": "国営ひたち海浜公園周辺ルート",
-   "address": null,
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "address": "茨城県ひたちなか市馬渡605-4",
+   "lat": 36.398067,
+   "lng": 140.572067,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -130651,7 +130651,7 @@
   },
   "status": {
    "verified_at": "2026-10-16",
-   "needs_review": true
+   "needs_review": false
   }
  },
  {
@@ -132101,12 +132101,12 @@
   },
   "location": {
    "pref_code": "08",
-   "municipality": null,
+   "municipality": "ひたちなか市",
    "place_name": "国営ひたち海浜公園周辺ルート",
-   "address": null,
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "address": "茨城県ひたちなか市馬渡605-4",
+   "lat": 36.398067,
+   "lng": 140.572067,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -132146,7 +132146,7 @@
   },
   "status": {
    "verified_at": "2026-10-16",
-   "needs_review": true
+   "needs_review": false
   }
  },
  {
@@ -132621,12 +132621,12 @@
   },
   "location": {
    "pref_code": "08",
-   "municipality": null,
+   "municipality": "ひたちなか市",
    "place_name": "国営ひたち海浜公園周辺ルート",
-   "address": null,
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "address": "茨城県ひたちなか市馬渡605-4",
+   "lat": 36.398067,
+   "lng": 140.572067,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -132666,7 +132666,7 @@
   },
   "status": {
    "verified_at": "2026-10-16",
-   "needs_review": true
+   "needs_review": false
   }
  },
  {
@@ -163041,12 +163041,12 @@
   },
   "location": {
    "pref_code": "25",
-   "municipality": null,
+   "municipality": "大津市",
    "place_name": "びわ湖バレイ周辺ルート",
-   "address": null,
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "address": "滋賀県大津市木戸1547-1",
+   "lat": 35.207863,
+   "lng": 135.899689,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -193461,12 +193461,12 @@
   },
   "location": {
    "pref_code": "31",
-   "municipality": null,
+   "municipality": "境港市",
    "place_name": "水木しげるロード",
-   "address": null,
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "address": "鳥取県境港市本町5",
+   "lat": 35.546242,
+   "lng": 133.231277,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
