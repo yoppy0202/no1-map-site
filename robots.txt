@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yoppy0202.github.io/no1-map-site/sitemap.xml

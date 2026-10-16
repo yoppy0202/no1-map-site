@@ -1,0 +1,5 @@
+# No.1マップ
+> 1位だけを出典つきで集めた日本の地図サイト。
+
+- [収録基準](https://yoppy0202.github.io/no1-map-site/about/)
+- [全件データ](https://yoppy0202.github.io/no1-map-site/data/no1.json)
