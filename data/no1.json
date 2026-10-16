@@ -63490,6 +63490,441 @@
   }
  },
  {
+  "id": "jp-09-1ef62657",
+  "schema_version": 1,
+  "title": "International Illumination Award 2025 最優秀賞 あしかがフラワーパーク「光の花の庭」",
+  "claim": "International Illumination Award 2025（夜景観光コンベンション・ビューロー、2025年11月11日（横浜市開港記念会館））の最優秀賞で、あしかがフラワーパーク「光の花の庭」が1位。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "International Illumination Award 2025 最優秀賞",
+   "scope_note": "アワード全体の最優秀賞（1件）。対象は前年秋冬のイルミネーションイベント。"
+  },
+  "subject": {
+   "name": "あしかがフラワーパーク「光の花の庭」",
+   "kind": "event"
+  },
+  "location": {
+   "pref_code": "09",
+   "municipality": "足利市",
+   "place_name": "あしかがフラワーパーク",
+   "address": "栃木県足利市迫間町607",
+   "lat": 36.314274,
+   "lng": 139.52037,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "travel_stay"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "International Illumination Award 2025",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "一般社団法人 夜景観光コンベンション・ビューロー／ぴあ株式会社",
+   "method": "最終候補から特別審査会の審査員（9名）が採点して決定",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "栃木県足利市のあしかがフラワーパークのイルミネーション。2025年のアワード全体の最優秀賞。",
+  "sources": [
+   {
+    "title": "夜景観光コンベンション・ビューロー International Illumination Award 2025 結果発表",
+    "url": "https://yakei-cvb.or.jp/news/4242",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "あしかがフラワーパーク 公式（所在地）",
+    "url": "https://www.ashikaga.co.jp/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.ashikaga.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-12-de33df81",
+  "schema_version": 1,
+  "title": "2023年度グッドデザイン大賞 老人デイサービスセンター「52間の縁側」（八千代市）",
+  "claim": "グッドデザイン賞（日本デザイン振興会、2023年度）で、有限会社オールフォアワンの老人デイサービスセンター「52間の縁側」（千葉県八千代市）がグッドデザイン大賞（内閣総理大臣賞）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "グッドデザイン大賞（内閣総理大臣賞）2023年度",
+   "scope_note": "2023年度グッドデザイン賞の全受賞対象の中の最高賞。1件のみ。"
+  },
+  "subject": {
+   "name": "老人デイサービスセンター「52間の縁側」",
+   "kind": "facility"
+  },
+  "location": {
+   "pref_code": "12",
+   "municipality": "八千代市",
+   "place_name": "宅老所いしいさん家（52間の縁側）",
+   "address": "千葉県八千代市米本1318-1",
+   "lat": 35.761189,
+   "lng": 140.11441,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "living_town"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": 2023,
+   "period_label": "2023年度グッドデザイン賞",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "公益財団法人日本デザイン振興会",
+   "method": "主催団体による表彰（受賞結果ページ）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "地域の人たちが気軽に立ち寄れる縁側のような老人デイサービス。高齢者や子供、地域住民の居場所であり、助け合える福祉の地域拠点（受賞概要より）。事業主体は有限会社オールフォアワン。",
+  "sources": [
+   {
+    "title": "グッドデザイン賞 2023年度 受賞結果",
+    "url": "https://www.g-mark.org/learn/past-awards/gda-2023/results",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "グッドデザイン賞 受賞ギャラリー（受賞対象の詳細）",
+    "url": "https://www.g-mark.org/gallery/winners/20423",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.ishiisanchi.com",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-13-a9c95150",
+  "schema_version": 1,
+  "title": "第5回日本サービス大賞 内閣総理大臣賞 ナビタイムジャパン「Japan Travel by NAVITIME」",
+  "claim": "日本サービス大賞（サービス産業生産性協議会、第5回・2025年表彰）で、株式会社ナビタイムジャパンの訪日観光ナビゲーションアプリ「Japan Travel by NAVITIME」が最高賞の内閣総理大臣賞（1件）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "日本サービス大賞 内閣総理大臣賞",
+   "scope_note": "日本サービス大賞の最高賞（内閣総理大臣賞）。第5回は1件のみ。全国から応募されたサービスが対象。"
+  },
+  "subject": {
+   "name": "株式会社ナビタイムジャパン（Japan Travel by NAVITIME）",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": "港区",
+   "place_name": "株式会社ナビタイムジャパン",
+   "address": "東京都港区南青山3-8-38",
+   "lat": 35.666992,
+   "lng": 139.71521,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "industry_people"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "第5回日本サービス大賞（2024年応募、2025年12月表彰式）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "公益財団法人日本生産性本部 サービス産業生産性協議会（SPRING）",
+   "method": "主催団体による表彰（受賞一覧ページ）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "訪日外国人向けの観光ナビゲーションアプリ。第5回日本サービス大賞の受賞33件のうち、内閣総理大臣賞は1件。",
+  "sources": [
+   {
+    "title": "日本サービス大賞 第5回 受賞一覧",
+    "url": "https://service-award.jp/result05.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "日本サービス大賞 過去の受賞一覧",
+    "url": "https://service-award.jp/award_index.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "ナビタイムジャパン 会社概要（所在地）",
+    "url": "https://corporate.navitime.co.jp/profile/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://corporate.navitime.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-18-aedc431f",
+  "schema_version": 1,
+  "title": "2024年度グッドデザイン大賞 遊具研究プロジェクト RESILIENCE PLAYGROUND（ジャクエツ）",
+  "claim": "グッドデザイン賞（日本デザイン振興会、2024年度）で、株式会社ジャクエツの「遊具研究プロジェクト RESILIENCE PLAYGROUND プロジェクト」がグッドデザイン大賞（内閣総理大臣賞）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "グッドデザイン大賞（内閣総理大臣賞）2024年度",
+   "scope_note": "2024年度グッドデザイン賞の全受賞対象の中の最高賞。1件のみ。"
+  },
+  "subject": {
+   "name": "株式会社ジャクエツ（遊具研究プロジェクト）",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "18",
+   "municipality": "敦賀市",
+   "place_name": "株式会社ジャクエツ 福井本社",
+   "address": "福井県敦賀市若葉町2-1770",
+   "lat": 35.63205,
+   "lng": 136.050934,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "industry_people"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "2024年度グッドデザイン賞",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "公益財団法人日本デザイン振興会",
+   "method": "主催団体による表彰（受賞結果ページ）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "障害の有無に関わらず誰もが遊べる遊具を、医療と遊具の分野を越えて開発したプロジェクト。医療的ケア児の「遊びたくても遊べない」課題に注目し、3つの遊具を開発（受賞概要より）。",
+  "sources": [
+   {
+    "title": "グッドデザイン賞 2024年度 受賞結果",
+    "url": "https://www.g-mark.org/learn/past-awards/gda-2024/results",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "グッドデザイン賞 受賞ギャラリー（受賞対象の詳細）",
+    "url": "https://www.g-mark.org/gallery/winners/22683",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "株式会社ジャクエツ 本社・営業店のご案内",
+    "url": "http://www.jakuets.co.jp/company/access/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "http://www.jakuets.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-22-2bef2198",
+  "schema_version": 1,
+  "title": "2026年度グッドデザイン大賞 専用マイク付きドラム拡張モジュール EAD50（ヤマハ）",
+  "claim": "グッドデザイン賞（日本デザイン振興会、2026年度）で、ヤマハ株式会社の「専用マイク付きドラム拡張モジュール EAD50」がグッドデザイン大賞（内閣総理大臣賞）。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "グッドデザイン大賞（内閣総理大臣賞）2026年度",
+   "scope_note": "2026年度グッドデザイン賞の全受賞対象の中の最高賞。1件のみ。"
+  },
+  "subject": {
+   "name": "ヤマハ株式会社（EAD50）",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "22",
+   "municipality": "浜松市",
+   "place_name": "ヤマハ株式会社 本社",
+   "address": "静岡県浜松市中央区中沢町10-1",
+   "lat": 34.718735,
+   "lng": 137.732468,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "industry_people"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2026,
+   "period_label": "2026年度グッドデザイン賞",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "公益財団法人日本デザイン振興会",
+   "method": "主催団体による表彰（受賞結果ページ）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "バスドラムにセンサーユニットを装着するだけでドラムセット全体を高音質に収音し、ミキシングやエフェクト操作をドラマー自身が行えるドラムPAソリューション（受賞概要より）。",
+  "sources": [
+   {
+    "title": "グッドデザイン賞 2026年度 受賞結果",
+    "url": "https://www.g-mark.org/learn/past-awards/gda-2026/results",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "グッドデザイン賞 受賞ギャラリー（受賞対象の詳細）",
+    "url": "https://www.g-mark.org/gallery/winners/34841",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "ヤマハ株式会社 企業概要（本社所在地）",
+    "url": "https://www.yamaha.com/ja/about/profile/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.yamaha.com/ja/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-42-bf2362d0",
+  "schema_version": 1,
+  "title": "International Illumination Award 2024 最優秀賞 ハウステンボス「光の王国」",
+  "claim": "International Illumination Award 2024（夜景観光コンベンション・ビューロー、2024年11月6日（愛知県蒲郡市））の最優秀賞で、ハウステンボス「光の王国」が1位。",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "International Illumination Award 2024 最優秀賞",
+   "scope_note": "アワード全体の最優秀賞（1件）。対象は前年秋冬のイルミネーションイベント。"
+  },
+  "subject": {
+   "name": "ハウステンボス「光の王国」",
+   "kind": "event"
+  },
+  "location": {
+   "pref_code": "42",
+   "municipality": "佐世保市",
+   "place_name": "ハウステンボス",
+   "address": "長崎県佐世保市ハウステンボス町1-1",
+   "lat": 33.080772,
+   "lng": 129.784363,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "travel_stay"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "International Illumination Award 2024",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "一般社団法人 夜景観光コンベンション・ビューロー／ぴあ株式会社",
+   "method": "最終候補から特別審査会の審査員（9名）が採点して決定",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "長崎県佐世保市のハウステンボスのイルミネーション。2024年のアワード全体の最優秀賞。",
+  "sources": [
+   {
+    "title": "夜景観光コンベンション・ビューロー International Illumination Award 2024 結果発表",
+    "url": "https://yakei-cvb.or.jp/news/3916",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "ハウステンボス 会社情報（所在地）",
+    "url": "https://www.huistenbosch.co.jp/aboutus/company/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.huistenbosch.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-19-4de815c4",
   "schema_version": 1,
   "title": "楽天トラベルアワード2025 全国総合1位 富士河口湖温泉 大池ホテル",
