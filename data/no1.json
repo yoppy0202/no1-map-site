@@ -1,5 +1,3080 @@
 [
  {
+  "id": "jp-01-43d74f6d",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和6年度・水産部門) 中辻 清貴",
+  "claim": "農林水産祭 令和6年度(第63回)の天皇杯(水産部門・経営〔漁業経営改善〕)に、北海道利尻郡利尻町の中辻 清貴が選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。水産部門。"
+  },
+  "subject": {
+   "name": "中辻 清貴",
+   "kind": "person"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": "利尻町",
+   "place_name": "利尻町",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "令和6年度(第63回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "水産部門の天皇杯。出品財は漁業経営改善、推薦された表彰行事は「第29回全国青年・女性漁業者交流大会」。農林水産省2024年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和6年度(第63回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/241002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和6年度(第63回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/241002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": true,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-01-c036042d",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和7年度・多角化経営部門) 株式会社芦別RICE",
+  "claim": "農林水産祭 令和7年度(第64回)の天皇杯(多角化経営部門・経営〔水稲〕)に、北海道芦別市の株式会社芦別RICEが選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。多角化経営部門。"
+  },
+  "subject": {
+   "name": "株式会社芦別RICE",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "01",
+   "municipality": "芦別市",
+   "place_name": "芦別市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "令和7年度(第64回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "多角化経営部門の天皇杯。出品財は水稲、推薦された表彰行事は「令和6年度輸出に取り組む優良事業者表彰」。農林水産省2025年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和7年度(第64回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/251002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和7年度(第64回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/251002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-02-73a66368",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2025 モダンナチュラル部門 第1位 株式会社西田酒造店「田酒 純米大吟醸 山廃」",
+  "claim": "SAKE COMPETITION 2025（市販酒をブラインド審査する日本酒の品評会）のモダンナチュラル部門（出品115点）で、株式会社西田酒造店の「田酒 純米大吟醸 山廃」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2025 モダンナチュラル部門 第1位",
+   "scope_note": "SAKE COMPETITION 2025 モダンナチュラル部門（出品115点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "株式会社西田酒造店「田酒 純米大吟醸 山廃」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "02",
+   "municipality": null,
+   "place_name": "青森県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2025",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "モダンナチュラル部門 出品115点"
+  },
+  "detail": "モダンナチュラル部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2025GOLDSILVERBRONZE.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2025 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2025_eng.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2025.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-04-0fa6d70e",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2026 モダンナチュラル部門 第1位 合名会社川敬商店「たちばなや 純米吟醸」",
+  "claim": "SAKE COMPETITION 2026（市販酒をブラインド審査する日本酒の品評会）のモダンナチュラル部門（出品95点）で、合名会社川敬商店の「たちばなや 純米吟醸」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2026 モダンナチュラル部門 第1位",
+   "scope_note": "SAKE COMPETITION 2026 モダンナチュラル部門（出品95点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "合名会社川敬商店「たちばなや 純米吟醸」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "04",
+   "municipality": null,
+   "place_name": "宮城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2026",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "モダンナチュラル部門 出品95点"
+  },
+  "detail": "モダンナチュラル部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "SAKE COMPETITION 2026 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2026.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-04-51ef37c4",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2023 純米酒部門 第1位 大和蔵酒造株式会社「雪の松島 海-KAI- ひとめぼれ 純米原酒」",
+  "claim": "SAKE COMPETITION 2023（市販酒をブラインド審査する日本酒の品評会）の純米酒部門（出品273点）で、大和蔵酒造株式会社の「雪の松島 海-KAI- ひとめぼれ 純米原酒」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2023 純米酒部門 第1位",
+   "scope_note": "SAKE COMPETITION 2023 純米酒部門（出品273点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "大和蔵酒造株式会社「雪の松島 海-KAI- ひとめぼれ 純米原酒」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "04",
+   "municipality": null,
+   "place_name": "宮城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2023",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米酒部門 出品273点"
+  },
+  "detail": "純米酒部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2023GOLDSILVER.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2023 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2023.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2026.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-04-5fcc7dbd",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2024 純米大吟醸部門 第1位 株式会社山和酒造店「山和 Shizukudori」",
+  "claim": "SAKE COMPETITION 2024（市販酒をブラインド審査する日本酒の品評会）の純米大吟醸部門（出品334点）で、株式会社山和酒造店の「山和 Shizukudori」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2024 純米大吟醸部門 第1位",
+   "scope_note": "SAKE COMPETITION 2024 純米大吟醸部門（出品334点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "株式会社山和酒造店「山和 Shizukudori」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "04",
+   "municipality": null,
+   "place_name": "宮城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2024",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米大吟醸部門 出品334点"
+  },
+  "detail": "純米大吟醸部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2024GOLDSILVER.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2024 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2024.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2026.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-04-89734a3f",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和7年度・むらづくり部門) 入谷の里山活性化協議会",
+  "claim": "農林水産祭 令和7年度(第64回)の天皇杯(むらづくり部門・むらづくり活動〔むらづくり活動〕)に、宮城県本吉郡南三陸町の入谷の里山活性化協議会が選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。むらづくり部門。"
+  },
+  "subject": {
+   "name": "入谷の里山活性化協議会",
+   "kind": "organization"
+  },
+  "location": {
+   "pref_code": "04",
+   "municipality": "南三陸町",
+   "place_name": "南三陸町",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "令和7年度(第64回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "むらづくり部門の天皇杯。出品財はむらづくり活動、推薦された表彰行事は「第47回豊かなむらづくり全国表彰事業」。農林水産省2025年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和7年度(第64回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/251002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和7年度(第64回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/251002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-06-844be542",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和6年度・畜産部門) 株式会社蔵王ファーム",
+  "claim": "農林水産祭 令和6年度(第63回)の天皇杯(畜産部門・経営〔肉用牛一貫〕)に、山形県南陽市の株式会社蔵王ファームが選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。畜産部門。"
+  },
+  "subject": {
+   "name": "株式会社蔵王ファーム",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "06",
+   "municipality": "南陽市",
+   "place_name": "南陽市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "令和6年度(第63回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産部門の天皇杯。出品財は肉用牛一貫、推薦された表彰行事は「令和5年度全国優良畜産経営管理技術発表会」。農林水産省2024年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和6年度(第63回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/241002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和6年度(第63回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/241002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-06-902af16e",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和7年度・農産・蚕糸部門) 株式会社おしの農場",
+  "claim": "農林水産祭 令和7年度(第64回)の天皇杯(農産・蚕糸部門・経営〔大豆〕)に、山形県天童市の株式会社おしの農場が選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。農産・蚕糸部門。"
+  },
+  "subject": {
+   "name": "株式会社おしの農場",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "06",
+   "municipality": "天童市",
+   "place_name": "天童市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "令和7年度(第64回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "農産・蚕糸部門の天皇杯。出品財は大豆、推薦された表彰行事は「第53回全国豆類経営改善共励会」。農林水産省2025年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和7年度(第64回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/251002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和7年度(第64回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/251002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-07-633a687b",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和6年度・園芸部門) JA会津よつば昭和かすみ草部会",
+  "claim": "農林水産祭 令和6年度(第63回)の天皇杯(園芸部門・経営〔宿根かすみそう〕)に、福島県大沼郡昭和村のJA会津よつば昭和かすみ草部会が選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。園芸部門。"
+  },
+  "subject": {
+   "name": "JA会津よつば昭和かすみ草部会",
+   "kind": "organization"
+  },
+  "location": {
+   "pref_code": "07",
+   "municipality": "昭和村",
+   "place_name": "昭和村",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "令和6年度(第63回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "園芸部門の天皇杯。出品財は宿根かすみそう、推薦された表彰行事は「第53回日本農業賞」。農林水産省2024年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和6年度(第63回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/241002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和6年度(第63回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/241002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-07-93676b4f",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2024 純米吟醸部門 第1位 合名会社大木代吉本店「楽器正宗 愛山 中取り」",
+  "claim": "SAKE COMPETITION 2024（市販酒をブラインド審査する日本酒の品評会）の純米吟醸部門（出品350点）で、合名会社大木代吉本店の「楽器正宗 愛山 中取り」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2024 純米吟醸部門 第1位",
+   "scope_note": "SAKE COMPETITION 2024 純米吟醸部門（出品350点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "合名会社大木代吉本店「楽器正宗 愛山 中取り」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "07",
+   "municipality": null,
+   "place_name": "福島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2024",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米吟醸部門 出品350点"
+  },
+  "detail": "純米吟醸部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2024GOLDSILVER.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2024 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2024.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2026.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-08-ceab57d4",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2024 SUPER PREMIUM部門 第1位 森島酒造株式会社「富士大観 秘蔵酒 限定大吟醸」",
+  "claim": "SAKE COMPETITION 2024（市販酒をブラインド審査する日本酒の品評会）のSUPER PREMIUM部門（出品55点）で、森島酒造株式会社の「富士大観 秘蔵酒 限定大吟醸」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2024 SUPER PREMIUM部門 第1位",
+   "scope_note": "SAKE COMPETITION 2024 SUPER PREMIUM部門（出品55点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "森島酒造株式会社「富士大観 秘蔵酒 限定大吟醸」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "08",
+   "municipality": null,
+   "place_name": "茨城県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2024",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "SUPER PREMIUM部門 出品55点"
+  },
+  "detail": "SUPER PREMIUM部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2024GOLDSILVER.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2024 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2024.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2025.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-10-bbae0d27",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和7年度・園芸部門) 佐藤 勲",
+  "claim": "農林水産祭 令和7年度(第64回)の天皇杯(園芸部門・経営〔パンジー、ビオラ、カリブラコアほか〕)に、群馬県高崎市の佐藤 勲が選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。園芸部門。"
+  },
+  "subject": {
+   "name": "佐藤 勲",
+   "kind": "person"
+  },
+  "location": {
+   "pref_code": "10",
+   "municipality": "高崎市",
+   "place_name": "高崎市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "令和7年度(第64回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "園芸部門の天皇杯。出品財はパンジー、ビオラ、カリブラコアほか、推薦された表彰行事は「第34回花の国づくり共励会 花き技術・経営コンクール」。農林水産省2025年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和7年度(第64回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/251002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和7年度(第64回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/251002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": true,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-11-3c9188f6",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和8年度・園芸部門) 株式会社モテギ洋蘭園",
+  "claim": "農林水産祭 令和8年度(第65回)の天皇杯(園芸部門・産物〔洋蘭〕)に、埼玉県本庄市の株式会社モテギ洋蘭園が選賞された(2026年10月13日に選賞決定を発表。表彰式は11月23日予定で未実施)",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。園芸部門。"
+  },
+  "subject": {
+   "name": "株式会社モテギ洋蘭園",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "11",
+   "municipality": "本庄市",
+   "place_name": "本庄市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2026,
+   "period_label": "令和8年度(第65回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "園芸部門の天皇杯。出品財は洋蘭、推薦された表彰行事は「2025年度全国洋らん品評会」。農林水産省2026年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和8年度(第65回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/261013.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和8年度(第65回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/261013-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-14-25bd8b16",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和6年度・林産部門) 株式会社T-FORESTRY",
+  "claim": "農林水産祭 令和6年度(第63回)の天皇杯(林産部門・経営〔林業経営〕)に、神奈川県小田原市の株式会社T-FORESTRYが選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。林産部門。"
+  },
+  "subject": {
+   "name": "株式会社T-FORESTRY",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "14",
+   "municipality": "小田原市",
+   "place_name": "小田原市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "令和6年度(第63回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "林産部門の天皇杯。出品財は林業経営、推薦された表彰行事は「全国林業経営推奨行事」。農林水産省2024年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和6年度(第63回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/241002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和6年度(第63回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/241002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-14-90c90b7a",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2025 純米大吟醸部門 第1位 黄金井酒造株式会社「盛升 純米大吟醸」",
+  "claim": "SAKE COMPETITION 2025（市販酒をブラインド審査する日本酒の品評会）の純米大吟醸部門（出品341点）で、黄金井酒造株式会社の「盛升 純米大吟醸」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2025 純米大吟醸部門 第1位",
+   "scope_note": "SAKE COMPETITION 2025 純米大吟醸部門（出品341点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "黄金井酒造株式会社「盛升 純米大吟醸」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "14",
+   "municipality": null,
+   "place_name": "神奈川県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2025",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米大吟醸部門 出品341点"
+  },
+  "detail": "純米大吟醸部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2025GOLDSILVERBRONZE.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2025 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2025_eng.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2025.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-15-54347538",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和7年度・林産部門) 大白川生産森林組合",
+  "claim": "農林水産祭 令和7年度(第64回)の天皇杯(林産部門・経営〔林業経営〕)に、新潟県魚沼市の大白川生産森林組合が選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。林産部門。"
+  },
+  "subject": {
+   "name": "大白川生産森林組合",
+   "kind": "organization"
+  },
+  "location": {
+   "pref_code": "15",
+   "municipality": "魚沼市",
+   "place_name": "魚沼市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "令和7年度(第64回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "林産部門の天皇杯。出品財は林業経営、推薦された表彰行事は「全国林業経営推奨行事」。農林水産省2025年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和7年度(第64回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/251002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和7年度(第64回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/251002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-15-7637bc31",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和8年度・農産・蚕糸部門) 農事組合法人濁川生産組合",
+  "claim": "農林水産祭 令和8年度(第65回)の天皇杯(農産・蚕糸部門・経営〔水稲、トマト、チンゲン菜〕)に、新潟県新潟市の農事組合法人濁川生産組合が選賞された(2026年10月13日に選賞決定を発表。表彰式は11月23日予定で未実施)",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。農産・蚕糸部門。"
+  },
+  "subject": {
+   "name": "農事組合法人濁川生産組合",
+   "kind": "organization"
+  },
+  "location": {
+   "pref_code": "15",
+   "municipality": "新潟市",
+   "place_name": "新潟市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2026,
+   "period_label": "令和8年度(第65回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "農産・蚕糸部門の天皇杯。出品財は水稲、トマト、チンゲン菜、推薦された表彰行事は「第55回日本農業賞」。農林水産省2026年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和8年度(第65回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/261013.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和8年度(第65回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/261013-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-18-1eae67ff",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和8年度・多角化経営部門) 株式会社農園たや",
+  "claim": "農林水産祭 令和8年度(第65回)の天皇杯(多角化経営部門・経営〔ベビーリーフほか〕)に、福井県福井市の株式会社農園たやが選賞された(2026年10月13日に選賞決定を発表。表彰式は11月23日予定で未実施)",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。多角化経営部門。"
+  },
+  "subject": {
+   "name": "株式会社農園たや",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "18",
+   "municipality": "福井市",
+   "place_name": "福井市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2026,
+   "period_label": "令和8年度(第65回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "多角化経営部門の天皇杯。出品財はベビーリーフほか、推薦された表彰行事は「第55回日本農業賞」。農林水産省2026年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和8年度(第65回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/261013.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和8年度(第65回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/261013-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-19-cd7b0ef1",
+  "schema_version": 1,
+  "title": "IWC 2025 SAKE部門 チャンピオン・サケ 山梨銘醸株式会社「七賢 白心 純米大吟醸」",
+  "claim": "IWC（インターナショナル・ワイン・チャレンジ）2025のSAKE部門で、山梨銘醸株式会社の「七賢 白心 純米大吟醸」が最高賞のチャンピオン・サケ(Champion Sake)に選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "world",
+   "label": "IWC SAKE部門 最高賞(チャンピオン・サケ)",
+   "scope_note": "英国IWC 2025 SAKE部門の部門トロフィー受賞酒から選ばれる最高賞。1大会1点。"
+  },
+  "subject": {
+   "name": "山梨銘醸株式会社「七賢 白心 純米大吟醸」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "19",
+   "municipality": null,
+   "place_name": "山梨県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "IWC 2025",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "IWC (International Wine Challenge) SAKE部門",
+   "method": "ブラインド審査後、金賞酒から部門トロフィー、さらにチャンピオン・サケを選出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "SAKE部門の最高賞。金賞酒から部門トロフィーが選ばれ、そのうち1点だけがチャンピオン・サケとなる。",
+  "sources": [
+   {
+    "title": "IWC Trophy results 2025(公式)",
+    "url": "https://www.internationalwinechallenge.com/trophy-results-2025.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKETIMES(IWC2025チャンピオン・サケ速報。蔵の県を確認)",
+    "url": "https://jp.sake-times.com/special/news/sake_iwc2025-championsake",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-20-226e5141",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和6年度・多角化経営部門) 株式会社なかひら農場",
+  "claim": "農林水産祭 令和6年度(第63回)の天皇杯(多角化経営部門・経営〔リンゴ6次産業化〕)に、長野県下伊那郡松川町の株式会社なかひら農場が選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。多角化経営部門。"
+  },
+  "subject": {
+   "name": "株式会社なかひら農場",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": "松川町",
+   "place_name": "松川町",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "令和6年度(第63回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "多角化経営部門の天皇杯。出品財はリンゴ6次産業化、推薦された表彰行事は「令和5年度全国優良経営体表彰」。農林水産省2024年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和6年度(第63回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/241002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和6年度(第63回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/241002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-20-595562c3",
+  "schema_version": 1,
+  "title": "IWC 2023 SAKE部門 チャンピオン・サケ 株式会社湯川酒造店「十六代九郎右衛門 純米吟醸 美山錦」",
+  "claim": "IWC（インターナショナル・ワイン・チャレンジ）2023のSAKE部門で、株式会社湯川酒造店の「十六代九郎右衛門 純米吟醸 美山錦」が最高賞のチャンピオン・サケ(Champion Sake)に選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "world",
+   "label": "IWC SAKE部門 最高賞(チャンピオン・サケ)",
+   "scope_note": "英国IWC 2023 SAKE部門の部門トロフィー受賞酒から選ばれる最高賞。1大会1点。"
+  },
+  "subject": {
+   "name": "株式会社湯川酒造店「十六代九郎右衛門 純米吟醸 美山錦」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": null,
+   "place_name": "長野県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "IWC 2023",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "IWC (International Wine Challenge) SAKE部門",
+   "method": "ブラインド審査後、金賞酒から部門トロフィー、さらにチャンピオン・サケを選出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "SAKE部門の最高賞。金賞酒から部門トロフィーが選ばれ、そのうち1点だけがチャンピオン・サケとなる。",
+  "sources": [
+   {
+    "title": "IWC Trophy results 2023(公式)",
+    "url": "https://www.internationalwinechallenge.com/trophy-results-2023.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKETIMES(IWC2023チャンピオン・サケ速報。蔵の県を確認)",
+    "url": "https://jp.sake-times.com/special/news/sake_iwc2023-championsake",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-21-4fa87bd4",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和8年度・むらづくり部門) 六ノ里自治会",
+  "claim": "農林水産祭 令和8年度(第65回)の天皇杯(むらづくり部門・むらづくり活動〔むらづくり活動〕)に、岐阜県郡上市の六ノ里自治会が選賞された(2026年10月13日に選賞決定を発表。表彰式は11月23日予定で未実施)",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。むらづくり部門。"
+  },
+  "subject": {
+   "name": "六ノ里自治会",
+   "kind": "organization"
+  },
+  "location": {
+   "pref_code": "21",
+   "municipality": "郡上市",
+   "place_name": "郡上市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2026,
+   "period_label": "令和8年度(第65回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "むらづくり部門の天皇杯。出品財はむらづくり活動、推薦された表彰行事は「第48回豊かなむらづくり全国表彰事業」。農林水産省2026年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和8年度(第65回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/261013.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和8年度(第65回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/261013-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-22-cc051cc8",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2025 純米酒部門 第1位 磯自慢酒造株式会社「磯自慢 雄町 特別純米53」",
+  "claim": "SAKE COMPETITION 2025（市販酒をブラインド審査する日本酒の品評会）の純米酒部門（出品286点）で、磯自慢酒造株式会社の「磯自慢 雄町 特別純米53」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2025 純米酒部門 第1位",
+   "scope_note": "SAKE COMPETITION 2025 純米酒部門（出品286点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "磯自慢酒造株式会社「磯自慢 雄町 特別純米53」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "22",
+   "municipality": null,
+   "place_name": "静岡県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2025",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米酒部門 出品286点"
+  },
+  "detail": "純米酒部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2025GOLDSILVERBRONZE.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2025 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2025_eng.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2025.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-24-01d44f72",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2023 SUPER PREMIUM部門 第1位 清水清三郎商店株式会社「作 智」",
+  "claim": "SAKE COMPETITION 2023（市販酒をブラインド審査する日本酒の品評会）のSUPER PREMIUM部門（出品51点）で、清水清三郎商店株式会社の「作 智」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2023 SUPER PREMIUM部門 第1位",
+   "scope_note": "SAKE COMPETITION 2023 SUPER PREMIUM部門（出品51点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "清水清三郎商店株式会社「作 智」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "24",
+   "municipality": null,
+   "place_name": "三重県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2023",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "SUPER PREMIUM部門 出品51点"
+  },
+  "detail": "SUPER PREMIUM部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2023GOLDSILVER.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2023 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2023.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2025.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-24-75b0f87a",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2026 SUPER PREMIUM部門 第1位 木屋正酒造株式会社「而今 特等雄町」",
+  "claim": "SAKE COMPETITION 2026（市販酒をブラインド審査する日本酒の品評会）のSUPER PREMIUM部門（出品83点）で、木屋正酒造株式会社の「而今 特等雄町」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2026 SUPER PREMIUM部門 第1位",
+   "scope_note": "SAKE COMPETITION 2026 SUPER PREMIUM部門（出品83点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "木屋正酒造株式会社「而今 特等雄町」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "24",
+   "municipality": null,
+   "place_name": "三重県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2026",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "SUPER PREMIUM部門 出品83点"
+  },
+  "detail": "SUPER PREMIUM部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "SAKE COMPETITION 2026 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2026.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-24-f1e5fd93",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2025 純米吟醸部門 第1位 寒紅梅酒造株式会社「寒紅梅 純米吟醸 山田錦50％」",
+  "claim": "SAKE COMPETITION 2025（市販酒をブラインド審査する日本酒の品評会）の純米吟醸部門（出品340点）で、寒紅梅酒造株式会社の「寒紅梅 純米吟醸 山田錦50％」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2025 純米吟醸部門 第1位",
+   "scope_note": "SAKE COMPETITION 2025 純米吟醸部門（出品340点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "寒紅梅酒造株式会社「寒紅梅 純米吟醸 山田錦50％」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "24",
+   "municipality": null,
+   "place_name": "三重県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2025",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米吟醸部門 出品340点"
+  },
+  "detail": "純米吟醸部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2025GOLDSILVERBRONZE.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2025 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2025_eng.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2025.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-25-74ce2fae",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和6年度・農産・蚕糸部門) 株式会社イカリファーム",
+  "claim": "農林水産祭 令和6年度(第63回)の天皇杯(農産・蚕糸部門・経営〔水稲、麦、大豆〕)に、滋賀県近江八幡市の株式会社イカリファームが選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。農産・蚕糸部門。"
+  },
+  "subject": {
+   "name": "株式会社イカリファーム",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "25",
+   "municipality": "近江八幡市",
+   "place_name": "近江八幡市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "令和6年度(第63回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "農産・蚕糸部門の天皇杯。出品財は水稲、麦、大豆、推薦された表彰行事は「令和5年度全国優良経営体表彰」。農林水産省2024年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和6年度(第63回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/241002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和6年度(第63回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/241002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-28-7985245e",
+  "schema_version": 1,
+  "title": "IWC 2024 SAKE部門 チャンピオン・サケ 都美人酒造株式会社「都美人 太陽」",
+  "claim": "IWC（インターナショナル・ワイン・チャレンジ）2024のSAKE部門で、都美人酒造株式会社の「都美人 太陽」が最高賞のチャンピオン・サケ(Champion Sake)に選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "world",
+   "label": "IWC SAKE部門 最高賞(チャンピオン・サケ)",
+   "scope_note": "英国IWC 2024 SAKE部門の部門トロフィー受賞酒から選ばれる最高賞。1大会1点。"
+  },
+  "subject": {
+   "name": "都美人酒造株式会社「都美人 太陽」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": null,
+   "place_name": "兵庫県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "IWC 2024",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "IWC (International Wine Challenge) SAKE部門",
+   "method": "ブラインド審査後、金賞酒から部門トロフィー、さらにチャンピオン・サケを選出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "SAKE部門の最高賞。金賞酒から部門トロフィーが選ばれ、そのうち1点だけがチャンピオン・サケとなる。",
+  "sources": [
+   {
+    "title": "IWC Trophy results 2024(公式)",
+    "url": "https://www.internationalwinechallenge.com/trophy-results-2024.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKETIMES(IWC2024チャンピオン・サケ速報。蔵の県を確認)",
+    "url": "https://jp.sake-times.com/special/news/sake_iwc2024-championsake",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-29-28796e6e",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2026 純米吟醸部門 第1位 今西酒造株式会社「みむろ杉 ろまんシリーズ 純米吟醸 山田錦」",
+  "claim": "SAKE COMPETITION 2026（市販酒をブラインド審査する日本酒の品評会）の純米吟醸部門（出品328点）で、今西酒造株式会社の「みむろ杉 ろまんシリーズ 純米吟醸 山田錦」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2026 純米吟醸部門 第1位",
+   "scope_note": "SAKE COMPETITION 2026 純米吟醸部門（出品328点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "今西酒造株式会社「みむろ杉 ろまんシリーズ 純米吟醸 山田錦」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "29",
+   "municipality": null,
+   "place_name": "奈良県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2026",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米吟醸部門 出品328点"
+  },
+  "detail": "純米吟醸部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "SAKE COMPETITION 2026 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2026.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-29-b53ef264",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2026 純米酒部門 第1位 今西酒造株式会社「みむろ杉 ろまんシリーズ Dio Abita（ディオアビータ）」",
+  "claim": "SAKE COMPETITION 2026（市販酒をブラインド審査する日本酒の品評会）の純米酒部門（出品294点）で、今西酒造株式会社の「みむろ杉 ろまんシリーズ Dio Abita（ディオアビータ）」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2026 純米酒部門 第1位",
+   "scope_note": "SAKE COMPETITION 2026 純米酒部門（出品294点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "今西酒造株式会社「みむろ杉 ろまんシリーズ Dio Abita（ディオアビータ）」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "29",
+   "municipality": null,
+   "place_name": "奈良県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2026",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米酒部門 出品294点"
+  },
+  "detail": "純米酒部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "SAKE COMPETITION 2026 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2026.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-32-4ade4a6c",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和6年度・むらづくり部門) 株式会社えーひだカンパニー",
+  "claim": "農林水産祭 令和6年度(第63回)の天皇杯(むらづくり部門・むらづくり活動〔むらづくり活動〕)に、島根県安来市の株式会社えーひだカンパニーが選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。むらづくり部門。"
+  },
+  "subject": {
+   "name": "株式会社えーひだカンパニー",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "32",
+   "municipality": "安来市",
+   "place_name": "安来市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "令和6年度(第63回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "むらづくり部門の天皇杯。出品財はむらづくり活動、推薦された表彰行事は「第46回豊かなむらづくり全国表彰事業」。農林水産省2024年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和6年度(第63回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/241002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和6年度(第63回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/241002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-33-86dc4bf2",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2025 SUPER PREMIUM部門 第1位 宮下酒造株式会社「極聖 純米大吟醸 天下至聖」",
+  "claim": "SAKE COMPETITION 2025（市販酒をブラインド審査する日本酒の品評会）のSUPER PREMIUM部門（出品71点）で、宮下酒造株式会社の「極聖 純米大吟醸 天下至聖」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2025 SUPER PREMIUM部門 第1位",
+   "scope_note": "SAKE COMPETITION 2025 SUPER PREMIUM部門（出品71点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "宮下酒造株式会社「極聖 純米大吟醸 天下至聖」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "33",
+   "municipality": null,
+   "place_name": "岡山県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2025",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "SUPER PREMIUM部門 出品71点"
+  },
+  "detail": "SUPER PREMIUM部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2025GOLDSILVERBRONZE.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2025 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2025_eng.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2025.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-34-c624b0bb",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2024 純米酒部門 第1位 株式会社今田酒造本店「富久長 新橋の男達（おやじ）の酒」",
+  "claim": "SAKE COMPETITION 2024（市販酒をブラインド審査する日本酒の品評会）の純米酒部門（出品261点）で、株式会社今田酒造本店の「富久長 新橋の男達（おやじ）の酒」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2024 純米酒部門 第1位",
+   "scope_note": "SAKE COMPETITION 2024 純米酒部門（出品261点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "株式会社今田酒造本店「富久長 新橋の男達（おやじ）の酒」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "34",
+   "municipality": null,
+   "place_name": "広島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2024",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米酒部門 出品261点"
+  },
+  "detail": "純米酒部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2024GOLDSILVER.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2024 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2024.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2026.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-34-d374d507",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2026 純米大吟醸部門 第1位 相原酒造株式会社「雨後の月 純米大吟醸」",
+  "claim": "SAKE COMPETITION 2026（市販酒をブラインド審査する日本酒の品評会）の純米大吟醸部門（出品339点）で、相原酒造株式会社の「雨後の月 純米大吟醸」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2026 純米大吟醸部門 第1位",
+   "scope_note": "SAKE COMPETITION 2026 純米大吟醸部門（出品339点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "相原酒造株式会社「雨後の月 純米大吟醸」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "34",
+   "municipality": null,
+   "place_name": "広島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2026",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米大吟醸部門 出品339点"
+  },
+  "detail": "純米大吟醸部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "SAKE COMPETITION 2026 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2026.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-34-d6a5695d",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2023 純米吟醸部門 第1位 相原酒造株式会社「雨後の月 純米吟醸 山田錦」",
+  "claim": "SAKE COMPETITION 2023（市販酒をブラインド審査する日本酒の品評会）の純米吟醸部門（出品343点）で、相原酒造株式会社の「雨後の月 純米吟醸 山田錦」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2023 純米吟醸部門 第1位",
+   "scope_note": "SAKE COMPETITION 2023 純米吟醸部門（出品343点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "相原酒造株式会社「雨後の月 純米吟醸 山田錦」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "34",
+   "municipality": null,
+   "place_name": "広島県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2023",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米吟醸部門 出品343点"
+  },
+  "detail": "純米吟醸部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2023GOLDSILVER.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2023 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2023.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2025.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-35-a1a7a210",
+  "schema_version": 1,
+  "title": "SAKE COMPETITION 2023 純米大吟醸部門 第1位 大嶺酒造株式会社「大嶺2粒 火入れ 山田錦」",
+  "claim": "SAKE COMPETITION 2023（市販酒をブラインド審査する日本酒の品評会）の純米大吟醸部門（出品333点）で、大嶺酒造株式会社の「大嶺2粒 火入れ 山田錦」が第1位",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SAKE COMPETITION 2023 純米大吟醸部門 第1位",
+   "scope_note": "SAKE COMPETITION 2023 純米大吟醸部門（出品333点）の順位。部門別に第1位が1点。総合1位ではない。"
+  },
+  "subject": {
+   "name": "大嶺酒造株式会社「大嶺2粒 火入れ 山田錦」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "35",
+   "municipality": null,
+   "place_name": "山口県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "SAKE COMPETITION 2023",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SAKE COMPETITION実行委員会",
+   "method": "銘柄を隠したブラインド審査(予審・決審)",
+   "sample_size": null,
+   "population_note": "純米大吟醸部門 出品333点"
+  },
+  "detail": "純米大吟醸部門の第1位(GOLD上位)。市販酒のみが対象で、銘柄を隠して酒質だけで審査される。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://sakecompetition.com/images/2023GOLDSILVER.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 2023 受賞酒(主催者公式)",
+    "url": "https://sakecompetition.com/award/history2023.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKE COMPETITION 上位入賞酒(都道府県順・主催者公式)",
+    "url": "https://sakecompetition.com/result/topsake_2025.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-35-a253c502",
+  "schema_version": 1,
+  "title": "IWC 2026 SAKE部門 チャンピオン・サケ 長州酒造株式会社「天美 純米吟醸 蛍天」",
+  "claim": "IWC（インターナショナル・ワイン・チャレンジ）2026のSAKE部門で、長州酒造株式会社の「天美 純米吟醸 蛍天」が最高賞のチャンピオン・サケ(Champion Sake)に選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "world",
+   "label": "IWC SAKE部門 最高賞(チャンピオン・サケ)",
+   "scope_note": "英国IWC 2026 SAKE部門の部門トロフィー受賞酒から選ばれる最高賞。1大会1点。"
+  },
+  "subject": {
+   "name": "長州酒造株式会社「天美 純米吟醸 蛍天」",
+   "kind": "product"
+  },
+  "location": {
+   "pref_code": "35",
+   "municipality": null,
+   "place_name": "山口県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "food_specialty"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": null,
+   "period_label": "IWC 2026",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "IWC (International Wine Challenge) SAKE部門",
+   "method": "ブラインド審査後、金賞酒から部門トロフィー、さらにチャンピオン・サケを選出",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "SAKE部門の最高賞。金賞酒から部門トロフィーが選ばれ、そのうち1点だけがチャンピオン・サケとなる。",
+  "sources": [
+   {
+    "title": "IWC Trophy results 2026(公式)",
+    "url": "https://www.internationalwinechallenge.com/trophy-results-2026.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "SAKETIMES(IWC2026チャンピオン・サケ速報。蔵の県を確認)",
+    "url": "https://jp.sake-times.com/special/news/sake_iwc2026-championsake",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-39-3db1c869",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和7年度・畜産部門) 株式会社ヤマニファーム",
+  "claim": "農林水産祭 令和7年度(第64回)の天皇杯(畜産部門・経営〔肉用鶏〕)に、高知県幡多郡大月町の株式会社ヤマニファームが選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。畜産部門。"
+  },
+  "subject": {
+   "name": "株式会社ヤマニファーム",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "39",
+   "municipality": "大月町",
+   "place_name": "大月町",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "令和7年度(第64回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産部門の天皇杯。出品財は肉用鶏、推薦された表彰行事は「令和6年度全国優良畜産経営管理技術発表会」。農林水産省2025年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和7年度(第64回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/251002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和7年度(第64回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/251002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-43-bbed30e8",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和8年度・林産部門) 石原 敬・石原 裕(夫婦)",
+  "claim": "農林水産祭 令和8年度(第65回)の天皇杯(林産部門・産物〔乾しいたけ〕)に、熊本県菊池市の石原 敬・石原 裕(夫婦)が選賞された(2026年10月13日に選賞決定を発表。表彰式は11月23日予定で未実施)",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。林産部門。"
+  },
+  "subject": {
+   "name": "石原 敬・石原 裕(夫婦)",
+   "kind": "person"
+  },
+  "location": {
+   "pref_code": "43",
+   "municipality": "菊池市",
+   "place_name": "菊池市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2026,
+   "period_label": "令和8年度(第65回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "林産部門の天皇杯。出品財は乾しいたけ、推薦された表彰行事は「第72回全国乾椎茸品評会」。農林水産省2026年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和8年度(第65回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/261013.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和8年度(第65回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/261013-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": true,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-44-35f0fbb0",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和8年度・畜産部門) 有限会社グリーンファーム久住",
+  "claim": "農林水産祭 令和8年度(第65回)の天皇杯(畜産部門・経営〔採卵鶏〕)に、大分県竹田市の有限会社グリーンファーム久住が選賞された(2026年10月13日に選賞決定を発表。表彰式は11月23日予定で未実施)",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。畜産部門。"
+  },
+  "subject": {
+   "name": "有限会社グリーンファーム久住",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "44",
+   "municipality": "竹田市",
+   "place_name": "竹田市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2026,
+   "period_label": "令和8年度(第65回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "畜産部門の天皇杯。出品財は採卵鶏、推薦された表彰行事は「令和7年度全国優良畜産経営管理技術発表会」。農林水産省2026年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和8年度(第65回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/261013.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和8年度(第65回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/261013-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-44-9f9924af",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和7年度・水産部門) 浪井丸天水産",
+  "claim": "農林水産祭 令和7年度(第64回)の天皇杯(水産部門・経営〔漁業経営改善〕)に、大分県佐伯市の浪井丸天水産が選ばれた",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。水産部門。"
+  },
+  "subject": {
+   "name": "浪井丸天水産",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "44",
+   "municipality": "佐伯市",
+   "place_name": "佐伯市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "令和7年度(第64回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "水産部門の天皇杯。出品財は漁業経営改善、推薦された表彰行事は「第30回全国青年・女性漁業者交流大会」。農林水産省2025年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和7年度(第64回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/251002.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和7年度(第64回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/251002-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-46-8df0c3e2",
+  "schema_version": 1,
+  "title": "農林水産祭天皇杯(令和8年度・水産部門) 有限会社田村水産",
+  "claim": "農林水産祭 令和8年度(第65回)の天皇杯(水産部門・経営〔漁業経営改善〕)に、鹿児島県垂水市の有限会社田村水産が選賞された(2026年10月13日に選賞決定を発表。表彰式は11月23日予定で未実施)",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "農林水産祭 天皇杯(部門最高賞)",
+   "scope_note": "全国の農林水産大臣賞受賞者の中から部門ごとに1点だけ選ばれる最高賞。水産部門。"
+  },
+  "subject": {
+   "name": "有限会社田村水産",
+   "kind": "company"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": "垂水市",
+   "place_name": "垂水市",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "municipality",
+   "extra_points": []
+  },
+  "category": [
+   "agri_fishery"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2026,
+   "period_label": "令和8年度(第65回)",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "農林水産省・日本農林漁業振興会 農林水産祭中央審査委員会",
+   "method": "農林水産大臣賞受賞者から中央審査委員会が選賞",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "水産部門の天皇杯。出品財は漁業経営改善、推薦された表彰行事は「第31回全国青年・女性漁業者交流大会」。農林水産省2026年10月の報道発表資料に掲載。",
+  "sources": [
+   {
+    "title": "農林水産省 令和8年度(第65回)農林水産祭天皇杯等の選賞について",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/261013.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "別添1 令和8年度(第65回)農林水産祭天皇杯等受賞者一覧(PDF)",
+    "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/attach/pdf/261013-1.pdf",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
   "id": "jp-02-4b4d18b0",
   "schema_version": 1,
   "title": "青森山田高等学校 全国高校サッカー選手権 優勝（第102回）",
@@ -55158,6 +58233,2346 @@
    "negative": false,
    "personal": false,
    "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-08-28ff7949",
+  "schema_version": 1,
+  "title": "JリーグJ2 2025シーズン 年間優勝 水戸ホーリーホック",
+  "claim": "Jリーグ（日本プロサッカーリーグ）J2リーグ 2025シーズンの年間順位表で、水戸ホーリーホックが1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "JリーグJ2 2025シーズン 年間順位1位",
+   "scope_note": "J2リーグ年間順位（勝点）1位。勝点同点（Ｖ・ファーレン長崎と70点で並び、差は得失点差＋21対＋19）。昇格プレーオフ等は含まない。"
+  },
+  "subject": {
+   "name": "水戸ホーリーホック",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "08",
+   "municipality": "水戸市",
+   "place_name": "Ksスタ（ケーズデンキスタジアム水戸）",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "2025シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本プロサッカーリーグ（Jリーグ）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "Jリーグ公式記録（J.League Data Site）の2025シーズンJ2年間順位表で水戸ホーリーホックが1位。",
+  "sources": [
+   {
+    "title": "J.League Data Site 順位表（2025明治安田Ｊ２リーグ 順位表【第３８節】）",
+    "url": "https://data.j-league.or.jp/SFRT01/?search=search&yearId=2025&competitionId=655&competitionSectionId=0",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.mito-hollyhock.net/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-08-661b8047",
+  "schema_version": 1,
+  "title": "JリーグJ1 2025シーズン 年間優勝 鹿島アントラーズ",
+  "claim": "Jリーグ（日本プロサッカーリーグ）J1リーグ 2025シーズンの年間順位表で、鹿島アントラーズが1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "JリーグJ1 2025シーズン 年間順位1位",
+   "scope_note": "J1リーグ年間順位（勝点）1位。昇格プレーオフ等は含まない。J.League Data Siteの最終節時点順位表"
+  },
+  "subject": {
+   "name": "鹿島アントラーズ",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "08",
+   "municipality": "鹿嶋市",
+   "place_name": "県立カシマサッカースタジアム",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "2025シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本プロサッカーリーグ（Jリーグ）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "Jリーグ公式記録（J.League Data Site）の2025シーズンJ1年間順位表で鹿島アントラーズが1位。",
+  "sources": [
+   {
+    "title": "J.League Data Site 順位表（2025明治安田Ｊ１リーグ 順位表【第３８節】）",
+    "url": "https://data.j-league.or.jp/SFRT01/?search=search&yearId=2025&competitionId=651&competitionSectionId=0",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.antlers.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-09-1e1ac7dd",
+  "schema_version": 1,
+  "title": "B.LEAGUE B1 2024-25シーズン 年間優勝 宇都宮ブレックス",
+  "claim": "B.LEAGUE B1 2024-25シーズンの年間優勝クラブ（チャンピオンシップ優勝）が宇都宮ブレックス",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "B.LEAGUE B1 2024-25シーズン 年間優勝",
+   "scope_note": "B1のチャンピオンシップ（ファイナル）を制した年間優勝クラブ。B2・B3は含まない"
+  },
+  "subject": {
+   "name": "宇都宮ブレックス",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "09",
+   "municipality": "宇都宮市",
+   "place_name": "ブレックスアリーナ宇都宮",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "2024-25シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "B.LEAGUE",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "B.LEAGUE公式の歴代表彰『年間優勝クラブ』に2024-25シーズンの優勝として宇都宮ブレックスが記載。",
+  "sources": [
+   {
+    "title": "B.LEAGUE 歴代表彰（年間優勝クラブ）",
+    "url": "https://www.bleague.jp/award/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://utsunomiya-brex.com/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-09-ed20a9f0",
+  "schema_version": 1,
+  "title": "JリーグJ3 2025シーズン 年間優勝 栃木シティ",
+  "claim": "Jリーグ（日本プロサッカーリーグ）J3リーグ 2025シーズンの年間順位表で、栃木シティが1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "JリーグJ3 2025シーズン 年間順位1位",
+   "scope_note": "J3リーグ年間順位（勝点）1位。昇格プレーオフ等は含まない。J.League Data Siteの最終節時点順位表"
+  },
+  "subject": {
+   "name": "栃木シティ",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "09",
+   "municipality": "栃木市",
+   "place_name": "栃木県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "2025シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本プロサッカーリーグ（Jリーグ）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "Jリーグ公式記録（J.League Data Site）の2025シーズンJ3年間順位表で栃木シティが1位。",
+  "sources": [
+   {
+    "title": "J.League Data Site 順位表（2025明治安田Ｊ３リーグ 順位表【第３８節】）",
+    "url": "https://data.j-league.or.jp/SFRT01/?search=search&yearId=2025&competitionId=657&competitionSectionId=0",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://tochigicity.com/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-11-34af4046",
+  "schema_version": 1,
+  "title": "WEリーグ 2022/23シーズン 年間順位1位 三菱重工浦和レッズレディース",
+  "claim": "WEリーグ 2022/23シーズンの年間順位表で、三菱重工浦和レッズレディースが1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "WEリーグ 2022/23シーズン 年間順位1位",
+   "scope_note": "WEリーグ（日本女子プロサッカーリーグ）の年間順位（勝点）1位。皇后杯等のカップ戦は含まない"
+  },
+  "subject": {
+   "name": "三菱重工浦和レッズレディース",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "11",
+   "municipality": "さいたま市",
+   "place_name": "浦和駒場スタジアム",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "2022/23シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "WEリーグ",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "WEリーグ公式の順位表（2022/23）で三菱重工浦和レッズレディースが1位。",
+  "sources": [
+   {
+    "title": "WEリーグ 順位表（2022/23シーズン）",
+    "url": "https://weleague.jp/standings/?season=2022",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.urawa-reds.co.jp/redsladies/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-11-6f165757",
+  "schema_version": 1,
+  "title": "JリーグJ3 2024シーズン 年間優勝 大宮アルディージャ",
+  "claim": "Jリーグ（日本プロサッカーリーグ）J3リーグ 2024シーズンの年間順位表で、大宮アルディージャが1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "JリーグJ3 2024シーズン 年間順位1位",
+   "scope_note": "J3リーグ年間順位（勝点）1位。昇格プレーオフ等は含まない。J.League Data Siteの最終節時点順位表"
+  },
+  "subject": {
+   "name": "大宮アルディージャ",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "11",
+   "municipality": "さいたま市",
+   "place_name": "NACK5スタジアム大宮",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "2024シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本プロサッカーリーグ（Jリーグ）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "Jリーグ公式記録（J.League Data Site）の2024シーズンJ3年間順位表で大宮アルディージャが1位。",
+  "sources": [
+   {
+    "title": "J.League Data Site 順位表（2024明治安田Ｊ３リーグ 順位表【第３８節】）",
+    "url": "https://data.j-league.or.jp/SFRT01/?search=search&yearId=2024&competitionId=591&competitionSectionId=0",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.ardija.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-11-d7e20e9e",
+  "schema_version": 1,
+  "title": "WEリーグ 2023/24シーズン 年間順位1位 三菱重工浦和レッズレディース",
+  "claim": "WEリーグ 2023/24シーズンの年間順位表で、三菱重工浦和レッズレディースが1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "WEリーグ 2023/24シーズン 年間順位1位",
+   "scope_note": "WEリーグ（日本女子プロサッカーリーグ）の年間順位（勝点）1位。皇后杯等のカップ戦は含まない"
+  },
+  "subject": {
+   "name": "三菱重工浦和レッズレディース",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "11",
+   "municipality": "さいたま市",
+   "place_name": "浦和駒場スタジアム",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "2023/24シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "WEリーグ",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "WEリーグ公式の順位表（2023/24）で三菱重工浦和レッズレディースが1位。",
+  "sources": [
+   {
+    "title": "WEリーグ 順位表（2023/24シーズン）",
+    "url": "https://weleague.jp/standings/?season=2023",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.urawa-reds.co.jp/redsladies/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-13-2050ab43",
+  "schema_version": 1,
+  "title": "特別大会（鹿児島県開催）（2023年）皇后杯（女子総合成績第1位）東京都",
+  "claim": "日本スポーツ協会「国民スポーツ大会」特別大会（鹿児島県開催）（2023年）で、東京都が女子総合成績第1位（皇后杯獲得）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "皇后杯（女子総合成績第1位）",
+   "scope_note": "全国47都道府県対抗。出典表（日本スポーツ協会『過去大会の概要』）は列見出しが『本大会/秋季大会』で、冬季大会の成績は含まない。2023年は特別大会（鹿児島県開催）として実施された本大会に当たる。"
+  },
+  "subject": {
+   "name": "東京都",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": null,
+   "place_name": "東京都",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "特別大会（鹿児島県開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本スポーツ協会",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "国民スポーツ大会（旧国民体育大会）の皇后杯（女子総合成績）を東京都が獲得した。開催地は鹿児島県。",
+  "sources": [
+   {
+    "title": "日本スポーツ協会「過去大会の概要」",
+    "url": "https://www.japan-sports.or.jp/kokutai/tabid183.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-13-31eb74d6",
+  "schema_version": 1,
+  "title": "日テレ・東京ベレーザ（WEリーグ2024/25年間順位1位）",
+  "claim": "WEリーグ 2024/25シーズンの年間順位表で、日テレ・東京ベレーザが1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "WEリーグ 2024/25シーズン 年間順位1位",
+   "scope_note": "WEリーグ年間順位（勝点）1位。勝点同点（INAC神戸レオネッサと51点で並び、差は得失点差＋34対＋29）。皇后杯等のカップ戦は含まない。"
+  },
+  "subject": {
+   "name": "日テレ・東京ヴェルディベレーザ",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": "北区",
+   "place_name": "味の素フィールド西が丘",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "2024/25シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "WEリーグ",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "WEリーグ公式の順位表（2024/25）で日テレ・東京ヴェルディベレーザが1位。",
+  "sources": [
+   {
+    "title": "WEリーグ 順位表（2024/25シーズン）",
+    "url": "https://weleague.jp/standings/?season=2024",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.verdy.co.jp/beleza/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-13-52b5305e",
+  "schema_version": 1,
+  "title": "第78回国民スポーツ大会（佐賀県開催）（2024年）皇后杯（女子総合成績第1位）東京都",
+  "claim": "日本スポーツ協会「国民スポーツ大会」第78回国民スポーツ大会（佐賀県開催）（2024年）で、東京都が女子総合成績第1位（皇后杯獲得）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "皇后杯（女子総合成績第1位）",
+   "scope_note": "全国47都道府県対抗。出典表（日本スポーツ協会『過去大会の概要』）は列見出しが『本大会/秋季大会』で、冬季大会の成績は含まない。2023年は特別大会（鹿児島県開催）として実施された本大会に当たる。"
+  },
+  "subject": {
+   "name": "東京都",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": null,
+   "place_name": "東京都",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "第78回国民スポーツ大会（佐賀県開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本スポーツ協会",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "国民スポーツ大会（旧国民体育大会）の皇后杯（女子総合成績）を東京都が獲得した。開催地は佐賀県。",
+  "sources": [
+   {
+    "title": "日本スポーツ協会「過去大会の概要」",
+    "url": "https://www.japan-sports.or.jp/kokutai/tabid183.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-13-75c2ed75",
+  "schema_version": 1,
+  "title": "特別大会（鹿児島県開催）（2023年）天皇杯（男女総合成績第1位）東京都",
+  "claim": "日本スポーツ協会「国民スポーツ大会」特別大会（鹿児島県開催）（2023年）で、東京都が男女総合成績第1位（天皇杯獲得）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "天皇杯（男女総合成績第1位）",
+   "scope_note": "全国47都道府県対抗。出典表（日本スポーツ協会『過去大会の概要』）は列見出しが『本大会/秋季大会』で、冬季大会の成績は含まない。2023年は特別大会（鹿児島県開催）として実施された本大会に当たる。"
+  },
+  "subject": {
+   "name": "東京都",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": null,
+   "place_name": "東京都",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "特別大会（鹿児島県開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本スポーツ協会",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "国民スポーツ大会（旧国民体育大会）の天皇杯（男女総合成績）を東京都が獲得した。開催地は鹿児島県。",
+  "sources": [
+   {
+    "title": "日本スポーツ協会「過去大会の概要」",
+    "url": "https://www.japan-sports.or.jp/kokutai/tabid183.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-13-a70c89ed",
+  "schema_version": 1,
+  "title": "第78回国民スポーツ大会（佐賀県開催）（2024年）天皇杯（男女総合成績第1位）東京都",
+  "claim": "日本スポーツ協会「国民スポーツ大会」第78回国民スポーツ大会（佐賀県開催）（2024年）で、東京都が男女総合成績第1位（天皇杯獲得）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "天皇杯（男女総合成績第1位）",
+   "scope_note": "全国47都道府県対抗。出典表（日本スポーツ協会『過去大会の概要』）は列見出しが『本大会/秋季大会』で、冬季大会の成績は含まない。2023年は特別大会（鹿児島県開催）として実施された本大会に当たる。"
+  },
+  "subject": {
+   "name": "東京都",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": null,
+   "place_name": "東京都",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "第78回国民スポーツ大会（佐賀県開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本スポーツ協会",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "国民スポーツ大会（旧国民体育大会）の天皇杯（男女総合成績）を東京都が獲得した。開催地は佐賀県。",
+  "sources": [
+   {
+    "title": "日本スポーツ協会「過去大会の概要」",
+    "url": "https://www.japan-sports.or.jp/kokutai/tabid183.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-13-ce685dd9",
+  "schema_version": 1,
+  "title": "プロ野球 2024年 セ・リーグ優勝 読売ジャイアンツ",
+  "claim": "NPB（日本野球機構）公式戦2024年のセ・リーグ年度別成績で、読売ジャイアンツが1位（リーグ優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "プロ野球 セ・リーグ 2024年 公式戦1位",
+   "scope_note": "セ・リーグ公式戦の勝率1位。クライマックスシリーズ・日本シリーズの結果は含まない"
+  },
+  "subject": {
+   "name": "読売ジャイアンツ",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": "文京区",
+   "place_name": "東京ドーム",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "2024年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本野球機構（NPB）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "NPB公式の年度別成績2024年セ・リーグのチーム勝敗表で読売ジャイアンツが1位。",
+  "sources": [
+   {
+    "title": "NPB 年度別成績 2024年 セントラル・リーグ",
+    "url": "https://npb.jp/bis/yearly/centralleague_2024.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.giants.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-13-f81fc662",
+  "schema_version": 1,
+  "title": "JリーグJ2 2023シーズン 年間優勝 FC町田ゼルビア",
+  "claim": "Jリーグ（日本プロサッカーリーグ）J2リーグ 2023シーズンの年間順位表で、ＦＣ町田ゼルビアが1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "JリーグJ2 2023シーズン 年間順位1位",
+   "scope_note": "J2リーグ年間順位（勝点）1位。昇格プレーオフ等は含まない。J.League Data Siteの最終節時点順位表"
+  },
+  "subject": {
+   "name": "ＦＣ町田ゼルビア",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": "町田市",
+   "place_name": "町田GIONスタジアム",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "2023シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本プロサッカーリーグ（Jリーグ）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "Jリーグ公式記録（J.League Data Site）の2023シーズンJ2年間順位表でＦＣ町田ゼルビアが1位。",
+  "sources": [
+   {
+    "title": "J.League Data Site 順位表（2023明治安田生命Ｊ２リーグ 順位表【第４２節】）",
+    "url": "https://data.j-league.or.jp/SFRT01/?search=search&yearId=2023&competitionId=555&competitionSectionId=0",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.zelvia.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-14-a94012a1",
+  "schema_version": 1,
+  "title": "SMBC日本シリーズ2024 日本一 横浜DeNAベイスターズ",
+  "claim": "NPB主催「SMBC日本シリーズ2024」で、横浜DeNAベイスターズが日本一（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SMBC日本シリーズ2024 日本一",
+   "scope_note": "セ・パ両リーグのクライマックスシリーズ勝者（リーグ優勝チームとは限らない。2024年のDeNAはセ・リーグ3位から勝ち上がり）による日本選手権シリーズの優勝。"
+  },
+  "subject": {
+   "name": "横浜DeNAベイスターズ",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "14",
+   "municipality": "横浜市",
+   "place_name": "横浜スタジアム",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "SMBC日本シリーズ2024",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本野球機構（NPB）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "NPB公式のSMBC日本シリーズ2024特設ページで、横浜DeNAベイスターズの日本一が掲載。",
+  "sources": [
+   {
+    "title": "NPB SMBC日本シリーズ2024",
+    "url": "https://npb.jp/nippons/2024/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.baystars.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-22-6c688f7f",
+  "schema_version": 1,
+  "title": "JリーグJ2 2024シーズン 年間優勝 清水エスパルス",
+  "claim": "Jリーグ（日本プロサッカーリーグ）J2リーグ 2024シーズンの年間順位表で、清水エスパルスが1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "JリーグJ2 2024シーズン 年間順位1位",
+   "scope_note": "J2リーグ年間順位（勝点）1位。昇格プレーオフ等は含まない。J.League Data Siteの最終節時点順位表"
+  },
+  "subject": {
+   "name": "清水エスパルス",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "22",
+   "municipality": "静岡市",
+   "place_name": "IAIスタジアム日本平",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "2024シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本プロサッカーリーグ（Jリーグ）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "Jリーグ公式記録（J.League Data Site）の2024シーズンJ2年間順位表で清水エスパルスが1位。",
+  "sources": [
+   {
+    "title": "J.League Data Site 順位表（2024明治安田Ｊ２リーグ 順位表【第３８節】）",
+    "url": "https://data.j-league.or.jp/SFRT01/?search=search&yearId=2024&competitionId=590&competitionSectionId=0",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.s-pulse.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-25-2c0bdbcb",
+  "schema_version": 1,
+  "title": "第79回国民スポーツ大会（滋賀県開催）（2025年）皇后杯（女子総合成績第1位）滋賀県",
+  "claim": "日本スポーツ協会「国民スポーツ大会」第79回国民スポーツ大会（滋賀県開催）（2025年）で、滋賀県が女子総合成績第1位（皇后杯獲得）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "皇后杯（女子総合成績第1位）",
+   "scope_note": "全国47都道府県対抗。出典表（日本スポーツ協会『過去大会の概要』）は列見出しが『本大会/秋季大会』で、冬季大会の成績は含まない。2023年は特別大会（鹿児島県開催）として実施された本大会に当たる。"
+  },
+  "subject": {
+   "name": "滋賀県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "25",
+   "municipality": null,
+   "place_name": "滋賀県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "第79回国民スポーツ大会（滋賀県開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本スポーツ協会",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "国民スポーツ大会（旧国民体育大会）の皇后杯（女子総合成績）を滋賀県が獲得した。開催地は滋賀県。",
+  "sources": [
+   {
+    "title": "日本スポーツ協会「過去大会の概要」",
+    "url": "https://www.japan-sports.or.jp/kokutai/tabid183.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-25-95774f43",
+  "schema_version": 1,
+  "title": "第79回国民スポーツ大会（滋賀県開催）（2025年）天皇杯（男女総合成績第1位）滋賀県",
+  "claim": "日本スポーツ協会「国民スポーツ大会」第79回国民スポーツ大会（滋賀県開催）（2025年）で、滋賀県が男女総合成績第1位（天皇杯獲得）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "天皇杯（男女総合成績第1位）",
+   "scope_note": "全国47都道府県対抗。出典表（日本スポーツ協会『過去大会の概要』）は列見出しが『本大会/秋季大会』で、冬季大会の成績は含まない。2023年は特別大会（鹿児島県開催）として実施された本大会に当たる。"
+  },
+  "subject": {
+   "name": "滋賀県",
+   "kind": "prefecture"
+  },
+  "location": {
+   "pref_code": "25",
+   "municipality": null,
+   "place_name": "滋賀県",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "第79回国民スポーツ大会（滋賀県開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本スポーツ協会",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "国民スポーツ大会（旧国民体育大会）の天皇杯（男女総合成績）を滋賀県が獲得した。開催地は滋賀県。",
+  "sources": [
+   {
+    "title": "日本スポーツ協会「過去大会の概要」",
+    "url": "https://www.japan-sports.or.jp/kokutai/tabid183.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-27-2e58c3b9",
+  "schema_version": 1,
+  "title": "プロ野球 2023年 パ・リーグ優勝 オリックス・バファローズ",
+  "claim": "NPB（日本野球機構）公式戦2023年のパ・リーグ年度別成績で、オリックス・バファローズが1位（リーグ優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "プロ野球 パ・リーグ 2023年 公式戦1位",
+   "scope_note": "パ・リーグ公式戦の勝率1位。クライマックスシリーズ・日本シリーズの結果は含まない"
+  },
+  "subject": {
+   "name": "オリックス・バファローズ",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": "大阪市",
+   "place_name": "京セラドーム大阪",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "2023年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本野球機構（NPB）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "NPB公式の年度別成績2023年パ・リーグのチーム勝敗表でオリックス・バファローズが1位。",
+  "sources": [
+   {
+    "title": "NPB 年度別成績 2023年 パシフィック・リーグ",
+    "url": "https://npb.jp/bis/yearly/pacificleague_2023.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.buffaloes.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-27-360f642a",
+  "schema_version": 1,
+  "title": "大同生命SV.LEAGUE MEN 2024-25シーズン チャンピオンシップ優勝 サントリーサンバーズ大阪",
+  "claim": "SVリーグ 大同生命SV.LEAGUE MEN 2024-25シーズンのチャンピオンシップ優勝がサントリーサンバーズ大阪",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "大同生命SV.LEAGUE MEN 2024-25シーズン チャンピオンシップ優勝",
+   "scope_note": "SV.LEAGUEのチャンピオンシップ（ファイナル）優勝クラブ。レギュラーシーズン優勝は別表彰のため含まない"
+  },
+  "subject": {
+   "name": "サントリーサンバーズ大阪",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": "大阪市",
+   "place_name": "Asueアリーナ大阪",
+   "address": "大阪府大阪市港区田中3-1-40",
+   "lat": 34.659058,
+   "lng": 135.446579,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "2024-25シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SVリーグ",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "SVリーグ公式の表彰ページで2024-25シーズンのチャンピオンシップ優勝としてサントリーサンバーズ大阪が記載。",
+  "sources": [
+   {
+    "title": "SVリーグ 表彰（大同生命SV.LEAGUE MEN）",
+    "url": "https://svleague.jp/record/sv/men/award/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "http://www.suntory.co.jp/culture-sports/sunbirds/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-27-6ad0c4f5",
+  "schema_version": 1,
+  "title": "大同生命SV.LEAGUE WOMEN 2024-25シーズン チャンピオンシップ優勝 大阪マーヴェラス",
+  "claim": "SVリーグ 大同生命SV.LEAGUE WOMEN 2024-25シーズンのチャンピオンシップ優勝が大阪マーヴェラス",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "大同生命SV.LEAGUE WOMEN 2024-25シーズン チャンピオンシップ優勝",
+   "scope_note": "SV.LEAGUEのチャンピオンシップ（ファイナル）優勝クラブ。レギュラーシーズン優勝は別表彰のため含まない"
+  },
+  "subject": {
+   "name": "大阪マーヴェラス",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": "大阪市",
+   "place_name": "Asueアリーナ大阪",
+   "address": "大阪府大阪市港区田中3-1-40",
+   "lat": 34.659058,
+   "lng": 135.446579,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "2024-25シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SVリーグ",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "SVリーグ公式の表彰ページで2024-25シーズンのチャンピオンシップ優勝として大阪マーヴェラスが記載。",
+  "sources": [
+   {
+    "title": "SVリーグ 表彰（大同生命SV.LEAGUE WOMEN）",
+    "url": "https://svleague.jp/record/sv/women/award/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.osaka-marvelous.com/index.html",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-27-f063c195",
+  "schema_version": 1,
+  "title": "大同生命SV.LEAGUE MEN 2025-26シーズン チャンピオンシップ優勝 大阪ブルテオン",
+  "claim": "SVリーグ 大同生命SV.LEAGUE MEN 2025-26シーズンのチャンピオンシップ優勝が大阪ブルテオン",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "大同生命SV.LEAGUE MEN 2025-26シーズン チャンピオンシップ優勝",
+   "scope_note": "SV.LEAGUEのチャンピオンシップ（ファイナル）優勝クラブ。レギュラーシーズン優勝は別表彰のため含まない"
+  },
+  "subject": {
+   "name": "大阪ブルテオン",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": "枚方市",
+   "place_name": "パナソニックアリーナ",
+   "address": "大阪府枚方市菊丘南町2番10号",
+   "lat": 34.801884,
+   "lng": 135.644821,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2026,
+   "fiscal_year": null,
+   "period_label": "2025-26シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SVリーグ",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "SVリーグ公式の表彰ページで2025-26シーズンのチャンピオンシップ優勝として大阪ブルテオンが記載。",
+  "sources": [
+   {
+    "title": "SVリーグ 表彰（大同生命SV.LEAGUE MEN）",
+    "url": "https://svleague.jp/record/sv/men/award/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.osaka-bluteon.com/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-28-16356a4c",
+  "schema_version": 1,
+  "title": "SMBC日本シリーズ2023 日本一 阪神タイガース",
+  "claim": "NPB主催「SMBC日本シリーズ2023」で、阪神タイガースが日本一（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SMBC日本シリーズ2023 日本一",
+   "scope_note": "セ・パ両リーグのクライマックスシリーズ勝者（リーグ優勝チームとは限らない。2024年のDeNAはセ・リーグ3位から勝ち上がり）による日本選手権シリーズの優勝。"
+  },
+  "subject": {
+   "name": "阪神タイガース",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": "西宮市",
+   "place_name": "阪神甲子園球場",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "SMBC日本シリーズ2023",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本野球機構（NPB）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "NPB公式のSMBC日本シリーズ2023特設ページで、阪神タイガースの日本一が掲載。",
+  "sources": [
+   {
+    "title": "NPB SMBC日本シリーズ2023",
+    "url": "https://npb.jp/nippons/2023/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://hanshintigers.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-28-1eab9062",
+  "schema_version": 1,
+  "title": "JリーグJ1 2024シーズン 年間優勝 ヴィッセル神戸",
+  "claim": "Jリーグ（日本プロサッカーリーグ）J1リーグ 2024シーズンの年間順位表で、ヴィッセル神戸が1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "JリーグJ1 2024シーズン 年間順位1位",
+   "scope_note": "J1リーグ年間順位（勝点）1位。昇格プレーオフ等は含まない。J.League Data Siteの最終節時点順位表"
+  },
+  "subject": {
+   "name": "ヴィッセル神戸",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": "神戸市",
+   "place_name": "ノエビアスタジアム神戸",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "2024シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本プロサッカーリーグ（Jリーグ）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "Jリーグ公式記録（J.League Data Site）の2024シーズンJ1年間順位表でヴィッセル神戸が1位。",
+  "sources": [
+   {
+    "title": "J.League Data Site 順位表（2024明治安田Ｊ１リーグ 順位表【第３８節】）",
+    "url": "https://data.j-league.or.jp/SFRT01/?search=search&yearId=2024&competitionId=589&competitionSectionId=0",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.vissel-kobe.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-28-2c5bdc8f",
+  "schema_version": 1,
+  "title": "WEリーグ 2025/26シーズン 年間順位1位 INAC神戸レオネッサ",
+  "claim": "WEリーグ 2025/26シーズンの年間順位表で、INAC神戸レオネッサが1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "WEリーグ 2025/26シーズン 年間順位1位",
+   "scope_note": "WEリーグ（日本女子プロサッカーリーグ）の年間順位（勝点）1位。皇后杯等のカップ戦は含まない"
+  },
+  "subject": {
+   "name": "INAC神戸レオネッサ",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": "神戸市",
+   "place_name": "ノエビアスタジアム神戸",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2026,
+   "fiscal_year": null,
+   "period_label": "2025/26シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "WEリーグ",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "WEリーグ公式の順位表（2025/26）でINAC神戸レオネッサが1位。",
+  "sources": [
+   {
+    "title": "WEリーグ 順位表（2025/26シーズン）",
+    "url": "https://weleague.jp/standings/?season=2025",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://inac-kobe.com/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-28-3fc1b3bc",
+  "schema_version": 1,
+  "title": "プロ野球 2025年 セ・リーグ優勝 阪神タイガース",
+  "claim": "NPB（日本野球機構）公式戦2025年のセ・リーグ年度別成績で、阪神タイガースが1位（リーグ優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "プロ野球 セ・リーグ 2025年 公式戦1位",
+   "scope_note": "セ・リーグ公式戦の勝率1位。クライマックスシリーズ・日本シリーズの結果は含まない"
+  },
+  "subject": {
+   "name": "阪神タイガース",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": "西宮市",
+   "place_name": "阪神甲子園球場",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "2025年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本野球機構（NPB）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "NPB公式の年度別成績2025年セ・リーグのチーム勝敗表で阪神タイガースが1位。",
+  "sources": [
+   {
+    "title": "NPB 年度別成績 2025年 セントラル・リーグ",
+    "url": "https://npb.jp/bis/yearly/centralleague_2025.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://hanshintigers.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-28-8f404425",
+  "schema_version": 1,
+  "title": "JリーグJ1 2023シーズン 年間優勝 ヴィッセル神戸",
+  "claim": "Jリーグ（日本プロサッカーリーグ）J1リーグ 2023シーズンの年間順位表で、ヴィッセル神戸が1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "JリーグJ1 2023シーズン 年間順位1位",
+   "scope_note": "J1リーグ年間順位（勝点）1位。昇格プレーオフ等は含まない。J.League Data Siteの最終節時点順位表"
+  },
+  "subject": {
+   "name": "ヴィッセル神戸",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": "神戸市",
+   "place_name": "ノエビアスタジアム神戸",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "2023シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本プロサッカーリーグ（Jリーグ）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "Jリーグ公式記録（J.League Data Site）の2023シーズンJ1年間順位表でヴィッセル神戸が1位。",
+  "sources": [
+   {
+    "title": "J.League Data Site 順位表（2023明治安田生命Ｊ１リーグ 順位表【第３４節】）",
+    "url": "https://data.j-league.or.jp/SFRT01/?search=search&yearId=2023&competitionId=554&competitionSectionId=0",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.vissel-kobe.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-28-f075b364",
+  "schema_version": 1,
+  "title": "プロ野球 2023年 セ・リーグ優勝 阪神タイガース",
+  "claim": "NPB（日本野球機構）公式戦2023年のセ・リーグ年度別成績で、阪神タイガースが1位（リーグ優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "プロ野球 セ・リーグ 2023年 公式戦1位",
+   "scope_note": "セ・リーグ公式戦の勝率1位。クライマックスシリーズ・日本シリーズの結果は含まない"
+  },
+  "subject": {
+   "name": "阪神タイガース",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "28",
+   "municipality": "西宮市",
+   "place_name": "阪神甲子園球場",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "2023年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本野球機構（NPB）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "NPB公式の年度別成績2023年セ・リーグのチーム勝敗表で阪神タイガースが1位。",
+  "sources": [
+   {
+    "title": "NPB 年度別成績 2023年 セントラル・リーグ",
+    "url": "https://npb.jp/bis/yearly/centralleague_2023.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://hanshintigers.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-34-ef4fe290",
+  "schema_version": 1,
+  "title": "B.LEAGUE B1 2023-24シーズン 年間優勝 広島ドラゴンフライズ",
+  "claim": "B.LEAGUE B1 2023-24シーズンの年間優勝クラブ（チャンピオンシップ優勝）が広島ドラゴンフライズ",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "B.LEAGUE B1 2023-24シーズン 年間優勝",
+   "scope_note": "B1のチャンピオンシップ（ファイナル）を制した年間優勝クラブ。B2・B3は含まない"
+  },
+  "subject": {
+   "name": "広島ドラゴンフライズ",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "34",
+   "municipality": "広島市",
+   "place_name": "広島サンプラザホール",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "2023-24シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "B.LEAGUE",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "B.LEAGUE公式の歴代表彰『年間優勝クラブ』に2023-24シーズンの優勝として広島ドラゴンフライズが記載。",
+  "sources": [
+   {
+    "title": "B.LEAGUE 歴代表彰（年間優勝クラブ）",
+    "url": "https://www.bleague.jp/award/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://hiroshima-dragonflies.com/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-38-43af433f",
+  "schema_version": 1,
+  "title": "JリーグJ3 2023シーズン 年間優勝 愛媛FC",
+  "claim": "Jリーグ（日本プロサッカーリーグ）J3リーグ 2023シーズンの年間順位表で、愛媛ＦＣが1位（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "JリーグJ3 2023シーズン 年間順位1位",
+   "scope_note": "J3リーグ年間順位（勝点）1位。昇格プレーオフ等は含まない。J.League Data Siteの最終節時点順位表"
+  },
+  "subject": {
+   "name": "愛媛ＦＣ",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "38",
+   "municipality": "松山市",
+   "place_name": "ニンジニアスタジアム",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "2023シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本プロサッカーリーグ（Jリーグ）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "Jリーグ公式記録（J.League Data Site）の2023シーズンJ3年間順位表で愛媛ＦＣが1位。",
+  "sources": [
+   {
+    "title": "J.League Data Site 順位表（2023明治安田生命Ｊ３リーグ 順位表【第３８節】）",
+    "url": "https://data.j-league.or.jp/SFRT01/?search=search&yearId=2023&competitionId=556&competitionSectionId=0",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://ehimefc.com/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-40-3ba2e1a0",
+  "schema_version": 1,
+  "title": "プロ野球 2024年 パ・リーグ優勝 福岡ソフトバンクホークス",
+  "claim": "NPB（日本野球機構）公式戦2024年のパ・リーグ年度別成績で、福岡ソフトバンクホークスが1位（リーグ優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "プロ野球 パ・リーグ 2024年 公式戦1位",
+   "scope_note": "パ・リーグ公式戦の勝率1位。クライマックスシリーズ・日本シリーズの結果は含まない"
+  },
+  "subject": {
+   "name": "福岡ソフトバンクホークス",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "40",
+   "municipality": "福岡市",
+   "place_name": "みずほPayPayドーム福岡",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2024,
+   "fiscal_year": null,
+   "period_label": "2024年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本野球機構（NPB）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "NPB公式の年度別成績2024年パ・リーグのチーム勝敗表で福岡ソフトバンクホークスが1位。",
+  "sources": [
+   {
+    "title": "NPB 年度別成績 2024年 パシフィック・リーグ",
+    "url": "https://npb.jp/bis/yearly/pacificleague_2024.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.softbankhawks.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-40-645e80d4",
+  "schema_version": 1,
+  "title": "プロ野球 2025年 パ・リーグ優勝 福岡ソフトバンクホークス",
+  "claim": "NPB（日本野球機構）公式戦2025年のパ・リーグ年度別成績で、福岡ソフトバンクホークスが1位（リーグ優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "プロ野球 パ・リーグ 2025年 公式戦1位",
+   "scope_note": "パ・リーグ公式戦の勝率1位。クライマックスシリーズ・日本シリーズの結果は含まない"
+  },
+  "subject": {
+   "name": "福岡ソフトバンクホークス",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "40",
+   "municipality": "福岡市",
+   "place_name": "みずほPayPayドーム福岡",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "2025年",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本野球機構（NPB）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "NPB公式の年度別成績2025年パ・リーグのチーム勝敗表で福岡ソフトバンクホークスが1位。",
+  "sources": [
+   {
+    "title": "NPB 年度別成績 2025年 パシフィック・リーグ",
+    "url": "https://npb.jp/bis/yearly/pacificleague_2025.html",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.softbankhawks.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-40-6b9a1ec8",
+  "schema_version": 1,
+  "title": "SMBC日本シリーズ2025 日本一 福岡ソフトバンクホークス",
+  "claim": "NPB主催「SMBC日本シリーズ2025」で、福岡ソフトバンクホークスが日本一（優勝）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "SMBC日本シリーズ2025 日本一",
+   "scope_note": "セ・パ両リーグのクライマックスシリーズ勝者（リーグ優勝チームとは限らない。2024年のDeNAはセ・リーグ3位から勝ち上がり）による日本選手権シリーズの優勝。"
+  },
+  "subject": {
+   "name": "福岡ソフトバンクホークス",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "40",
+   "municipality": "福岡市",
+   "place_name": "みずほPayPayドーム福岡",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": null,
+   "period_label": "SMBC日本シリーズ2025",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本野球機構（NPB）",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "NPB公式のSMBC日本シリーズ2025特設ページで、福岡ソフトバンクホークスの日本一が掲載。",
+  "sources": [
+   {
+    "title": "NPB SMBC日本シリーズ2025",
+    "url": "https://npb.jp/nippons/2025/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://www.softbankhawks.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": false
+  }
+ },
+ {
+  "id": "jp-41-e71c3111",
+  "schema_version": 1,
+  "title": "大同生命SV.LEAGUE WOMEN 2025-26シーズン チャンピオンシップ優勝 SAGA久光スプリングス",
+  "claim": "SVリーグ 大同生命SV.LEAGUE WOMEN 2025-26シーズンのチャンピオンシップ優勝がSAGA久光スプリングス",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "大同生命SV.LEAGUE WOMEN 2025-26シーズン チャンピオンシップ優勝",
+   "scope_note": "SV.LEAGUEのチャンピオンシップ（ファイナル）優勝クラブ。レギュラーシーズン優勝は別表彰のため含まない"
+  },
+  "subject": {
+   "name": "SAGA久光スプリングス",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "41",
+   "municipality": "佐賀市",
+   "place_name": "SAGAアリーナ",
+   "address": "佐賀県佐賀市日の出2丁目1番10号",
+   "lat": 33.275669,
+   "lng": 130.291061,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2026,
+   "fiscal_year": null,
+   "period_label": "2025-26シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "SVリーグ",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "SVリーグ公式の表彰ページで2025-26シーズンのチャンピオンシップ優勝としてSAGA久光スプリングスが記載。",
+  "sources": [
+   {
+    "title": "SVリーグ 表彰（大同生命SV.LEAGUE WOMEN）",
+    "url": "https://svleague.jp/record/sv/women/award/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://saga-springs.co.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-42-a5ad1f50",
+  "schema_version": 1,
+  "title": "B.LEAGUE B1 2025-26シーズン 年間優勝 長崎ヴェルカ",
+  "claim": "B.LEAGUE B1 2025-26シーズンの年間優勝クラブ（チャンピオンシップ優勝）が長崎ヴェルカ",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "B.LEAGUE B1 2025-26シーズン 年間優勝",
+   "scope_note": "B1のチャンピオンシップ（ファイナル）を制した年間優勝クラブ。B2・B3は含まない"
+  },
+  "subject": {
+   "name": "長崎ヴェルカ",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "42",
+   "municipality": "長崎市",
+   "place_name": "長崎スタジアムシティ ハピネスアリーナ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2026,
+   "fiscal_year": null,
+   "period_label": "2025-26シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "B.LEAGUE",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "B.LEAGUE公式の歴代表彰『年間優勝クラブ』に2025-26シーズンの優勝として長崎ヴェルカが記載。",
+  "sources": [
+   {
+    "title": "B.LEAGUE 歴代表彰（年間優勝クラブ）",
+    "url": "https://www.bleague.jp/award/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://nagasaki-velca.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-47-e9ae3b31",
+  "schema_version": 1,
+  "title": "B.LEAGUE B1 2022-23シーズン 年間優勝 琉球ゴールデンキングス",
+  "claim": "B.LEAGUE B1 2022-23シーズンの年間優勝クラブ（チャンピオンシップ優勝）が琉球ゴールデンキングス",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "B.LEAGUE B1 2022-23シーズン 年間優勝",
+   "scope_note": "B1のチャンピオンシップ（ファイナル）を制した年間優勝クラブ。B2・B3は含まない"
+  },
+  "subject": {
+   "name": "琉球ゴールデンキングス",
+   "kind": "team"
+  },
+  "location": {
+   "pref_code": "47",
+   "municipality": "沖縄市",
+   "place_name": "沖縄アリーナ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "precision": "prefecture",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "periodic",
+   "year": 2023,
+   "fiscal_year": null,
+   "period_label": "2022-23シーズン",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "B.LEAGUE",
+   "method": null,
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "B.LEAGUE公式の歴代表彰『年間優勝クラブ』に2022-23シーズンの優勝として琉球ゴールデンキングスが記載。",
+  "sources": [
+   {
+    "title": "B.LEAGUE 歴代表彰（年間優勝クラブ）",
+    "url": "https://www.bleague.jp/award/",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": "https://goldenkings.jp/",
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": false
   },
   "status": {
    "verified_at": "2026-10-16",
