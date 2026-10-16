@@ -1,5 +1,3590 @@
 [
  {
+  "id": "jp-02-4b4d18b0",
+  "schema_version": 1,
+  "title": "青森山田高等学校 全国高校サッカー選手権 優勝（第102回）",
+  "claim": "全国高等学校サッカー選手権大会（日本サッカー協会・民間放送43社ほか、第102回（2023年度、決勝2024年1月8日））で、青森山田高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校サッカー選手権大会（第102回（2023年度、決勝2024年1月8日））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "青森山田高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "02",
+   "municipality": "青森市",
+   "place_name": "青森山田高等学校",
+   "address": "青森県青森市青葉三丁目13番40号",
+   "lat": 40.803474,
+   "lng": 140.750183,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2023,
+   "period_label": "第102回（2023年度、決勝2024年1月8日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本サッカー協会・民間放送43社ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校サッカー選手権大会（第102回（2023年度、決勝2024年1月8日））で青森山田高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jfa.jp/match/alljapan_highschool_2025/history.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第102回全国高等学校サッカー選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第102回全国高等学校サッカー選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-07-3abb58c2",
+  "schema_version": 1,
+  "title": "福島県立ふたば未来学園高等学校 全国高校選抜バドミントン（学校対抗）・男子 優勝（第53回）",
+  "claim": "全国高等学校選抜バドミントン大会（学校対抗）（全国高等学校体育連盟バドミントン専門部ほか、第53回（2024年度（年度末開催）））の男子で、福島県立ふたば未来学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜バドミントン大会（学校対抗）（第53回（2024年度（年度末開催）））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "福島県立ふたば未来学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "07",
+   "municipality": "広野町",
+   "place_name": "福島県立ふたば未来学園高等学校",
+   "address": "福島県双葉郡広野町中央台1丁目6-3",
+   "lat": null,
+   "lng": null,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2024,
+   "period_label": "第53回（2024年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟バドミントン専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜バドミントン大会（学校対抗）（第53回（2024年度（年度末開催）））男子で福島県立ふたば未来学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.zenkoku-koutairen-bad.com/data/events/000599/006697.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜バドミントン大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜バドミントン大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-07-e3ea93c4",
+  "schema_version": 1,
+  "title": "学法石川高等学校 全国高校駅伝・男子 優勝（第76回）",
+  "claim": "全国高等学校駅伝競走大会（全国高等学校体育連盟・日本陸上競技連盟ほか、第76回（2025年12月（男子第76回・女子第37回）））の男子で、学法石川高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校駅伝競走大会（第76回（2025年12月（男子第76回・女子第37回）））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "学法石川高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "07",
+   "municipality": "石川町",
+   "place_name": "学法石川高等学校",
+   "address": "福島県石川郡石川町大室502番地",
+   "lat": null,
+   "lng": null,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "第76回（2025年12月（男子第76回・女子第37回））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟・日本陸上競技連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校駅伝競走大会（第76回（2025年12月（男子第76回・女子第37回）））男子で学法石川高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://koukouekiden-record.mainichi.jp/record/archive/m_76/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "2025年のスポーツ（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/2025年のスポーツ",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校駅伝競走大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校駅伝競走大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-07-fc392c59",
+  "schema_version": 1,
+  "title": "福島県立ふたば未来学園高等学校 全国高校選抜バドミントン（学校対抗）・男子 優勝（第52回）",
+  "claim": "全国高等学校選抜バドミントン大会（学校対抗）（全国高等学校体育連盟バドミントン専門部ほか、第52回（2023年度（年度末開催）））の男子で、福島県立ふたば未来学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜バドミントン大会（学校対抗）（第52回（2023年度（年度末開催）））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "福島県立ふたば未来学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "07",
+   "municipality": "広野町",
+   "place_name": "福島県立ふたば未来学園高等学校",
+   "address": "福島県双葉郡広野町中央台1丁目6-3",
+   "lat": null,
+   "lng": null,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2023,
+   "period_label": "第52回（2023年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟バドミントン専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜バドミントン大会（学校対抗）（第52回（2023年度（年度末開催）））男子で福島県立ふたば未来学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.zenkoku-koutairen-bad.com/data/events/000606/005638.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜バドミントン大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜バドミントン大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-10-2987ae9e",
+  "schema_version": 1,
+  "title": "高崎健康福祉大学高崎高等学校 選抜高校野球（春のセンバツ） 優勝（第96回）",
+  "claim": "選抜高等学校野球大会（春のセンバツ）（毎日新聞社・日本高等学校野球連盟、第96回（2024年春））で、高崎健康福祉大学高崎高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "選抜高等学校野球大会（春のセンバツ）（第96回（2024年春））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "高崎健康福祉大学高崎高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "10",
+   "municipality": "高崎市",
+   "place_name": "高崎健康福祉大学高崎高等学校",
+   "address": "群馬県高崎市中大類町531",
+   "lat": 36.322987,
+   "lng": 139.060211,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2023,
+   "period_label": "第96回（2024年春）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "毎日新聞社・日本高等学校野球連盟",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "選抜高等学校野球大会（春のセンバツ）（第96回（2024年春））で高崎健康福祉大学高崎高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jhbf.or.jp/senbatsu/2024/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第96回選抜高等学校野球大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第96回選抜高等学校野球大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-10-7f9f8f3b",
+  "schema_version": 1,
+  "title": "前橋育英高等学校 全国高校サッカー選手権 優勝（第103回）",
+  "claim": "全国高等学校サッカー選手権大会（日本サッカー協会・民間放送43社ほか、第103回（2024年度、決勝2025年1月13日））で、前橋育英高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校サッカー選手権大会（第103回（2024年度、決勝2025年1月13日））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "前橋育英高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "10",
+   "municipality": "前橋市",
+   "place_name": "前橋育英高等学校",
+   "address": "群馬県前橋市朝日が丘町13番地",
+   "lat": 36.368755,
+   "lng": 139.064926,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2024,
+   "period_label": "第103回（2024年度、決勝2025年1月13日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本サッカー協会・民間放送43社ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校サッカー選手権大会（第103回（2024年度、決勝2025年1月13日））で前橋育英高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jfa.jp/match/alljapan_highschool_2025/history.html",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第103回全国高等学校サッカー選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第103回全国高等学校サッカー選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-11-2029e255",
+  "schema_version": 1,
+  "title": "埼玉栄高等学校 全国高校選抜バドミントン（学校対抗）・男子 優勝（第54回）",
+  "claim": "全国高等学校選抜バドミントン大会（学校対抗）（全国高等学校体育連盟バドミントン専門部ほか、第54回（2025年度（年度末開催）））の男子で、埼玉栄高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜バドミントン大会（学校対抗）（第54回（2025年度（年度末開催）））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "埼玉栄高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "11",
+   "municipality": "さいたま市",
+   "place_name": "埼玉栄高等学校",
+   "address": "埼玉県さいたま市西区西大宮三丁目11番地1",
+   "lat": 35.926434,
+   "lng": 139.579208,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2025,
+   "period_label": "第54回（2025年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟バドミントン専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜バドミントン大会（学校対抗）（第54回（2025年度（年度末開催）））男子で埼玉栄高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.zenkoku-koutairen-bad.com/data/events/001351/ランキング一覧_20260328175413.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜バドミントン大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜バドミントン大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-13-0d2ddbcb",
+  "schema_version": 1,
+  "title": "白梅学園高等学校 全国高校ハンドボール選抜・女子 優勝（第46回）",
+  "claim": "全国高等学校ハンドボール選抜大会（全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会、第46回（2022年度、2023年開催））の女子で、白梅学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校ハンドボール選抜大会（第46回（2022年度、2023年開催））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "白梅学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": "小平市",
+   "place_name": "白梅学園高等学校",
+   "address": "東京都小平市小川町1-830",
+   "lat": 35.725597,
+   "lng": 139.451126,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": 2022,
+   "period_label": "第46回（2022年度、2023年開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校ハンドボール選抜大会（第46回（2022年度、2023年開催））女子で白梅学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://zenkokuhb.com/wp-content/uploads/2022senbatsu.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校ハンドボール選抜大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校ハンドボール選抜大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-13-25e2379a",
+  "schema_version": 1,
+  "title": "共栄学園高等学校 春の高校バレー・女子 優勝（第77回）",
+  "claim": "全日本バレーボール高等学校選手権大会（春の高校バレー）（日本バレーボール協会・全国高等学校体育連盟ほか、第77回（2024年度、2025年1月開催））の女子で、共栄学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第77回（2024年度、2025年1月開催））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "共栄学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": "葛飾区",
+   "place_name": "共栄学園高等学校",
+   "address": "東京都葛飾区お花茶屋2-6-1",
+   "lat": 35.750401,
+   "lng": 139.839951,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2024,
+   "period_label": "第77回（2024年度、2025年1月開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バレーボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第77回（2024年度、2025年1月開催））女子で共栄学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jva.or.jp/wp-content/uploads/2024/05/haruko20250112.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全日本バレーボール高等学校選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全日本バレーボール高等学校選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-13-a9ff6a40",
+  "schema_version": 1,
+  "title": "駿台学園高等学校 春の高校バレー・男子 優勝（第76回）",
+  "claim": "全日本バレーボール高等学校選手権大会（春の高校バレー）（日本バレーボール協会・全国高等学校体育連盟ほか、第76回（2023年度、2024年1月開催））の男子で、駿台学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第76回（2023年度、2024年1月開催））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "駿台学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": "北区",
+   "place_name": "駿台学園高等学校",
+   "address": "東京都北区王子6-1-10",
+   "lat": 35.760887,
+   "lng": 139.738785,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2023,
+   "period_label": "第76回（2023年度、2024年1月開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バレーボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第76回（2023年度、2024年1月開催））男子で駿台学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jva.or.jp/wp-content/uploads/2024/04/haruko20240108.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全日本バレーボール高等学校選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全日本バレーボール高等学校選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-13-c7cc9b12",
+  "schema_version": 1,
+  "title": "白梅学園高等学校 全国高校ハンドボール選抜・女子 優勝（第47回）",
+  "claim": "全国高等学校ハンドボール選抜大会（全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会、第47回（2023年度、2024年開催））の女子で、白梅学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校ハンドボール選抜大会（第47回（2023年度、2024年開催））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "白梅学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": "小平市",
+   "place_name": "白梅学園高等学校",
+   "address": "東京都小平市小川町1-830",
+   "lat": 35.725597,
+   "lng": 139.451126,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2023,
+   "period_label": "第47回（2023年度、2024年開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校ハンドボール選抜大会（第47回（2023年度、2024年開催））女子で白梅学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://handball.or.jp/system/prog/game_event_schedule.php?sd=g&sm=g&ed=d&eid=318",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校ハンドボール選抜大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校ハンドボール選抜大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-13-dc701928",
+  "schema_version": 1,
+  "title": "駿台学園高等学校 春の高校バレー・男子 優勝（第77回）",
+  "claim": "全日本バレーボール高等学校選手権大会（春の高校バレー）（日本バレーボール協会・全国高等学校体育連盟ほか、第77回（2024年度、2025年1月開催））の男子で、駿台学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第77回（2024年度、2025年1月開催））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "駿台学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "13",
+   "municipality": "北区",
+   "place_name": "駿台学園高等学校",
+   "address": "東京都北区王子6-1-10",
+   "lat": 35.760887,
+   "lng": 139.738785,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2024,
+   "period_label": "第77回（2024年度、2025年1月開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バレーボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第77回（2024年度、2025年1月開催））男子で駿台学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jva.or.jp/wp-content/uploads/2024/05/haruko20250112.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全日本バレーボール高等学校選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全日本バレーボール高等学校選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-14-30ec9c82",
+  "schema_version": 1,
+  "title": "桐蔭学園高等学校 全国高校ラグビー（花園） 優勝（第105回）",
+  "claim": "全国高等学校ラグビーフットボール大会（花園）（全国高等学校体育連盟・日本ラグビーフットボール協会ほか、第105回（2025年度、決勝2026年1月7日））で、桐蔭学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校ラグビーフットボール大会（花園）（第105回（2025年度、決勝2026年1月7日））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "桐蔭学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "14",
+   "municipality": "横浜市",
+   "place_name": "桐蔭学園高等学校",
+   "address": "神奈川県横浜市青葉区鉄町1614番地",
+   "lat": 35.567417,
+   "lng": 139.521179,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2025,
+   "period_label": "第105回（2025年度、決勝2026年1月7日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟・日本ラグビーフットボール協会ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校ラグビーフットボール大会（花園）（第105回（2025年度、決勝2026年1月7日））で桐蔭学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.rugby-japan.jp/match/29748/print",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第105回全国高等学校ラグビーフットボール大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第105回全国高等学校ラグビーフットボール大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-14-71bc59c2",
+  "schema_version": 1,
+  "title": "桐蔭学園高等学校 全国高校ラグビー（花園） 優勝（第104回）",
+  "claim": "全国高等学校ラグビーフットボール大会（花園）（全国高等学校体育連盟・日本ラグビーフットボール協会ほか、第104回（2024年度、決勝2025年1月7日））で、桐蔭学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校ラグビーフットボール大会（花園）（第104回（2024年度、決勝2025年1月7日））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "桐蔭学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "14",
+   "municipality": "横浜市",
+   "place_name": "桐蔭学園高等学校",
+   "address": "神奈川県横浜市青葉区鉄町1614番地",
+   "lat": 35.567417,
+   "lng": 139.521179,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2024,
+   "period_label": "第104回（2024年度、決勝2025年1月7日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟・日本ラグビーフットボール協会ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校ラグビーフットボール大会（花園）（第104回（2024年度、決勝2025年1月7日））で桐蔭学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.rugby-japan.jp/match/28075/print",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第104回全国高等学校ラグビーフットボール大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第104回全国高等学校ラグビーフットボール大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-14-c173531b",
+  "schema_version": 1,
+  "title": "横浜高等学校 選抜高校野球（春のセンバツ） 優勝（第97回）",
+  "claim": "選抜高等学校野球大会（春のセンバツ）（毎日新聞社・日本高等学校野球連盟、第97回（2025年春））で、横浜高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "選抜高等学校野球大会（春のセンバツ）（第97回（2025年春））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "横浜高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "14",
+   "municipality": "横浜市",
+   "place_name": "横浜高等学校",
+   "address": "神奈川県横浜市金沢区能見台通46-1",
+   "lat": 35.362465,
+   "lng": 139.62677,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2024,
+   "period_label": "第97回（2025年春）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "毎日新聞社・日本高等学校野球連盟",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "選抜高等学校野球大会（春のセンバツ）（第97回（2025年春））で横浜高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jhbf.or.jp/senbatsu/2025/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第97回選抜高等学校野球大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第97回選抜高等学校野球大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-14-c297276e",
+  "schema_version": 1,
+  "title": "慶應義塾高等学校 全国高校野球選手権（夏の甲子園） 優勝（第105回）",
+  "claim": "全国高等学校野球選手権大会（夏の甲子園）（朝日新聞社・日本高等学校野球連盟、第105回（2023年夏））で、慶應義塾高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校野球選手権大会（夏の甲子園）（第105回（2023年夏））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "慶應義塾高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "14",
+   "municipality": "横浜市",
+   "place_name": "慶應義塾高等学校",
+   "address": "神奈川県横浜市港北区日吉四丁目1番2号",
+   "lat": 35.55167,
+   "lng": 139.650131,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": 2023,
+   "period_label": "第105回（2023年夏）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "朝日新聞社・日本高等学校野球連盟",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校野球選手権大会（夏の甲子園）（第105回（2023年夏））で慶應義塾高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jhbf.or.jp/sensyuken/2023/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第105回全国高等学校野球選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第105回全国高等学校野球選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-14-ec021bb2",
+  "schema_version": 1,
+  "title": "桐蔭学園高等学校 全国高校ラグビー（花園） 優勝（第103回）",
+  "claim": "全国高等学校ラグビーフットボール大会（花園）（全国高等学校体育連盟・日本ラグビーフットボール協会ほか、第103回（2023年度、決勝2024年1月7日））で、桐蔭学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校ラグビーフットボール大会（花園）（第103回（2023年度、決勝2024年1月7日））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "桐蔭学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "14",
+   "municipality": "横浜市",
+   "place_name": "桐蔭学園高等学校",
+   "address": "神奈川県横浜市青葉区鉄町1614番地",
+   "lat": 35.567417,
+   "lng": 139.521179,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2023,
+   "period_label": "第103回（2023年度、決勝2024年1月7日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟・日本ラグビーフットボール協会ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校ラグビーフットボール大会（花園）（第103回（2023年度、決勝2024年1月7日））で桐蔭学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.rugby-japan.jp/match/25987/print",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第103回全国高等学校ラグビーフットボール大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第103回全国高等学校ラグビーフットボール大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-16-1f203737",
+  "schema_version": 1,
+  "title": "富山県立高岡向陵高等学校 全国高校ハンドボール選抜・女子 優勝（第48回）",
+  "claim": "全国高等学校ハンドボール選抜大会（全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会、第48回（2024年度、2025年開催））の女子で、富山県立高岡向陵高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校ハンドボール選抜大会（第48回（2024年度、2025年開催））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "富山県立高岡向陵高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "16",
+   "municipality": "高岡市",
+   "place_name": "富山県立高岡向陵高等学校",
+   "address": "富山県高岡市石瀬281",
+   "lat": 36.753479,
+   "lng": 137.042786,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2024,
+   "period_label": "第48回（2024年度、2025年開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校ハンドボール選抜大会（第48回（2024年度、2025年開催））女子で富山県立高岡向陵高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://handball.or.jp/system/prog/game_event_schedule.php?sd=g&sm=g&ed=d&eid=357",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校ハンドボール選抜大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校ハンドボール選抜大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-18-bbe96b48",
+  "schema_version": 1,
+  "title": "北陸高等学校 全国高校ハンドボール選抜・男子 優勝（第46回）",
+  "claim": "全国高等学校ハンドボール選抜大会（全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会、第46回（2022年度、2023年開催））の男子で、北陸高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校ハンドボール選抜大会（第46回（2022年度、2023年開催））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "北陸高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "18",
+   "municipality": "福井市",
+   "place_name": "北陸高等学校",
+   "address": "福井県福井市文京一丁目8番1号",
+   "lat": 36.076431,
+   "lng": 136.220352,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": 2022,
+   "period_label": "第46回（2022年度、2023年開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校ハンドボール選抜大会（第46回（2022年度、2023年開催））男子で北陸高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://zenkokuhb.com/wp-content/uploads/2022senbatsu.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校ハンドボール選抜大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校ハンドボール選抜大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-19-d0d0c510",
+  "schema_version": 1,
+  "title": "山梨学院高等学校 選抜高校野球（春のセンバツ） 優勝（第95回）",
+  "claim": "選抜高等学校野球大会（春のセンバツ）（毎日新聞社・日本高等学校野球連盟、第95回（2023年春））で、山梨学院高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "選抜高等学校野球大会（春のセンバツ）（第95回（2023年春））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "山梨学院高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "19",
+   "municipality": "甲府市",
+   "place_name": "山梨学院高等学校",
+   "address": "山梨県甲府市酒折三丁目3番1号",
+   "lat": 35.661194,
+   "lng": 138.597122,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": 2022,
+   "period_label": "第95回（2023年春）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "毎日新聞社・日本高等学校野球連盟",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "選抜高等学校野球大会（春のセンバツ）（第95回（2023年春））で山梨学院高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jhbf.or.jp/senbatsu/2023/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第95回選抜高等学校野球大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第95回選抜高等学校野球大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-19-d3785e3f",
+  "schema_version": 1,
+  "title": "駿台甲府高等学校 全国高校ハンドボール選抜・男子 優勝（第47回）",
+  "claim": "全国高等学校ハンドボール選抜大会（全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会、第47回（2023年度、2024年開催））の男子で、駿台甲府高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校ハンドボール選抜大会（第47回（2023年度、2024年開催））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "駿台甲府高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "19",
+   "municipality": "甲府市",
+   "place_name": "駿台甲府高等学校",
+   "address": "山梨県甲府市塩部2-8-1",
+   "lat": 35.670391,
+   "lng": 138.557388,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2023,
+   "period_label": "第47回（2023年度、2024年開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校ハンドボール選抜大会（第47回（2023年度、2024年開催））男子で駿台甲府高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://handball.or.jp/system/prog/game_event_schedule.php?sd=g&sm=g&ed=d&eid=318",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校ハンドボール選抜大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校ハンドボール選抜大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-19-f0c17f10",
+  "schema_version": 1,
+  "title": "駿台甲府高等学校 全国高校ハンドボール選抜・男子 優勝（第48回）",
+  "claim": "全国高等学校ハンドボール選抜大会（全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会、第48回（2024年度、2025年開催））の男子で、駿台甲府高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校ハンドボール選抜大会（第48回（2024年度、2025年開催））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "駿台甲府高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "19",
+   "municipality": "甲府市",
+   "place_name": "駿台甲府高等学校",
+   "address": "山梨県甲府市塩部2-8-1",
+   "lat": 35.670391,
+   "lng": 138.557388,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2024,
+   "period_label": "第48回（2024年度、2025年開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟ハンドボール専門部・日本ハンドボール協会",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校ハンドボール選抜大会（第48回（2024年度、2025年開催））男子で駿台甲府高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://handball.or.jp/system/prog/game_event_schedule.php?sd=g&sm=g&ed=d&eid=357",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校ハンドボール選抜大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校ハンドボール選抜大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-20-40c32a9f",
+  "schema_version": 1,
+  "title": "佐久長聖高等学校 全国高校駅伝・男子 優勝（第75回）",
+  "claim": "全国高等学校駅伝競走大会（全国高等学校体育連盟・日本陸上競技連盟ほか、第75回（2024年12月（男子第75回・女子第36回）））の男子で、佐久長聖高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校駅伝競走大会（第75回（2024年12月（男子第75回・女子第36回）））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "佐久長聖高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": "佐久市",
+   "place_name": "佐久長聖高等学校",
+   "address": "長野県佐久市岩村田951番地",
+   "lat": 36.277103,
+   "lng": 138.472855,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "第75回（2024年12月（男子第75回・女子第36回））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟・日本陸上競技連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校駅伝競走大会（第75回（2024年12月（男子第75回・女子第36回）））男子で佐久長聖高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://koukouekiden-record.mainichi.jp/record/archive/m_75/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "2024年のスポーツ（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/2024年のスポーツ",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校駅伝競走大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校駅伝競走大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-20-54d77b22",
+  "schema_version": 1,
+  "title": "長野県長野東高等学校 全国高校駅伝・女子 優勝（第36回）",
+  "claim": "全国高等学校駅伝競走大会（全国高等学校体育連盟・日本陸上競技連盟ほか、第36回（2024年12月（男子第75回・女子第36回）））の女子で、長野県長野東高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校駅伝競走大会（第36回（2024年12月（男子第75回・女子第36回）））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "長野県長野東高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": "長野市",
+   "place_name": "長野県長野東高等学校",
+   "address": "長野県長野市大字大豆島2743-1",
+   "lat": 36.639652,
+   "lng": 138.243576,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "第36回（2024年12月（男子第75回・女子第36回））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟・日本陸上競技連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校駅伝競走大会（第36回（2024年12月（男子第75回・女子第36回）））女子で長野県長野東高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://koukouekiden-record.mainichi.jp/record/archive/f_36/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "2024年のスポーツ（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/2024年のスポーツ",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校駅伝競走大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校駅伝競走大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-20-7a89f9f6",
+  "schema_version": 1,
+  "title": "長野県駒ヶ根工業高等学校 全国高校ロボット競技 優勝（第32回）",
+  "claim": "全国高等学校ロボット競技大会（全国高等学校ロボット競技大会実行委員会、第32回（2024年、栃木県大会））で、長野県駒ヶ根工業高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校ロボット競技大会（第32回（2024年、栃木県大会））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "長野県駒ヶ根工業高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": "駒ヶ根市",
+   "place_name": "長野県駒ヶ根工業高等学校",
+   "address": "長野県駒ヶ根市赤穂14-2",
+   "lat": 35.712296,
+   "lng": 137.927155,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "第32回（2024年、栃木県大会）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "media_report",
+   "strength": "B",
+   "org": "全国高等学校ロボット競技大会実行委員会",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校ロボット競技大会（第32回（2024年、栃木県大会））で長野県駒ヶ根工業高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "全国高等学校ロボット競技大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校ロボット競技大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-20-c2b03612",
+  "schema_version": 1,
+  "title": "長野県長野東高等学校 全国高校駅伝・女子 優勝（第37回）",
+  "claim": "全国高等学校駅伝競走大会（全国高等学校体育連盟・日本陸上競技連盟ほか、第37回（2025年12月（男子第76回・女子第37回）））の女子で、長野県長野東高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校駅伝競走大会（第37回（2025年12月（男子第76回・女子第37回）））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "長野県長野東高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": "長野市",
+   "place_name": "長野県長野東高等学校",
+   "address": "長野県長野市大字大豆島2743-1",
+   "lat": 36.639652,
+   "lng": 138.243576,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "第37回（2025年12月（男子第76回・女子第37回））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟・日本陸上競技連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校駅伝競走大会（第37回（2025年12月（男子第76回・女子第37回）））女子で長野県長野東高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://koukouekiden-record.mainichi.jp/record/archive/f_37/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "2025年のスポーツ（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/2025年のスポーツ",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校駅伝競走大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校駅伝競走大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-20-d5c77668",
+  "schema_version": 1,
+  "title": "佐久長聖高等学校 全国高校駅伝・男子 優勝（第74回）",
+  "claim": "全国高等学校駅伝競走大会（全国高等学校体育連盟・日本陸上競技連盟ほか、第74回（2023年12月（男子第74回・女子第35回）））の男子で、佐久長聖高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校駅伝競走大会（第74回（2023年12月（男子第74回・女子第35回）））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "佐久長聖高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "20",
+   "municipality": "佐久市",
+   "place_name": "佐久長聖高等学校",
+   "address": "長野県佐久市岩村田951番地",
+   "lat": 36.277103,
+   "lng": 138.472855,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": 2023,
+   "period_label": "第74回（2023年12月（男子第74回・女子第35回））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟・日本陸上競技連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校駅伝競走大会（第74回（2023年12月（男子第74回・女子第35回）））男子で佐久長聖高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://koukouekiden-record.mainichi.jp/record/archive/m_74/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "2023年のスポーツ（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/2023年のスポーツ",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校駅伝競走大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校駅伝競走大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-23-51f3c494",
+  "schema_version": 1,
+  "title": "愛知工業大学名電高等学校 全国高校選抜卓球（学校対抗）・男子 優勝（2024年度大会）",
+  "claim": "全国高等学校選抜卓球大会（学校対抗）（全国高等学校体育連盟卓球専門部ほか、2024年度大会（2024年度（年度末開催）））の男子で、愛知工業大学名電高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜卓球大会（学校対抗）（2024年度大会（2024年度（年度末開催）））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "愛知工業大学名電高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "23",
+   "municipality": "名古屋市",
+   "place_name": "愛知工業大学名電高等学校",
+   "address": "愛知県名古屋市千種区若水三丁目2番12号",
+   "lat": 35.1777,
+   "lng": 136.948578,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2024,
+   "period_label": "2024年度大会（2024年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟卓球専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜卓球大会（学校対抗）（2024年度大会（2024年度（年度末開催）））男子で愛知工業大学名電高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "http://www.koutairen-tt.net/2024/11senbatsu/12kiroku/R6senbatsukoroku.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜卓球大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜卓球大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-26-73e7cef4",
+  "schema_version": 1,
+  "title": "京都精華学園高等学校 ウインターカップ・女子 優勝（第76回）",
+  "claim": "全国高等学校バスケットボール選手権大会（ウインターカップ）（日本バスケットボール協会・全国高等学校体育連盟ほか、第76回（2023年度、決勝2023年12月29日））の女子で、京都精華学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第76回（2023年度、決勝2023年12月29日））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "京都精華学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "26",
+   "municipality": "京都市",
+   "place_name": "京都精華学園高等学校",
+   "address": "京都府京都市左京区吉田河原町5-1",
+   "lat": 35.023968,
+   "lng": 135.773178,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": 2023,
+   "period_label": "第76回（2023年度、決勝2023年12月29日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バスケットボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第76回（2023年度、決勝2023年12月29日））女子で京都精華学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://wintercup2025.japanbasketball.jp/history/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第76回全国高等学校バスケットボール選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第76回全国高等学校バスケットボール選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-26-8a82a910",
+  "schema_version": 1,
+  "title": "京都精華学園高等学校 ウインターカップ・女子 優勝（第77回）",
+  "claim": "全国高等学校バスケットボール選手権大会（ウインターカップ）（日本バスケットボール協会・全国高等学校体育連盟ほか、第77回（2024年度、決勝2024年12月29日））の女子で、京都精華学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第77回（2024年度、決勝2024年12月29日））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "京都精華学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "26",
+   "municipality": "京都市",
+   "place_name": "京都精華学園高等学校",
+   "address": "京都府京都市左京区吉田河原町5-1",
+   "lat": 35.023968,
+   "lng": 135.773178,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "第77回（2024年度、決勝2024年12月29日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バスケットボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第77回（2024年度、決勝2024年12月29日））女子で京都精華学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://wintercup2025.japanbasketball.jp/history/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第77回全国高等学校バスケットボール選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第77回全国高等学校バスケットボール選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-26-b6cdb29e",
+  "schema_version": 1,
+  "title": "京都国際高等学校 全国高校野球選手権（夏の甲子園） 優勝（第106回）",
+  "claim": "全国高等学校野球選手権大会（夏の甲子園）（朝日新聞社・日本高等学校野球連盟、第106回（2024年夏））で、京都国際高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校野球選手権大会（夏の甲子園）（第106回（2024年夏））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "京都国際高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "26",
+   "municipality": "京都市",
+   "place_name": "京都国際高等学校",
+   "address": "京都府京都市東山区今熊野本多山町1",
+   "lat": 34.975998,
+   "lng": 135.779388,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "第106回（2024年夏）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "朝日新聞社・日本高等学校野球連盟",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校野球選手権大会（夏の甲子園）（第106回（2024年夏））で京都国際高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jhbf.or.jp/sensyuken/2024/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第106回全国高等学校野球選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第106回全国高等学校野球選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-26-ec39229f",
+  "schema_version": 1,
+  "title": "東山高等学校 春の高校バレー・男子 優勝（第78回）",
+  "claim": "全日本バレーボール高等学校選手権大会（春の高校バレー）（日本バレーボール協会・全国高等学校体育連盟ほか、第78回（2025年度、2026年1月開催））の男子で、東山高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第78回（2025年度、2026年1月開催））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "東山高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "26",
+   "municipality": "京都市",
+   "place_name": "東山高等学校",
+   "address": "京都府京都市左京区永観堂町51",
+   "lat": 35.012718,
+   "lng": 135.794342,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2025,
+   "period_label": "第78回（2025年度、2026年1月開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バレーボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第78回（2025年度、2026年1月開催））男子で東山高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jva.or.jp/wp-content/uploads/2025/01/haruko_20260111.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全日本バレーボール高等学校選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全日本バレーボール高等学校選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-27-88db6eaa",
+  "schema_version": 1,
+  "title": "大阪桐蔭高等学校 選抜高校野球（春のセンバツ） 優勝（第98回）",
+  "claim": "選抜高等学校野球大会（春のセンバツ）（毎日新聞社・日本高等学校野球連盟、第98回（2026年春））で、大阪桐蔭高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "選抜高等学校野球大会（春のセンバツ）（第98回（2026年春））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "大阪桐蔭高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": "大東市",
+   "place_name": "大阪桐蔭高等学校",
+   "address": "大阪府大東市中垣内3丁目1番1号",
+   "lat": 34.70779,
+   "lng": 135.646149,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2025,
+   "period_label": "第98回（2026年春）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "毎日新聞社・日本高等学校野球連盟",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "選抜高等学校野球大会（春のセンバツ）（第98回（2026年春））で大阪桐蔭高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jhbf.or.jp/senbatsu/2026/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第98回選抜高等学校野球大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第98回選抜高等学校野球大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-27-8a0921fd",
+  "schema_version": 1,
+  "title": "四天王寺高等学校 全国高校選抜卓球（学校対抗）・女子 優勝（2023年度大会）",
+  "claim": "全国高等学校選抜卓球大会（学校対抗）（全国高等学校体育連盟卓球専門部ほか、2023年度大会（2023年度（年度末開催）））の女子で、四天王寺高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜卓球大会（学校対抗）（2023年度大会（2023年度（年度末開催）））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "四天王寺高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": "大阪市",
+   "place_name": "四天王寺高等学校",
+   "address": "大阪府大阪市天王寺区四天王寺一丁目11番73号",
+   "lat": 34.653706,
+   "lng": 135.514328,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2023,
+   "period_label": "2023年度大会（2023年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟卓球専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜卓球大会（学校対抗）（2023年度大会（2023年度（年度末開催）））女子で四天王寺高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "http://www.koutairen-tt.net/2023/11senbatsu/R5senbatsukekka.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜卓球大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜卓球大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-27-99e99094",
+  "schema_version": 1,
+  "title": "四天王寺高等学校 全国高校選抜卓球（学校対抗）・女子 優勝（2024年度大会）",
+  "claim": "全国高等学校選抜卓球大会（学校対抗）（全国高等学校体育連盟卓球専門部ほか、2024年度大会（2024年度（年度末開催）））の女子で、四天王寺高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜卓球大会（学校対抗）（2024年度大会（2024年度（年度末開催）））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "四天王寺高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": "大阪市",
+   "place_name": "四天王寺高等学校",
+   "address": "大阪府大阪市天王寺区四天王寺一丁目11番73号",
+   "lat": 34.653706,
+   "lng": 135.514328,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2024,
+   "period_label": "2024年度大会（2024年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟卓球専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜卓球大会（学校対抗）（2024年度大会（2024年度（年度末開催）））女子で四天王寺高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "http://www.koutairen-tt.net/2024/11senbatsu/12kiroku/R6senbatsukoroku.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜卓球大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜卓球大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-27-d57581fd",
+  "schema_version": 1,
+  "title": "金蘭会高等学校 春の高校バレー・女子 優勝（第78回）",
+  "claim": "全日本バレーボール高等学校選手権大会（春の高校バレー）（日本バレーボール協会・全国高等学校体育連盟ほか、第78回（2025年度、2026年1月開催））の女子で、金蘭会高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第78回（2025年度、2026年1月開催））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "金蘭会高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": "大阪市",
+   "place_name": "金蘭会高等学校",
+   "address": "大阪府大阪市北区大淀南三丁目3番7号",
+   "lat": 34.700283,
+   "lng": 135.48378,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2025,
+   "period_label": "第78回（2025年度、2026年1月開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バレーボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第78回（2025年度、2026年1月開催））女子で金蘭会高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jva.or.jp/wp-content/uploads/2025/01/haruko_20260111.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全日本バレーボール高等学校選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全日本バレーボール高等学校選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-27-e5e8ab34",
+  "schema_version": 1,
+  "title": "大阪薫英女学院高等学校 ウインターカップ・女子 優勝（第78回）",
+  "claim": "全国高等学校バスケットボール選手権大会（ウインターカップ）（日本バスケットボール協会・全国高等学校体育連盟ほか、第78回（2025年度、決勝2025年12月29日））の女子で、大阪薫英女学院高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第78回（2025年度、決勝2025年12月29日））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "大阪薫英女学院高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": "摂津市",
+   "place_name": "大阪薫英女学院高等学校",
+   "address": "大阪府摂津市正雀一丁目4番1号",
+   "lat": 34.779377,
+   "lng": 135.547882,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "第78回（2025年度、決勝2025年12月29日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バスケットボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第78回（2025年度、決勝2025年12月29日））女子で大阪薫英女学院高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://wintercup2025.japanbasketball.jp/schedule/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第78回全国高等学校バスケットボール選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第78回全国高等学校バスケットボール選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-27-fefda150",
+  "schema_version": 1,
+  "title": "四天王寺高等学校 全国高校選抜卓球（学校対抗）・女子 優勝（2025年度大会）",
+  "claim": "全国高等学校選抜卓球大会（学校対抗）（全国高等学校体育連盟卓球専門部ほか、2025年度大会（2025年度（年度末開催）））の女子で、四天王寺高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜卓球大会（学校対抗）（2025年度大会（2025年度（年度末開催）））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "四天王寺高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "27",
+   "municipality": "大阪市",
+   "place_name": "四天王寺高等学校",
+   "address": "大阪府大阪市天王寺区四天王寺一丁目11番73号",
+   "lat": 34.653706,
+   "lng": 135.514328,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2025,
+   "period_label": "2025年度大会（2025年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟卓球専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜卓球大会（学校対抗）（2025年度大会（2025年度（年度末開催）））女子で四天王寺高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "http://www.koutairen-tt.net/2025/11senbatsu/12kiroku/R7senbatsukiroku.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜卓球大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜卓球大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-32-3754b38a",
+  "schema_version": 1,
+  "title": "島根県立出雲北陵高等学校 全国高校選抜卓球（学校対抗）・男子 優勝（2023年度大会）",
+  "claim": "全国高等学校選抜卓球大会（学校対抗）（全国高等学校体育連盟卓球専門部ほか、2023年度大会（2023年度（年度末開催）））の男子で、島根県立出雲北陵高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜卓球大会（学校対抗）（2023年度大会（2023年度（年度末開催）））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "島根県立出雲北陵高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "32",
+   "municipality": "出雲市",
+   "place_name": "島根県立出雲北陵高等学校",
+   "address": "島根県出雲市西林木町3番地",
+   "lat": 35.396053,
+   "lng": 132.765396,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2023,
+   "period_label": "2023年度大会（2023年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟卓球専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜卓球大会（学校対抗）（2023年度大会（2023年度（年度末開催）））男子で島根県立出雲北陵高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "http://www.koutairen-tt.net/2023/11senbatsu/R5senbatsukekka.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜卓球大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜卓球大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-33-d3a981a0",
+  "schema_version": 1,
+  "title": "就実高等学校 春の高校バレー・女子 優勝（第76回）",
+  "claim": "全日本バレーボール高等学校選手権大会（春の高校バレー）（日本バレーボール協会・全国高等学校体育連盟ほか、第76回（2023年度、2024年1月開催））の女子で、就実高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第76回（2023年度、2024年1月開催））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "就実高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "33",
+   "municipality": "岡山市",
+   "place_name": "就実高等学校",
+   "address": "岡山県岡山市北区弓之町14-23",
+   "lat": 34.671143,
+   "lng": 133.929214,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2023,
+   "period_label": "第76回（2023年度、2024年1月開催）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バレーボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全日本バレーボール高等学校選手権大会（春の高校バレー）（第76回（2023年度、2024年1月開催））女子で就実高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jva.or.jp/wp-content/uploads/2024/04/haruko20240108.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全日本バレーボール高等学校選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全日本バレーボール高等学校選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-35-31c5950f",
+  "schema_version": 1,
+  "title": "山口県立柳井商工高等学校 全国高校選抜バドミントン（学校対抗）・女子 優勝（第54回）",
+  "claim": "全国高等学校選抜バドミントン大会（学校対抗）（全国高等学校体育連盟バドミントン専門部ほか、第54回（2025年度（年度末開催）））の女子で、山口県立柳井商工高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜バドミントン大会（学校対抗）（第54回（2025年度（年度末開催）））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "山口県立柳井商工高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "35",
+   "municipality": "柳井市",
+   "place_name": "山口県立柳井商工高等学校",
+   "address": "山口県柳井市伊保庄2658",
+   "lat": 33.956013,
+   "lng": 132.099655,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2025,
+   "period_label": "第54回（2025年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟バドミントン専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜バドミントン大会（学校対抗）（第54回（2025年度（年度末開催）））女子で山口県立柳井商工高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.zenkoku-koutairen-bad.com/data/events/001351/ランキング一覧_20260328175413.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜バドミントン大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜バドミントン大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-35-3621c2dc",
+  "schema_version": 1,
+  "title": "野田学園高等学校 全国高校選抜卓球（学校対抗）・男子 優勝（2025年度大会）",
+  "claim": "全国高等学校選抜卓球大会（学校対抗）（全国高等学校体育連盟卓球専門部ほか、2025年度大会（2025年度（年度末開催）））の男子で、野田学園高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜卓球大会（学校対抗）（2025年度大会（2025年度（年度末開催）））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "野田学園高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "35",
+   "municipality": "山口市",
+   "place_name": "野田学園高等学校",
+   "address": "山口県山口市野田56番地",
+   "lat": 34.18631,
+   "lng": 131.479507,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2025,
+   "period_label": "2025年度大会（2025年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟卓球専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜卓球大会（学校対抗）（2025年度大会（2025年度（年度末開催）））男子で野田学園高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "http://www.koutairen-tt.net/2025/11senbatsu/12kiroku/R7senbatsukiroku.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜卓球大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜卓球大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-35-d68a72c0",
+  "schema_version": 1,
+  "title": "山口県立柳井商工高等学校 全国高校選抜バドミントン（学校対抗）・女子 優勝（第53回）",
+  "claim": "全国高等学校選抜バドミントン大会（学校対抗）（全国高等学校体育連盟バドミントン専門部ほか、第53回（2024年度（年度末開催）））の女子で、山口県立柳井商工高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜バドミントン大会（学校対抗）（第53回（2024年度（年度末開催）））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "山口県立柳井商工高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "35",
+   "municipality": "柳井市",
+   "place_name": "山口県立柳井商工高等学校",
+   "address": "山口県柳井市伊保庄2658",
+   "lat": 33.956013,
+   "lng": 132.099655,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2024,
+   "period_label": "第53回（2024年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟バドミントン専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜バドミントン大会（学校対抗）（第53回（2024年度（年度末開催）））女子で山口県立柳井商工高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.zenkoku-koutairen-bad.com/data/events/000599/006697.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜バドミントン大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜バドミントン大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-35-fa593133",
+  "schema_version": 1,
+  "title": "山口県立柳井商工高等学校 全国高校選抜バドミントン（学校対抗）・女子 優勝（第52回）",
+  "claim": "全国高等学校選抜バドミントン大会（学校対抗）（全国高等学校体育連盟バドミントン専門部ほか、第52回（2023年度（年度末開催）））の女子で、山口県立柳井商工高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校選抜バドミントン大会（学校対抗）（第52回（2023年度（年度末開催）））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "山口県立柳井商工高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "35",
+   "municipality": "柳井市",
+   "place_name": "山口県立柳井商工高等学校",
+   "address": "山口県柳井市伊保庄2658",
+   "lat": 33.956013,
+   "lng": 132.099655,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2023,
+   "period_label": "第52回（2023年度（年度末開催））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟バドミントン専門部ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校選抜バドミントン大会（学校対抗）（第52回（2023年度（年度末開催）））女子で山口県立柳井商工高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.zenkoku-koutairen-bad.com/data/events/000606/005638.pdf",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校選抜バドミントン大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校選抜バドミントン大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-40-4a39c3e8",
+  "schema_version": 1,
+  "title": "福岡大学附属大濠高等学校 ウインターカップ・男子 優勝（第77回）",
+  "claim": "全国高等学校バスケットボール選手権大会（ウインターカップ）（日本バスケットボール協会・全国高等学校体育連盟ほか、第77回（2024年度、決勝2024年12月29日））の男子で、福岡大学附属大濠高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第77回（2024年度、決勝2024年12月29日））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "福岡大学附属大濠高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "40",
+   "municipality": "福岡市",
+   "place_name": "福岡大学附属大濠高等学校",
+   "address": "福岡県福岡市中央区六本松一丁目12番1号",
+   "lat": 33.580479,
+   "lng": 130.377167,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2024,
+   "fiscal_year": 2024,
+   "period_label": "第77回（2024年度、決勝2024年12月29日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バスケットボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第77回（2024年度、決勝2024年12月29日））男子で福岡大学附属大濠高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://wintercup2025.japanbasketball.jp/history/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第77回全国高等学校バスケットボール選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第77回全国高等学校バスケットボール選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-40-eb9d94cc",
+  "schema_version": 1,
+  "title": "福岡第一高等学校 ウインターカップ・男子 優勝（第76回）",
+  "claim": "全国高等学校バスケットボール選手権大会（ウインターカップ）（日本バスケットボール協会・全国高等学校体育連盟ほか、第76回（2023年度、決勝2023年12月29日））の男子で、福岡第一高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第76回（2023年度、決勝2023年12月29日））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "福岡第一高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "40",
+   "municipality": "福岡市",
+   "place_name": "福岡第一高等学校",
+   "address": "福岡県福岡市南区玉川町22番1号",
+   "lat": 33.565372,
+   "lng": 130.417648,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": 2023,
+   "period_label": "第76回（2023年度、決勝2023年12月29日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バスケットボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第76回（2023年度、決勝2023年12月29日））男子で福岡第一高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://wintercup2025.japanbasketball.jp/history/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第76回全国高等学校バスケットボール選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第76回全国高等学校バスケットボール選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-40-fdc98b63",
+  "schema_version": 1,
+  "title": "福岡大学附属大濠高等学校 ウインターカップ・男子 優勝（第78回）",
+  "claim": "全国高等学校バスケットボール選手権大会（ウインターカップ）（日本バスケットボール協会・全国高等学校体育連盟ほか、第78回（2025年度、決勝2025年12月29日））の男子で、福岡大学附属大濠高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第78回（2025年度、決勝2025年12月29日））の男子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "福岡大学附属大濠高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "40",
+   "municipality": "福岡市",
+   "place_name": "福岡大学附属大濠高等学校",
+   "address": "福岡県福岡市中央区六本松一丁目12番1号",
+   "lat": 33.580479,
+   "lng": 130.377167,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "第78回（2025年度、決勝2025年12月29日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "日本バスケットボール協会・全国高等学校体育連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校バスケットボール選手権大会（ウインターカップ）（第78回（2025年度、決勝2025年12月29日））男子で福岡大学附属大濠高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://wintercup2025.japanbasketball.jp/schedule/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第78回全国高等学校バスケットボール選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第78回全国高等学校バスケットボール選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-44-df0c4bb2",
+  "schema_version": 1,
+  "title": "大分県立佐伯豊南高等学校 全国高校ロボット競技 優勝（第31回）",
+  "claim": "全国高等学校ロボット競技大会（全国高等学校ロボット競技大会実行委員会、第31回（2023年、福井県大会））で、大分県立佐伯豊南高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校ロボット競技大会（第31回（2023年、福井県大会））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "大分県立佐伯豊南高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "44",
+   "municipality": "佐伯市",
+   "place_name": "大分県立佐伯豊南高等学校",
+   "address": "大分県佐伯市鶴岡町二丁目2番1号",
+   "lat": 32.95554,
+   "lng": 131.884338,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": 2023,
+   "period_label": "第31回（2023年、福井県大会）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "media_report",
+   "strength": "B",
+   "org": "全国高等学校ロボット競技大会実行委員会",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校ロボット競技大会（第31回（2023年、福井県大会））で大分県立佐伯豊南高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "全国高等学校ロボット競技大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校ロボット競技大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-46-1be7ab00",
+  "schema_version": 1,
+  "title": "神村学園高等部 全国高校駅伝・女子 優勝（第35回）",
+  "claim": "全国高等学校駅伝競走大会（全国高等学校体育連盟・日本陸上競技連盟ほか、第35回（2023年12月（男子第74回・女子第35回）））の女子で、神村学園高等部が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校駅伝競走大会（第35回（2023年12月（男子第74回・女子第35回）））の女子優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "神村学園高等部",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": "いちき串木野市",
+   "place_name": "神村学園高等部",
+   "address": "鹿児島県いちき串木野市別府4460番地",
+   "lat": 31.703882,
+   "lng": 130.281708,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2023,
+   "fiscal_year": 2023,
+   "period_label": "第35回（2023年12月（男子第74回・女子第35回））",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "全国高等学校体育連盟・日本陸上競技連盟ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校駅伝競走大会（第35回（2023年12月（男子第74回・女子第35回）））女子で神村学園高等部が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://koukouekiden-record.mainichi.jp/record/archive/f_35/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "2023年のスポーツ（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/2023年のスポーツ",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "全国高等学校駅伝競走大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/全国高等学校駅伝競走大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-46-8a0a3889",
+  "schema_version": 1,
+  "title": "神村学園高等部 全国高校サッカー選手権 優勝（第104回）",
+  "claim": "全国高等学校サッカー選手権大会（日本サッカー協会・民間放送43社ほか、第104回（2025年度、決勝2026年1月12日））で、神村学園高等部が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校サッカー選手権大会（第104回（2025年度、決勝2026年1月12日））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "神村学園高等部",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "46",
+   "municipality": "いちき串木野市",
+   "place_name": "神村学園高等部",
+   "address": "鹿児島県いちき串木野市別府4460番地",
+   "lat": 31.703882,
+   "lng": 130.281708,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2026,
+   "fiscal_year": 2025,
+   "period_label": "第104回（2025年度、決勝2026年1月12日）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "media_report",
+   "strength": "B",
+   "org": "日本サッカー協会・民間放送43社ほか",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校サッカー選手権大会（第104回（2025年度、決勝2026年1月12日））で神村学園高等部が優勝した。",
+  "sources": [
+   {
+    "title": "第104回全国高等学校サッカー選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第104回全国高等学校サッカー選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
+  "id": "jp-47-80c2ed95",
+  "schema_version": 1,
+  "title": "沖縄尚学高等学校 全国高校野球選手権（夏の甲子園） 優勝（第107回）",
+  "claim": "全国高等学校野球選手権大会（夏の甲子園）（朝日新聞社・日本高等学校野球連盟、第107回（2025年夏））で、沖縄尚学高等学校が優勝（1位）",
+  "rank": {
+   "position": 1,
+   "scope": "national",
+   "label": "全国1位（全国大会優勝）",
+   "scope_note": "全国高等学校野球選手権大会（夏の甲子園）（第107回（2025年夏））の優勝校。全国の予選・代表校から勝ち上がった大会の優勝。"
+  },
+  "subject": {
+   "name": "沖縄尚学高等学校",
+   "kind": "school"
+  },
+  "location": {
+   "pref_code": "47",
+   "municipality": "那覇市",
+   "place_name": "沖縄尚学高等学校",
+   "address": "沖縄県那覇市国場747番地",
+   "lat": 26.200539,
+   "lng": 127.699211,
+   "precision": "address",
+   "extra_points": []
+  },
+  "category": [
+   "sports_school"
+  ],
+  "time": {
+   "kind": "event",
+   "year": 2025,
+   "fiscal_year": 2025,
+   "period_label": "第107回（2025年夏）",
+   "streak": null
+  },
+  "evidence": {
+   "type": "award",
+   "strength": "A",
+   "org": "朝日新聞社・日本高等学校野球連盟",
+   "method": "Wikipedia日本語版の大会結果ページの記載（主催者公式結果は未照合）",
+   "sample_size": null,
+   "population_note": null
+  },
+  "detail": "全国高等学校野球選手権大会（夏の甲子園）（第107回（2025年夏））で沖縄尚学高等学校が優勝した。",
+  "sources": [
+   {
+    "title": "公式の結果・確認ページ（再確認で照合）",
+    "url": "https://www.jhbf.or.jp/sensyuken/2025/",
+    "accessed": "2026-10-16"
+   },
+   {
+    "title": "第107回全国高等学校野球選手権大会（Wikipedia）",
+    "url": "https://ja.wikipedia.org/wiki/第107回全国高等学校野球選手権大会",
+    "accessed": "2026-10-16"
+   }
+  ],
+  "links": {
+   "official": null,
+   "instagram": null
+  },
+  "flags": {
+   "negative": false,
+   "personal": false,
+   "minor_involved": true
+  },
+  "status": {
+   "verified_at": "2026-10-16",
+   "needs_review": true
+  }
+ },
+ {
   "id": "jp-01-16d9a2bc",
   "schema_version": 1,
   "title": "北海道千歳高等学校 全国高校総体（インターハイ）自転車競技 男子スプリント 優勝（2023年）",
