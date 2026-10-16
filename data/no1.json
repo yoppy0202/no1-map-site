@@ -3164,8 +3164,8 @@
    "municipality": "広野町",
    "place_name": "福島県立ふたば未来学園高等学校",
    "address": "福島県双葉郡広野町中央台1丁目6-3",
-   "lat": null,
-   "lng": null,
+   "lat": 37.211803,
+   "lng": 140.990982,
    "precision": "address",
    "extra_points": []
   },
@@ -3234,8 +3234,8 @@
    "municipality": "石川町",
    "place_name": "学法石川高等学校",
    "address": "福島県石川郡石川町大室502番地",
-   "lat": null,
-   "lng": null,
+   "lat": 37.14172,
+   "lng": 140.452545,
    "precision": "address",
    "extra_points": []
   },
@@ -3309,8 +3309,8 @@
    "municipality": "広野町",
    "place_name": "福島県立ふたば未来学園高等学校",
    "address": "福島県双葉郡広野町中央台1丁目6-3",
-   "lat": null,
-   "lng": null,
+   "lat": 37.211803,
+   "lng": 140.990982,
    "precision": "address",
    "extra_points": []
   },
@@ -7159,9 +7159,9 @@
    "municipality": "中川郡幕別町",
    "place_name": "北海道幕別清陵高等学校",
    "address": "北海道中川郡幕別町依田101番地1",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 42.901897,
+   "lng": 143.266907,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -8179,9 +8179,9 @@
    "municipality": "八幡平市",
    "place_name": "岩手県立平舘高等学校",
    "address": "岩手県八幡平市平舘25地割6",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 39.96468,
+   "lng": 141.079407,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -8859,9 +8859,9 @@
    "municipality": "西村山郡河北町",
    "place_name": "山形県立谷地高等学校",
    "address": "山形県西村山郡河北町谷地字田中170番地",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 38.422348,
+   "lng": 140.309067,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -8939,9 +8939,9 @@
    "municipality": "西村山郡河北町",
    "place_name": "山形県立谷地高等学校",
    "address": "山形県西村山郡河北町谷地字田中170番地",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 38.422348,
+   "lng": 140.309067,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -9019,9 +9019,9 @@
    "municipality": "西村山郡河北町",
    "place_name": "山形県立谷地高等学校",
    "address": "山形県西村山郡河北町谷地字田中170番地",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 38.422348,
+   "lng": 140.309067,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -9179,9 +9179,9 @@
    "municipality": "西村山郡河北町",
    "place_name": "山形県立谷地高等学校",
    "address": "山形県西村山郡河北町谷地字田中170番地",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 38.422348,
+   "lng": 140.309067,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -9259,9 +9259,9 @@
    "municipality": "西村山郡河北町",
    "place_name": "山形県立谷地高等学校",
    "address": "山形県西村山郡河北町谷地字田中170番地",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 38.422348,
+   "lng": 140.309067,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -9419,9 +9419,9 @@
    "municipality": "西村山郡河北町",
    "place_name": "山形県立谷地高等学校",
    "address": "山形県西村山郡河北町谷地字田中170番地",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 38.422348,
+   "lng": 140.309067,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -9499,9 +9499,9 @@
    "municipality": "西村山郡河北町",
    "place_name": "山形県立谷地高等学校",
    "address": "山形県西村山郡河北町谷地字田中170番地",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 38.422348,
+   "lng": 140.309067,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -36814,9 +36814,9 @@
    "municipality": "北葛城郡王寺町",
    "place_name": "奈良県立王寺工業高等学校",
    "address": "奈良県北葛城郡王寺町本町三丁目6番1号",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 34.59095,
+   "lng": 135.70224,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -37134,9 +37134,9 @@
    "municipality": "北葛城郡王寺町",
    "place_name": "奈良県立王寺工業高等学校",
    "address": "奈良県北葛城郡王寺町本町三丁目6番1号",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 34.59095,
+   "lng": 135.70224,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -50639,9 +50639,9 @@
    "municipality": "肝属郡南大隅町",
    "place_name": "鹿児島県立南大隅高等学校",
    "address": "鹿児島県肝属郡南大隅町根占川北413番地",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 31.219797,
+   "lng": 130.771622,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -51399,9 +51399,9 @@
    "municipality": "中頭郡北中城村",
    "place_name": "沖縄県立北中城高等学校",
    "address": "沖縄県中頭郡北中城村字渡口1997-13",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 26.303259,
+   "lng": 127.813965,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -52109,9 +52109,9 @@
    "municipality": "広野町",
    "place_name": "福島県立ふたば未来学園高等学校",
    "address": "福島県双葉郡広野町中央台1丁目6-3",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 37.211803,
+   "lng": 140.990982,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -52349,9 +52349,9 @@
    "municipality": "杉戸町",
    "place_name": "昌平高等学校",
    "address": "埼玉県北葛飾郡杉戸町下野851",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 36.057735,
+   "lng": 139.70134,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -56739,9 +56739,9 @@
    "municipality": "奥出雲町",
    "place_name": "島根県立横田高等学校",
    "address": "島根県仁多郡奥出雲町稲原2178-1",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 35.173416,
+   "lng": 133.105148,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -56819,9 +56819,9 @@
    "municipality": "奥出雲町",
    "place_name": "島根県立横田高等学校",
    "address": "島根県仁多郡奥出雲町稲原2178-1",
-   "lat": null,
-   "lng": null,
-   "precision": "municipality",
+   "lat": 35.173416,
+   "lng": 133.105148,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -60599,9 +60599,9 @@
    "municipality": "富士河口湖町",
    "place_name": "大池ホテル",
    "address": "山梨県南都留郡富士河口湖町船津6713-103",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.50565,
+   "lng": 138.760147,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -60814,9 +60814,9 @@
    "municipality": "斜里町",
    "place_name": "道の駅 うとろ・シリエトク（斜里町）",
    "address": "北海道斜里郡斜里町ウトロ西186-8",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 44.067509,
+   "lng": 144.99231,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -61334,9 +61334,9 @@
    "municipality": "厚岸町",
    "place_name": "道の駅 厚岸グルメパーク（厚岸町）",
    "address": "北海道厚岸郡厚岸町住の江町2-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 43.058617,
+   "lng": 144.847839,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -61724,9 +61724,9 @@
    "municipality": "羅臼町",
    "place_name": "道の駅 知床・らうす（羅臼町）",
    "address": "北海道目梨郡羅臼町本町361-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 44.017895,
+   "lng": 145.186691,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -62179,9 +62179,9 @@
    "municipality": "ニセコ町",
    "place_name": "道の駅 ニセコビュープラザ（ニセコ町）",
    "address": "北海道虻田郡ニセコ町字元町77-10",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 42.797264,
+   "lng": 140.705185,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -62959,9 +62959,9 @@
    "municipality": "羅臼町",
    "place_name": "道の駅 知床・らうす（羅臼町）",
    "address": "北海道目梨郡羅臼町本町361-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 44.017895,
+   "lng": 145.186691,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -63349,9 +63349,9 @@
    "municipality": "厚岸町",
    "place_name": "道の駅 厚岸グルメパーク（厚岸町）",
    "address": "北海道厚岸郡厚岸町住の江町2-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 43.058617,
+   "lng": 144.847839,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -63609,9 +63609,9 @@
    "municipality": "ニセコ町",
    "place_name": "道の駅 ニセコビュープラザ（ニセコ町）",
    "address": "北海道虻田郡ニセコ町字元町77-10",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 42.797264,
+   "lng": 140.705185,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -64519,9 +64519,9 @@
    "municipality": "厚岸町",
    "place_name": "道の駅 厚岸グルメパーク（厚岸町）",
    "address": "北海道厚岸郡厚岸町住の江町2-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 43.058617,
+   "lng": 144.847839,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -65104,9 +65104,9 @@
    "municipality": "美幌町",
    "place_name": "道の駅 ぐるっとパノラマ美幌峠（美幌町）",
    "address": "北海道網走郡美幌町字古梅",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 43.66711,
+   "lng": 144.201843,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -65884,9 +65884,9 @@
    "municipality": "羅臼町",
    "place_name": "道の駅 知床・らうす（羅臼町）",
    "address": "北海道目梨郡羅臼町本町361-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 44.017895,
+   "lng": 145.186691,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -66339,9 +66339,9 @@
    "municipality": "十和田市",
    "place_name": "道の駅 奥入瀬（十和田市）",
    "address": "青森県十和田市大字奥瀬字堰道39-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 40.571651,
+   "lng": 141.03363,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -66794,9 +66794,9 @@
    "municipality": "十和田市",
    "place_name": "道の駅 奥入瀬（十和田市）",
    "address": "青森県十和田市大字奥瀬字堰道39-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 40.571651,
+   "lng": 141.03363,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -70304,9 +70304,9 @@
    "municipality": "岩手町",
    "place_name": "道の駅 石神の丘（岩手町）",
    "address": "岩手県岩手郡岩手町大字五日市10-121-20",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.968746,
+   "lng": 141.214478,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -70369,9 +70369,9 @@
    "municipality": "雫石町",
    "place_name": "道の駅 雫石あねっこ（雫石町）",
    "address": "岩手県岩手郡雫石町橋場坂本118-10",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.74099,
+   "lng": 140.836029,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -71019,9 +71019,9 @@
    "municipality": "雫石町",
    "place_name": "道の駅 雫石あねっこ（雫石町）",
    "address": "岩手県岩手郡雫石町橋場坂本118-10",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.74099,
+   "lng": 140.836029,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -71149,9 +71149,9 @@
    "municipality": "雫石町",
    "place_name": "道の駅 雫石あねっこ（雫石町）",
    "address": "岩手県岩手郡雫石町橋場坂本118-10",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.74099,
+   "lng": 140.836029,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -73099,9 +73099,9 @@
    "municipality": "岩手町",
    "place_name": "道の駅 石神の丘（岩手町）",
    "address": "岩手県岩手郡岩手町大字五日市10-121-20",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.968746,
+   "lng": 141.214478,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -73359,9 +73359,9 @@
    "municipality": "雫石町",
    "place_name": "道の駅 雫石あねっこ（雫石町）",
    "address": "岩手県岩手郡雫石町橋場坂本118-10",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.74099,
+   "lng": 140.836029,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -73554,9 +73554,9 @@
    "municipality": "岩手町",
    "place_name": "道の駅 石神の丘（岩手町）",
    "address": "岩手県岩手郡岩手町大字五日市10-121-20",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.968746,
+   "lng": 141.214478,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -73684,9 +73684,9 @@
    "municipality": "雫石町",
    "place_name": "道の駅 雫石あねっこ（雫石町）",
    "address": "岩手県岩手郡雫石町橋場坂本118-10",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.74099,
+   "lng": 140.836029,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -73749,9 +73749,9 @@
    "municipality": "岩手町",
    "place_name": "道の駅 石神の丘（岩手町）",
    "address": "岩手県岩手郡岩手町大字五日市10-121-20",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.968746,
+   "lng": 141.214478,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -74009,9 +74009,9 @@
    "municipality": "雫石町",
    "place_name": "道の駅 雫石あねっこ（雫石町）",
    "address": "岩手県岩手郡雫石町橋場坂本118-10",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.74099,
+   "lng": 140.836029,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -74399,9 +74399,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -74659,9 +74659,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -74724,9 +74724,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -74854,9 +74854,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -74919,9 +74919,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -75049,9 +75049,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -75244,9 +75244,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -75894,9 +75894,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -77064,9 +77064,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -77844,9 +77844,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -78039,9 +78039,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -78234,9 +78234,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -78429,9 +78429,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -78689,9 +78689,9 @@
    "municipality": "大崎市",
    "place_name": "道の駅 あ・ら・伊達な（大崎市）",
    "address": "宮城県大崎市岩出山池月字下宮道下4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -86034,9 +86034,9 @@
    "municipality": "鶴岡市",
    "place_name": "道の駅 あつみ（鶴岡市）",
    "address": "山形県鶴岡市早田字戸ノ浦606",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.569305,
+   "lng": 139.573822,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -88114,9 +88114,9 @@
    "municipality": "猪苗代町",
    "place_name": "道の駅 猪苗代（猪苗代町）",
    "address": "福島県耶麻郡猪苗代町大字堅田字五百苅1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.537666,
+   "lng": 140.107574,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -89089,9 +89089,9 @@
    "municipality": "猪苗代町",
    "place_name": "道の駅 猪苗代（猪苗代町）",
    "address": "福島県耶麻郡猪苗代町大字堅田字五百苅1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.537666,
+   "lng": 140.107574,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -89479,9 +89479,9 @@
    "municipality": "猪苗代町",
    "place_name": "道の駅 猪苗代（猪苗代町）",
    "address": "福島県耶麻郡猪苗代町大字堅田字五百苅1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.537666,
+   "lng": 140.107574,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -90129,9 +90129,9 @@
    "municipality": "湯川村",
    "place_name": "道の駅 あいづ湯川・会津坂下（湯川村）",
    "address": "福島県河沼郡湯川村大字佐野目字五丁ノ目78-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.556637,
+   "lng": 139.866806,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -90519,9 +90519,9 @@
    "municipality": "猪苗代町",
    "place_name": "道の駅 猪苗代（猪苗代町）",
    "address": "福島県耶麻郡猪苗代町大字堅田字五百苅1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.537666,
+   "lng": 140.107574,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -90714,9 +90714,9 @@
    "municipality": "猪苗代町",
    "place_name": "道の駅 猪苗代（猪苗代町）",
    "address": "福島県耶麻郡猪苗代町大字堅田字五百苅1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.537666,
+   "lng": 140.107574,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -91299,9 +91299,9 @@
    "municipality": "磐梯町",
    "place_name": "道の駅 ばんだい（磐梯町）",
    "address": "福島県耶麻郡磐梯町大字磐梯字十王堂38",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.563194,
+   "lng": 139.987244,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -91689,9 +91689,9 @@
    "municipality": "猪苗代町",
    "place_name": "道の駅 猪苗代（猪苗代町）",
    "address": "福島県耶麻郡猪苗代町大字堅田字五百苅1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.537666,
+   "lng": 140.107574,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -92469,9 +92469,9 @@
    "municipality": "磐梯町",
    "place_name": "道の駅 ばんだい（磐梯町）",
    "address": "福島県耶麻郡磐梯町大字磐梯字十王堂38",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.563194,
+   "lng": 139.987244,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -92599,9 +92599,9 @@
    "municipality": "猪苗代町",
    "place_name": "道の駅 猪苗代（猪苗代町）",
    "address": "福島県耶麻郡猪苗代町大字堅田字五百苅1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.537666,
+   "lng": 140.107574,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -98059,9 +98059,9 @@
    "municipality": "茂木町",
    "place_name": "道の駅 もてぎ（茂木町）",
    "address": "栃木県芳賀郡茂木町大字茂木1090-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.527531,
+   "lng": 140.176346,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -100269,9 +100269,9 @@
    "municipality": "那須町",
    "place_name": "道の駅 那須高原友愛の森（那須町）",
    "address": "栃木県那須郡那須町大字高久乙593-8",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.0411,
+   "lng": 140.013382,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -102609,9 +102609,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ（川場村）",
    "address": "群馬県利根郡川場村大字萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -103454,9 +103454,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ（川場村）",
    "address": "群馬県利根郡川場村大字萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -103649,9 +103649,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ（川場村）",
    "address": "群馬県利根郡川場村大字萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -104299,9 +104299,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ（川場村）",
    "address": "群馬県利根郡川場村大字萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -104819,9 +104819,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ（川場村）",
    "address": "群馬県利根郡川場村大字萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -105339,9 +105339,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ（川場村）",
    "address": "群馬県利根郡川場村大字萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -105859,9 +105859,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ（川場村）",
    "address": "群馬県利根郡川場村大字萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -106249,9 +106249,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ（川場村）",
    "address": "群馬県利根郡川場村大字萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -106314,9 +106314,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ（川場村）",
    "address": "群馬県利根郡川場村大字萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -106379,9 +106379,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ（川場村）",
    "address": "群馬県利根郡川場村大字萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -106444,9 +106444,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ（川場村）",
    "address": "群馬県利根郡川場村大字萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -109239,9 +109239,9 @@
    "municipality": "吉見町",
    "place_name": "道の駅 いちごの里よしみ（吉見町）",
    "address": "埼玉県比企郡吉見町大字久保田1737",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.036816,
+   "lng": 139.457565,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -109304,9 +109304,9 @@
    "municipality": "吉見町",
    "place_name": "道の駅 いちごの里よしみ（吉見町）",
    "address": "埼玉県比企郡吉見町大字久保田1737",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.036816,
+   "lng": 139.457565,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -110734,9 +110734,9 @@
    "municipality": "吉見町",
    "place_name": "道の駅 いちごの里 よしみ（吉見町）",
    "address": "埼玉県比企郡吉見町大字久保田1737",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.036816,
+   "lng": 139.457565,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -110994,9 +110994,9 @@
    "municipality": "吉見町",
    "place_name": "道の駅 いちごの里よしみ（吉見町）",
    "address": "埼玉県比企郡吉見町大字久保田1737",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.036816,
+   "lng": 139.457565,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -111124,9 +111124,9 @@
    "municipality": "吉見町",
    "place_name": "道の駅 いちごの里よしみ（吉見町）",
    "address": "埼玉県比企郡吉見町大字久保田1737",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.036816,
+   "lng": 139.457565,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -111579,9 +111579,9 @@
    "municipality": "吉見町",
    "place_name": "道の駅 いちごの里よしみ（吉見町）",
    "address": "埼玉県比企郡吉見町大字久保田1737",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.036816,
+   "lng": 139.457565,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -112034,9 +112034,9 @@
    "municipality": "吉見町",
    "place_name": "道の駅 いちごの里よしみ（吉見町）",
    "address": "埼玉県比企郡吉見町大字久保田1737",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.036816,
+   "lng": 139.457565,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -112294,9 +112294,9 @@
    "municipality": "杉戸町",
    "place_name": "道の駅 アグリパークゆめすぎと（杉戸町）",
    "address": "埼玉県北葛飾郡杉戸町大字才羽823-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.025005,
+   "lng": 139.768845,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -112359,9 +112359,9 @@
    "municipality": "吉見町",
    "place_name": "道の駅 いちごの里よしみ（吉見町）",
    "address": "埼玉県比企郡吉見町大字久保田1737",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.036816,
+   "lng": 139.457565,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -115804,9 +115804,9 @@
    "municipality": "鋸南町",
    "place_name": "道の駅 保田小学校（鋸南町）",
    "address": "千葉県安房郡鋸南町保田724",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.149078,
+   "lng": 139.857834,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -130234,9 +130234,9 @@
    "municipality": "竜王町",
    "place_name": "アグリパーク竜王",
    "address": "滋賀県蒲生郡竜王町大字山之上6526",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.043407,
+   "lng": 136.144501,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -136214,9 +136214,9 @@
    "municipality": "豊能郡能勢町",
    "place_name": "能勢（くりの郷）",
    "address": "大阪府豊能郡能勢町平野535",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.956516,
+   "lng": 135.401031,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -136604,9 +136604,9 @@
    "municipality": "豊能郡能勢町",
    "place_name": "能勢（くりの郷）",
    "address": "大阪府豊能郡能勢町平野535",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.956516,
+   "lng": 135.401031,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -137124,9 +137124,9 @@
    "municipality": "泉南郡岬町",
    "place_name": "とっとパーク小島",
    "address": "大阪府泉南郡岬町多奈川小島455-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.313107,
+   "lng": 135.100357,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -137514,9 +137514,9 @@
    "municipality": "豊能郡能勢町",
    "place_name": "能勢（くりの郷）",
    "address": "大阪府豊能郡能勢町平野535",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.956516,
+   "lng": 135.401031,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -137839,9 +137839,9 @@
    "municipality": "泉南郡岬町",
    "place_name": "みさき",
    "address": "大阪府泉南郡岬町淡輪5654-3",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.325672,
+   "lng": 135.174347,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -138229,9 +138229,9 @@
    "municipality": "豊能郡能勢町",
    "place_name": "能勢（くりの郷）",
    "address": "大阪府豊能郡能勢町平野535",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.956516,
+   "lng": 135.401031,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -139399,9 +139399,9 @@
    "municipality": "豊能郡能勢町",
    "place_name": "能勢（くりの郷）",
    "address": "大阪府豊能郡能勢町平野535",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.956516,
+   "lng": 135.401031,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -140049,9 +140049,9 @@
    "municipality": "泉南郡岬町",
    "place_name": "とっとパーク小島",
    "address": "大阪府泉南郡岬町多奈川小島455-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.313107,
+   "lng": 135.100357,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -147849,9 +147849,9 @@
    "municipality": null,
    "place_name": "西大和学園高等学校",
    "address": "奈良県北葛城郡河合町薬井295番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.588791,
+   "lng": 135.714203,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -148174,9 +148174,9 @@
    "municipality": null,
    "place_name": "西大和学園高等学校",
    "address": "奈良県北葛城郡河合町薬井295番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.588791,
+   "lng": 135.714203,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -148629,9 +148629,9 @@
    "municipality": null,
    "place_name": "西大和学園高等学校",
    "address": "奈良県北葛城郡河合町薬井295番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.588791,
+   "lng": 135.714203,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -149344,9 +149344,9 @@
    "municipality": null,
    "place_name": "西大和学園高等学校",
    "address": "奈良県北葛城郡河合町薬井295番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.588791,
+   "lng": 135.714203,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -151229,9 +151229,9 @@
    "municipality": null,
    "place_name": "西大和学園高等学校",
    "address": "奈良県北葛城郡河合町薬井295番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.588791,
+   "lng": 135.714203,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -152009,9 +152009,9 @@
    "municipality": "太地町",
    "place_name": "たいじ",
    "address": "和歌山県東牟婁郡太地町大字森浦143-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.592175,
+   "lng": 135.934509,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -152269,9 +152269,9 @@
    "municipality": null,
    "place_name": "アドベンチャーワールド",
    "address": "和歌山県西牟婁郡白浜町堅田2399 {{Maplink2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.676067,
+   "lng": 135.373871,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -152464,9 +152464,9 @@
    "municipality": "由良町",
    "place_name": "白崎海洋公園",
    "address": "和歌山県日高郡由良町大字大引960-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.970562,
+   "lng": 135.087173,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -152724,9 +152724,9 @@
    "municipality": "みなべ町",
    "place_name": "みなべうめ振興館",
    "address": "和歌山県日高郡みなべ町谷口538-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.789062,
+   "lng": 135.329926,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -152854,9 +152854,9 @@
    "municipality": "東牟婁郡串本町",
    "place_name": "くしもと橋杭岩",
    "address": "和歌山県東牟婁郡串本町鬮野川1549-8",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.483673,
+   "lng": 135.789566,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -153179,9 +153179,9 @@
    "municipality": null,
    "place_name": "アドベンチャーワールド",
    "address": "和歌山県西牟婁郡白浜町堅田2399 {{Maplink2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.676067,
+   "lng": 135.373871,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -153244,9 +153244,9 @@
    "municipality": null,
    "place_name": "アドベンチャーワールド",
    "address": "和歌山県西牟婁郡白浜町堅田2399 {{Maplink2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.676067,
+   "lng": 135.373871,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -153569,9 +153569,9 @@
    "municipality": "串本町",
    "place_name": "くしもと橋杭岩",
    "address": "和歌山県東牟婁郡串本町鬮野川1549-8",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.483673,
+   "lng": 135.789566,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -153764,9 +153764,9 @@
    "municipality": "串本町",
    "place_name": "くしもと橋杭岩",
    "address": "和歌山県東牟婁郡串本町鬮野川1549-8",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.483673,
+   "lng": 135.789566,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -161824,9 +161824,9 @@
    "municipality": "津和野町",
    "place_name": "津和野温泉なごみの里",
    "address": "島根県鹿足郡津和野町鷲原イ256",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.450001,
+   "lng": 131.760498,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -166114,9 +166114,9 @@
    "municipality": "鏡野町",
    "place_name": "奥津温泉",
    "address": "岡山県苫田郡鏡野町奥津463",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.216263,
+   "lng": 133.942337,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -168714,9 +168714,9 @@
    "municipality": "山県郡北広島町",
    "place_name": "豊平どんぐり村",
    "address": "広島県山県郡北広島町都志見12609",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.647644,
+   "lng": 132.429581,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -176189,9 +176189,9 @@
    "municipality": "那賀町",
    "place_name": "もみじ川温泉",
    "address": "徳島県那賀郡那賀町大久保字西納野4-7",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.802193,
+   "lng": 134.450287,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -178399,9 +178399,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -178724,9 +178724,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -178789,9 +178789,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -179049,9 +179049,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -179114,9 +179114,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -179179,9 +179179,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -179309,9 +179309,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -179504,9 +179504,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -179959,9 +179959,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -180284,9 +180284,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -180934,9 +180934,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -181129,9 +181129,9 @@
    "municipality": "小豆島町",
    "place_name": "小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -181974,9 +181974,9 @@
    "municipality": null,
    "place_name": "タオル美術館",
    "address": "愛媛県今治市朝倉上甲2930番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.973869,
+   "lng": 133.005661,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -184054,9 +184054,9 @@
    "municipality": "伊予市",
    "place_name": "ふたみ",
    "address": "愛媛県伊予市双海町高岸甲2326",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.670082,
+   "lng": 132.630463,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -185029,9 +185029,9 @@
    "municipality": "高岡郡四万十町",
    "place_name": "四万十とおわ",
    "address": "高知県高岡郡四万十町十和川口62-9",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.22945,
+   "lng": 132.835861,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -185289,9 +185289,9 @@
    "municipality": "四万十町",
    "place_name": "四万十太正",
    "address": "高知県高岡郡四万十町大正16-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.17458,
+   "lng": 132.960281,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -185549,9 +185549,9 @@
    "municipality": "四万十町",
    "place_name": "四万十大正",
    "address": "高知県高岡郡四万十町大正16-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.17458,
+   "lng": 132.960281,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -186069,9 +186069,9 @@
    "municipality": "高岡郡四万十町",
    "place_name": "四万十とおわ",
    "address": "高知県高岡郡四万十町十和川口62-9",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.22945,
+   "lng": 132.835861,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -186134,9 +186134,9 @@
    "municipality": "四万十町",
    "place_name": "四万十とおわ",
    "address": "高知県高岡郡四万十町十和川口62-9",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.22945,
+   "lng": 132.835861,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -186264,9 +186264,9 @@
    "municipality": null,
    "place_name": "にこ淵",
    "address": "高知県吾川郡いの町清水上分1278",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.700211,
+   "lng": 133.357681,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -186719,9 +186719,9 @@
    "municipality": "四万十町",
    "place_name": "四万十とおわ",
    "address": "高知県高岡郡四万十町十和川口62-9",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.22945,
+   "lng": 132.835861,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -186979,9 +186979,9 @@
    "municipality": "四万十町",
    "place_name": "四万十大正",
    "address": "高知県高岡郡四万十町大正16-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.17458,
+   "lng": 132.960281,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -187239,9 +187239,9 @@
    "municipality": "四万十町",
    "place_name": "四万十とおわ",
    "address": "高知県高岡郡四万十町十和川口62-9",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.22945,
+   "lng": 132.835861,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -187889,9 +187889,9 @@
    "municipality": "四万十町",
    "place_name": "四万十大正",
    "address": "高知県高岡郡四万十町大正16-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.17458,
+   "lng": 132.960281,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -189124,9 +189124,9 @@
    "municipality": "大任町",
    "place_name": "おおとう桜街道",
    "address": "福岡県田川郡大任町大字今任原1339",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.628174,
+   "lng": 130.849579,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -189514,9 +189514,9 @@
    "municipality": "大任町",
    "place_name": "おおとう桜街道",
    "address": "福岡県田川郡大任町大字今任原1339",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.628174,
+   "lng": 130.849579,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -190034,9 +190034,9 @@
    "municipality": "大任町",
    "place_name": "おおとう桜街道",
    "address": "福岡県田川郡大任町大字今任原1339",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.628174,
+   "lng": 130.849579,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -193024,9 +193024,9 @@
    "municipality": "神埼郡吉野ヶ里町",
    "place_name": "吉野ヶ里",
    "address": "佐賀県神埼郡吉野ヶ里町松隈1710-11",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.391747,
+   "lng": 130.395233,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -193089,9 +193089,9 @@
    "municipality": "吉野ヶ里町",
    "place_name": "吉野ヶ里",
    "address": "佐賀県神埼郡吉野ヶ里町松隈1710-11",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.391747,
+   "lng": 130.395233,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -193869,9 +193869,9 @@
    "municipality": "吉野ヶ里町",
    "place_name": "吉野ヶ里",
    "address": "佐賀県神埼郡吉野ヶ里町松隈1710-11",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.391747,
+   "lng": 130.395233,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -194454,9 +194454,9 @@
    "municipality": "吉野ヶ里町",
    "place_name": "吉野ヶ里",
    "address": "佐賀県神埼郡吉野ヶ里町松隈1710-11",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.391747,
+   "lng": 130.395233,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -195039,9 +195039,9 @@
    "municipality": "吉野ヶ里町",
    "place_name": "吉野ヶ里",
    "address": "佐賀県神埼郡吉野ヶ里町松隈1710-11",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.391747,
+   "lng": 130.395233,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -195234,9 +195234,9 @@
    "municipality": "吉野ヶ里町",
    "place_name": "吉野ヶ里",
    "address": "佐賀県神埼郡吉野ヶ里町松隈1710-11",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.391747,
+   "lng": 130.395233,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -196664,9 +196664,9 @@
    "municipality": "吉野ヶ里町",
    "place_name": "吉野ヶ里",
    "address": "佐賀県神埼郡吉野ヶ里町松隈1710-11",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.391747,
+   "lng": 130.395233,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -205699,9 +205699,9 @@
    "municipality": "宮崎市",
    "place_name": "フェニックス",
    "address": "宮崎県宮崎市大字内海字三池381-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 31.742336,
+   "lng": 131.471893,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -205959,9 +205959,9 @@
    "municipality": "宮崎市",
    "place_name": "フェニックス",
    "address": "宮崎県宮崎市大字内海字三池381-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 31.742336,
+   "lng": 131.471893,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -206544,9 +206544,9 @@
    "municipality": "宮崎市",
    "place_name": "フェニックス",
    "address": "宮崎県宮崎市大字内海字三池381-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 31.742336,
+   "lng": 131.471893,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -206674,9 +206674,9 @@
    "municipality": "宮崎市",
    "place_name": "フェニックス",
    "address": "宮崎県宮崎市大字内海字三池381-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 31.742336,
+   "lng": 131.471893,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -207194,9 +207194,9 @@
    "municipality": "宮崎市",
    "place_name": "フェニックス",
    "address": "宮崎県宮崎市大字内海字三池381-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 31.742336,
+   "lng": 131.471893,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -207389,9 +207389,9 @@
    "municipality": "宮崎市",
    "place_name": "フェニックス",
    "address": "宮崎県宮崎市大字内海字三池381-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 31.742336,
+   "lng": 131.471893,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -207909,9 +207909,9 @@
    "municipality": "宮崎市",
    "place_name": "フェニックス",
    "address": "宮崎県宮崎市大字内海字三池381-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 31.742336,
+   "lng": 131.471893,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -208104,9 +208104,9 @@
    "municipality": "高千穂町",
    "place_name": "高千穂",
    "address": "宮崎県西臼杵郡高千穂町三田井1296-5",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 32.710911,
+   "lng": 131.301651,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -208559,9 +208559,9 @@
    "municipality": "宮崎市",
    "place_name": "フェニックス",
    "address": "宮崎県宮崎市大字内海字三池381-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 31.742336,
+   "lng": 131.471893,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -209144,9 +209144,9 @@
    "municipality": "宮崎市",
    "place_name": "フェニックス",
    "address": "宮崎県宮崎市大字内海字三池381-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 31.742336,
+   "lng": 131.471893,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -209859,9 +209859,9 @@
    "municipality": "西臼杵郡高千穂町",
    "place_name": "高千穂",
    "address": "宮崎県西臼杵郡高千穂町三田井1296-5",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 32.710911,
+   "lng": 131.301651,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -215254,9 +215254,9 @@
    "municipality": null,
    "place_name": "沖縄美ら海水族館",
    "address": "沖縄県国頭郡本部町石川424番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 26.693777,
+   "lng": 127.878372,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -215709,9 +215709,9 @@
    "municipality": null,
    "place_name": "開邦高等学校",
    "address": "沖縄県島尻郡南風原町字新川646番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 26.214994,
+   "lng": 127.731544,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -215904,9 +215904,9 @@
    "municipality": null,
    "place_name": "開邦高等学校",
    "address": "沖縄県島尻郡南風原町字新川646番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 26.214994,
+   "lng": 127.731544,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -216294,9 +216294,9 @@
    "municipality": null,
    "place_name": "開邦高等学校",
    "address": "沖縄県島尻郡南風原町字新川646番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 26.214994,
+   "lng": 127.731544,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -216359,9 +216359,9 @@
    "municipality": null,
    "place_name": "ジャングリア沖縄",
    "address": "沖縄県国頭郡今帰仁村呉我山553番地1 frame-width=200",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 26.642988,
+   "lng": 127.969582,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -216424,9 +216424,9 @@
    "municipality": null,
    "place_name": "ジャングリア沖縄",
    "address": "沖縄県国頭郡今帰仁村呉我山553番地1 frame-width=200",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 26.642988,
+   "lng": 127.969582,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -217529,9 +217529,9 @@
    "municipality": null,
    "place_name": "沖縄美ら海水族館",
    "address": "沖縄県国頭郡本部町石川424番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 26.693777,
+   "lng": 127.878372,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -217594,9 +217594,9 @@
    "municipality": null,
    "place_name": "開邦高等学校",
    "address": "沖縄県島尻郡南風原町字新川646番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 26.214994,
+   "lng": 127.731544,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -217854,9 +217854,9 @@
    "municipality": null,
    "place_name": "マリユドゥの滝",
    "address": "沖縄県八重山郡竹富町上原870-3",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 24.375078,
+   "lng": 123.825218,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -219219,9 +219219,9 @@
    "municipality": "安平町",
    "place_name": "北海道クラシックゴルフクラブ",
    "address": "北海道勇払郡安平町早来富岡406番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 42.747673,
+   "lng": 141.78038,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -219739,9 +219739,9 @@
    "municipality": "中標津町",
    "place_name": "夢みるケーキ屋 ポルテ なかしべつ ケーキ",
    "address": "北海道標津郡中標津町大通南2丁目1-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 43.546867,
+   "lng": 144.974121,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -219999,9 +219999,9 @@
    "municipality": "ニセコ町",
    "place_name": "ニセコ昆布温泉 鶴雅別荘 杢の抄",
    "address": "北海道虻田郡ニセコ町ニセコ393",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 42.829296,
+   "lng": 140.638992,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -220844,9 +220844,9 @@
    "municipality": "留寿都村",
    "place_name": "ルスツ ジンギスカン もくもく家",
    "address": "北海道虻田郡留寿都村泉川24",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 42.747467,
+   "lng": 140.916733,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -220974,9 +220974,9 @@
    "municipality": "美瑛町",
    "place_name": "小さなパン店リッカロッカ",
    "address": "北海道上川郡美瑛町美馬牛南1丁目5-50",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 43.536434,
+   "lng": 142.447647,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -221039,9 +221039,9 @@
    "municipality": "上富良野町",
    "place_name": "吹上露天の湯",
    "address": "北海道空知郡上富良野町吹上温泉",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 43.430988,
+   "lng": 142.640244,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -221104,9 +221104,9 @@
    "municipality": "倶知安町",
    "place_name": "ニセコ東急 グラン・ヒラフ",
    "address": "北海道虻田郡倶知安町ニセコひらふ1条2丁目9-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 42.862942,
+   "lng": 140.702393,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -222079,9 +222079,9 @@
    "municipality": "七戸町",
    "place_name": "道の駅 しちのへ",
    "address": "青森県上北郡七戸町荒熊内67-94",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 40.721512,
+   "lng": 141.143494,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -222469,9 +222469,9 @@
    "municipality": "青森市",
    "place_name": "酸ヶ湯温泉旅館",
    "address": "青森県青森市荒川南荒川山",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 40.68557,
+   "lng": 140.77739,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -222599,9 +222599,9 @@
    "municipality": "田子町",
    "place_name": "池田ファーム",
    "address": "青森県三戸郡田子町田子池振外平11-11",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 40.349163,
+   "lng": 141.111908,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -223769,9 +223769,9 @@
    "municipality": "一関市",
    "place_name": "HILL TOP",
    "address": "岩手県一関市千厩町清田峠下25-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.928818,
+   "lng": 141.38121,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -223834,9 +223834,9 @@
    "municipality": "西和賀町",
    "place_name": "スーパーオセン 湯本本店",
    "address": "岩手県和賀郡西和賀町湯本30地割78-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.346863,
+   "lng": 140.776352,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -223964,9 +223964,9 @@
    "municipality": "矢巾町",
    "place_name": "福田パン 矢巾店",
    "address": "岩手県紫波郡矢巾町広宮沢第11地割502-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.632046,
+   "lng": 141.11496,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -224029,9 +224029,9 @@
    "municipality": "矢巾町",
    "place_name": "俺のじゃじゃ",
    "address": "岩手県紫波郡矢巾町西徳田第6地割168",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.612518,
+   "lng": 141.172653,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -224354,9 +224354,9 @@
    "municipality": "大崎市",
    "place_name": "あ･ら･伊達な道の駅",
    "address": "宮城県大崎市岩出山池月下宮苗代目4-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.712536,
+   "lng": 140.838089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -224809,9 +224809,9 @@
    "municipality": "大崎市",
    "place_name": "TAKEDA BAKERY",
    "address": "宮城県大崎市古川長岡針輪野内34",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.593891,
+   "lng": 141.005081,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -225264,9 +225264,9 @@
    "municipality": "松島町",
    "place_name": "磯寿司",
    "address": "宮城県宮城郡松島町磯崎磯崎4-12",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.378929,
+   "lng": 141.074585,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -226694,9 +226694,9 @@
    "municipality": "五城目町",
    "place_name": "沢寿し",
    "address": "秋田県南秋田郡五城目町東磯ノ目2丁目1-5",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.942734,
+   "lng": 140.115036,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -227084,9 +227084,9 @@
    "municipality": "八郎潟町",
    "place_name": "畠栄菓子舗",
    "address": "秋田県南秋田郡八郎潟町中田8-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.947849,
+   "lng": 140.07901,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -228124,9 +228124,9 @@
    "municipality": "山形市",
    "place_name": "蔵王の大ちゃん",
    "address": "山形県山形市蔵王温泉上ノ代799",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.17432,
+   "lng": 140.417908,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -228189,9 +228189,9 @@
    "municipality": "白鷹町",
    "place_name": "蕎麦 千利庵",
    "address": "山形県西置賜郡白鷹町広野1656",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.157703,
+   "lng": 140.067413,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -228319,9 +228319,9 @@
    "municipality": "遊佐町",
    "place_name": "グリーンストア",
    "address": "山形県飽海郡遊佐町遊佐京田90-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 39.015877,
+   "lng": 139.909439,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -228449,9 +228449,9 @@
    "municipality": "高畠町",
    "place_name": "TAKAHATA 山喜",
    "address": "山形県東置賜郡高畠町福沢南2-3",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.990929,
+   "lng": 140.151215,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -228644,9 +228644,9 @@
    "municipality": "新庄市",
    "place_name": "新庄アーデンゴルフ倶楽部",
    "address": "山形県新庄市飛田字中峯山1132-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 38.763737,
+   "lng": 140.284332,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -228709,9 +228709,9 @@
    "municipality": "矢吹町",
    "place_name": "ベイクショップ ハッピーベリー",
    "address": "福島県西白河郡矢吹町弥栄63",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.187233,
+   "lng": 140.332932,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -228904,9 +228904,9 @@
    "municipality": "南会津町",
    "place_name": "木賊温泉共同浴場 岩風呂",
    "address": "福島県南会津町宮里湯ノ坂1986",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.052734,
+   "lng": 139.480438,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -229164,9 +229164,9 @@
    "municipality": "猪苗代町",
    "place_name": "きっちん ほっとｙｒ",
    "address": "福島県耶麻郡猪苗代町千代田二百苅69-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.555092,
+   "lng": 140.112625,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -229359,9 +229359,9 @@
    "municipality": "田村",
    "place_name": "ぷくぷく茶屋。",
    "address": "福島県田村市船引町芦沢梅ヶ咲40番地",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.403061,
+   "lng": 140.537796,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -229554,9 +229554,9 @@
    "municipality": "湯川村",
    "place_name": "道の駅 あいづ 湯川・会津坂下",
    "address": "福島県河沼郡湯川村佐野目五丁ノ目78-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.556637,
+   "lng": 139.866806,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -229749,9 +229749,9 @@
    "municipality": "郡山市",
    "place_name": "鞍手茶屋 中山峠店",
    "address": "福島県郡山市熱海町安子島鞍手山1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.478294,
+   "lng": 140.233673,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -229944,9 +229944,9 @@
    "municipality": "下郷町",
    "place_name": "大内宿 金太郎そば山本屋",
    "address": "福島県南会津郡下郷町大内山本15",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.334476,
+   "lng": 139.857742,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -230139,9 +230139,9 @@
    "municipality": "石川町",
    "place_name": "農村食堂 里のカフェ",
    "address": "福島県石川郡石川町梁瀬455-3",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.152466,
+   "lng": 140.415359,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -230334,9 +230334,9 @@
    "municipality": "棚倉町",
    "place_name": "小判寿司",
    "address": "福島県東白川郡棚倉町棚倉古町30-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.028046,
+   "lng": 140.389725,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -230594,9 +230594,9 @@
    "municipality": "猪苗代町",
    "place_name": "きっちん ほっとｙｒ",
    "address": "福島県耶麻郡猪苗代町千代田二百苅69-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.555092,
+   "lng": 140.112625,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -230659,9 +230659,9 @@
    "municipality": "大洗町",
    "place_name": "味処 大森",
    "address": "茨城県東茨城郡大洗町磯浜町3152-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.324055,
+   "lng": 140.569412,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -230919,9 +230919,9 @@
    "municipality": "大洗町",
    "place_name": "悠久",
    "address": "茨城県東茨城郡大洗町磯浜町173-4",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.312351,
+   "lng": 140.58197,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -231764,9 +231764,9 @@
    "municipality": "大洗町",
    "place_name": "大洗ゴルフ倶楽部",
    "address": "茨城県東茨城郡大洗町磯浜町8231-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.3241,
+   "lng": 140.588028,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -232999,9 +232999,9 @@
    "municipality": "茨城町",
    "place_name": "キッチン ヤン",
    "address": "茨城県東茨城郡茨城町長岡3456-4",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.308228,
+   "lng": 140.442352,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -234234,9 +234234,9 @@
    "municipality": "那須町",
    "place_name": "芦野温泉",
    "address": "栃木県那須郡那須町芦野1461",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.990063,
+   "lng": 140.167633,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -234559,9 +234559,9 @@
    "municipality": "益子町",
    "place_name": "キッチン＆カフェ絵里珈",
    "address": "栃木県芳賀郡益子町益子3345-3",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.46946,
+   "lng": 140.107407,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -234689,9 +234689,9 @@
    "municipality": "塩谷町",
    "place_name": "ロペ倶楽部",
    "address": "栃木県塩谷郡塩谷町大久保1859-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.743999,
+   "lng": 139.906799,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -235014,9 +235014,9 @@
    "municipality": "那須町",
    "place_name": "NASUバイキングエルバージュ",
    "address": "栃木県那須郡那須町高久丙",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.069809,
+   "lng": 140.047089,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -236054,9 +236054,9 @@
    "municipality": "高崎市",
    "place_name": "二代目焼きまんじゅう だるま本店",
    "address": "群馬県高崎市八千代町1丁目17-8",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.322823,
+   "lng": 138.989365,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -236379,9 +236379,9 @@
    "municipality": "草津町",
    "place_name": "アル・ロドデンドロ",
    "address": "群馬県吾妻郡草津町草津557-11",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.626862,
+   "lng": 138.600754,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -236704,9 +236704,9 @@
    "municipality": "高崎市",
    "place_name": "うどん居酒屋 まさか",
    "address": "群馬県高崎市乗附町1945-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.317089,
+   "lng": 138.984879,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -236964,9 +236964,9 @@
    "municipality": "藤岡市",
    "place_name": "鶴商文庫",
    "address": "群馬県藤岡市本郷832-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.231709,
+   "lng": 139.075485,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -237029,9 +237029,9 @@
    "municipality": "草津町",
    "place_name": "とん香",
    "address": "群馬県吾妻郡草津町草津23-90",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.619167,
+   "lng": 138.59407,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -237159,9 +237159,9 @@
    "municipality": "草津町",
    "place_name": "草津湯の花まんじゅう本舗",
    "address": "群馬県吾妻郡草津町43-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.620556,
+   "lng": 138.596115,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -237224,9 +237224,9 @@
    "municipality": "草津町",
    "place_name": "そば処わへい",
    "address": "群馬県吾妻郡草津町草津486-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.623199,
+   "lng": 138.593445,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -237419,9 +237419,9 @@
    "municipality": "川場村",
    "place_name": "道の駅 川場田園プラザ",
    "address": "群馬県利根郡川場村萩室385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.689865,
+   "lng": 139.12085,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -237549,9 +237549,9 @@
    "municipality": "みなかみ町",
    "place_name": "別邸 仙寿庵",
    "address": "群馬県利根郡みなかみ町谷川614",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.785213,
+   "lng": 138.957962,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -237614,9 +237614,9 @@
    "municipality": "高崎市",
    "place_name": "イオンモール高崎",
    "address": "群馬県高崎市棟高町1400",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.390381,
+   "lng": 139.006577,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -237874,9 +237874,9 @@
    "municipality": "草津町",
    "place_name": "お宿 ゆきずみ",
    "address": "群馬県吾妻郡草津町草津39-12",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.620705,
+   "lng": 138.596207,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -238004,9 +238004,9 @@
    "municipality": "草津町",
    "place_name": "みやたや食堂",
    "address": "群馬県吾妻郡草津町草津283-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.627369,
+   "lng": 138.57579,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -238134,9 +238134,9 @@
    "municipality": "高崎市",
    "place_name": "ガトーフェスタ ハラダ 中山道店（シャトー・デュ・ローブ）",
    "address": "群馬県高崎市新町2818",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.275757,
+   "lng": 139.109985,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -238264,9 +238264,9 @@
    "municipality": "草津町",
    "place_name": "ティールームゆきうさぎ",
    "address": "群馬県吾妻郡草津町草津81",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.621525,
+   "lng": 138.59761,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -238784,9 +238784,9 @@
    "municipality": "越生町",
    "place_name": "おごせ自動車学校",
    "address": "埼玉県入間郡越生町上野東1丁目3-18",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.953217,
+   "lng": 139.310806,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -239109,9 +239109,9 @@
    "municipality": "寄居町",
    "place_name": "とんかつ茶の間",
    "address": "埼玉県大里郡寄居町末野795-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.118546,
+   "lng": 139.164062,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -244374,9 +244374,9 @@
    "municipality": "鋸南町",
    "place_name": "道の駅 保田小学校",
    "address": "千葉県安房郡鋸南町保田724",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.149078,
+   "lng": 139.857834,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -251329,9 +251329,9 @@
    "municipality": "足柄下郡箱根町",
    "place_name": "箱根カントリー倶楽部",
    "address": "神奈川県足柄下郡箱根町仙石原1245",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.25642,
+   "lng": 138.996765,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -252304,9 +252304,9 @@
    "municipality": "足柄下郡箱根町",
    "place_name": "天山湯治郷",
    "address": "神奈川県足柄下郡箱根町湯本茶屋208",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.225895,
+   "lng": 139.088181,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -253084,9 +253084,9 @@
    "municipality": "南魚沼郡湯沢町",
    "place_name": "パティスリースフェール",
    "address": "新潟県南魚沼郡湯沢町湯沢1797-3",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.944065,
+   "lng": 138.795273,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -253214,9 +253214,9 @@
    "municipality": "東蒲原郡阿賀町",
    "place_name": "桃園楼",
    "address": "新潟県東蒲原郡阿賀町津川3469",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 37.683594,
+   "lng": 139.453644,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -256984,9 +256984,9 @@
    "municipality": "三方上中郡若狭町",
    "place_name": "PLANT-2 上中店",
    "address": "福井県三方上中郡若狭町脇袋11-12-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.471416,
+   "lng": 135.870636,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -257244,9 +257244,9 @@
    "municipality": "三方上中郡若狭町",
    "place_name": "うなぎ 魚三",
    "address": "福井県三方上中郡若狭町鳥浜50-21-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.554588,
+   "lng": 135.903732,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -258024,9 +258024,9 @@
    "municipality": "南都留郡富士河口湖町",
    "place_name": "ラ・ヴェルデュール木村屋",
    "address": "山梨県南都留郡富士河口湖町小立8017-1 フォレストモール富士河口湖",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.49102,
+   "lng": 138.741959,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -258154,9 +258154,9 @@
    "municipality": "南都留郡富士河口湖町",
    "place_name": "つわ野",
    "address": "山梨県南都留郡富士河口湖町船津3353-3",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.493008,
+   "lng": 138.766678,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -258479,9 +258479,9 @@
    "municipality": "南巨摩郡富士川町",
    "place_name": "デッセム",
    "address": "山梨県南巨摩郡富士川町青柳町691-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.554012,
+   "lng": 138.463089,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -258544,9 +258544,9 @@
    "municipality": "南都留郡富士河口湖町",
    "place_name": "美くり",
    "address": "山梨県南都留郡富士河口湖町船津6713-69",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.50565,
+   "lng": 138.760147,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -258609,9 +258609,9 @@
    "municipality": "南都留郡富士河口湖町",
    "place_name": "うろこ",
    "address": "山梨県南都留郡富士河口湖町船津3410-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.49773,
+   "lng": 138.766388,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -258739,9 +258739,9 @@
    "municipality": "南巨摩郡身延町",
    "place_name": "セルバ みのぶ店",
    "address": "山梨県南巨摩郡身延町飯富2309-200",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.43515,
+   "lng": 138.435043,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -258804,9 +258804,9 @@
    "municipality": "南都留郡富士河口湖町",
    "place_name": "鉄焼Tetsuyaki",
    "address": "山梨県南都留郡富士河口湖町船津3486",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.497856,
+   "lng": 138.765732,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -258934,9 +258934,9 @@
    "municipality": "西八代郡市川三郷町",
    "place_name": "みはらしの丘 みたまの湯",
    "address": "山梨県西八代郡市川三郷町大塚2608",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.566238,
+   "lng": 138.533325,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -258999,9 +258999,9 @@
    "municipality": "南都留郡富士河口湖町",
    "place_name": "らーめん金行 富士山総本店",
    "address": "山梨県南都留郡富士河口湖町船津309-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.504982,
+   "lng": 138.758698,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -259064,9 +259064,9 @@
    "municipality": "南都留郡富士河口湖町",
    "place_name": "宮本屋",
    "address": "山梨県南都留郡富士河口湖町船津4053",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.501675,
+   "lng": 138.769089,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -259389,9 +259389,9 @@
    "municipality": "北安曇郡白馬村",
    "place_name": "NIKU雅（にくまさ）",
    "address": "長野県北安曇郡白馬村北城836-125",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.688221,
+   "lng": 137.841217,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -259519,9 +259519,9 @@
    "municipality": "木曽郡南木曽町",
    "place_name": "御食事処 音吉",
    "address": "長野県木曽郡南木曽町吾妻1223-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.565105,
+   "lng": 137.603958,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -259779,9 +259779,9 @@
    "municipality": "小県郡青木村",
    "place_name": "田沢温泉 有乳湯（うちゆ）",
    "address": "長野県小県郡青木村田沢2700",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.384186,
+   "lng": 138.093719,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -259974,9 +259974,9 @@
    "municipality": "下高井郡山ノ内町",
    "place_name": "来々軒",
    "address": "長野県下高井郡山ノ内町平穏",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.742138,
+   "lng": 138.410156,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -260234,9 +260234,9 @@
    "municipality": "北佐久郡軽井沢町",
    "place_name": "ツルヤ 軽井沢店",
    "address": "長野県北佐久郡軽井沢町長倉2707",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.339199,
+   "lng": 138.593307,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -260494,9 +260494,9 @@
    "municipality": "下高井郡山ノ内町",
    "place_name": "幸鮨",
    "address": "長野県下高井郡山ノ内町平穏２１５７",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.734413,
+   "lng": 138.431381,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -260689,9 +260689,9 @@
    "municipality": "下高井郡野沢温泉村",
    "place_name": "野沢温泉スキー場",
    "address": "長野県下高井郡野沢温泉村豊郷7653",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 36.921577,
+   "lng": 138.461533,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -269529,9 +269529,9 @@
    "municipality": "北牟婁郡紀北町",
    "place_name": "万両寿し",
    "address": "三重県北牟婁郡紀北町東長島200-4",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.209942,
+   "lng": 136.339645,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -271869,9 +271869,9 @@
    "municipality": "蒲生郡竜王町",
    "place_name": "三井アウトレットパーク 滋賀竜王",
    "address": "滋賀県蒲生郡竜王町薬師字砂山1178 694",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.066269,
+   "lng": 136.111084,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -275184,9 +275184,9 @@
    "municipality": "泉北郡忠岡町",
    "place_name": "やっこ",
    "address": "大阪府泉北郡忠岡町忠岡東1丁目21-31",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.490314,
+   "lng": 135.399292,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -277914,9 +277914,9 @@
    "municipality": "大阪市中央区",
    "place_name": "心斎橋天ぷら たろじろう",
    "address": "大阪府大阪市中央区千日前1-8-20高橋ビル1F",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.667961,
+   "lng": 135.503708,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -277979,9 +277979,9 @@
    "municipality": "泉南郡田尻町",
    "place_name": "cheesecake lab seed 吉見本店",
    "address": "大阪府泉南郡田尻町吉見247-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.387661,
+   "lng": 135.289551,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -282854,9 +282854,9 @@
    "municipality": "吉野郡天川村",
    "place_name": "彰武",
    "address": "奈良県吉野郡天川村洞川293-4",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.248337,
+   "lng": 135.917709,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -282919,9 +282919,9 @@
    "municipality": "吉野郡上北山村",
    "place_name": "ゐざさ 大和吉野 柿の葉寿司 上北山村本店",
    "address": "奈良県吉野郡上北山村河合353",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.059193,
+   "lng": 136.066605,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -283179,9 +283179,9 @@
    "municipality": "吉野郡十津川村",
    "place_name": "上湯温泉 源泉大露天風呂",
    "address": "奈良県吉野郡十津川村出谷220",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.932442,
+   "lng": 135.716522,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -283309,9 +283309,9 @@
    "municipality": "吉野郡黒滝村",
    "place_name": "道の駅 吉野路黒滝",
    "address": "奈良県吉野郡黒滝村長瀬22",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.311836,
+   "lng": 135.821701,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -283439,9 +283439,9 @@
    "municipality": "東牟婁郡那智勝浦町",
    "place_name": "ステーキハウスひのき",
    "address": "和歌山県東牟婁郡那智勝浦町築地1丁目1-13",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.628693,
+   "lng": 135.943832,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -283699,9 +283699,9 @@
    "municipality": "有田郡有田川町",
    "place_name": "有田リソルゴルフクラブ",
    "address": "和歌山県有田郡有田川町釜中423-12",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.098347,
+   "lng": 135.241943,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -283764,9 +283764,9 @@
    "municipality": "東牟婁郡太地町",
    "place_name": "太地漁協スーパー",
    "address": "和歌山県東牟婁郡太地町太地3170",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.591114,
+   "lng": 135.95784,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -283894,9 +283894,9 @@
    "municipality": "西牟婁郡白浜町",
    "place_name": "九十九別邸 豆の湯",
    "address": "和歌山県西牟婁郡白浜町1384-15 新地長屋 5号",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.665424,
+   "lng": 135.351639,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -284024,9 +284024,9 @@
    "municipality": "東牟婁郡串本町",
    "place_name": "紅葉屋本舗",
    "address": "和歌山県東牟婁郡串本町潮岬470",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.447029,
+   "lng": 135.761078,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -284219,9 +284219,9 @@
    "municipality": "西牟婁郡すさみ町",
    "place_name": "望海のゆ",
    "address": "和歌山県西牟婁郡すさみ町江住703",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.52092,
+   "lng": 135.601547,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -284349,9 +284349,9 @@
    "municipality": "東牟婁郡串本町",
    "place_name": "道の駅 くしもと橋杭岩",
    "address": "和歌山県東牟婁郡串本町鬮野川1549-8",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.483673,
+   "lng": 135.789566,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -284609,9 +284609,9 @@
    "municipality": "東牟婁郡串本町",
    "place_name": "松寿司",
    "address": "和歌山県東牟婁郡串本町串本1735-91",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.470184,
+   "lng": 135.780884,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -284674,9 +284674,9 @@
    "municipality": "八頭郡若桜町",
    "place_name": "とんかつ新",
    "address": "鳥取県八頭郡若桜町若桜298",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.344463,
+   "lng": 134.398056,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -284869,9 +284869,9 @@
    "municipality": "西伯郡大山町",
    "place_name": "どさん子大将 大山店",
    "address": "鳥取県西伯郡大山町上萬604-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.478012,
+   "lng": 133.440247,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -284934,9 +284934,9 @@
    "municipality": "日野郡日南町",
    "place_name": "道の駅 にちなん日野川の郷",
    "address": "鳥取県日野郡日南町生山385",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.17411,
+   "lng": 133.318222,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -285129,9 +285129,9 @@
    "municipality": "八頭郡智頭町",
    "place_name": "パン工房 アイ",
    "address": "鳥取県八頭郡智頭町西谷689",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.216812,
+   "lng": 134.271927,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -285324,9 +285324,9 @@
    "municipality": "西伯郡南部町",
    "place_name": "あっちゃん",
    "address": "鳥取県西伯郡南部町法勝寺257-4",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.343914,
+   "lng": 133.334793,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -285909,9 +285909,9 @@
    "municipality": "邑智郡美郷町",
    "place_name": "千原温泉 千原湯谷湯治場",
    "address": "島根県邑智郡美郷町千原湯谷1070",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.072899,
+   "lng": 132.661545,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -286039,9 +286039,9 @@
    "municipality": "仁多郡奥出雲町",
    "place_name": "古民家そば たたらのいえ",
    "address": "島根県仁多郡奥出雲町竹崎878",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 35.179031,
+   "lng": 133.163879,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -288834,9 +288834,9 @@
    "municipality": "安芸郡府中町",
    "place_name": "イオンモール広島府中",
    "address": "広島県安芸郡府中町大須2丁目1-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.394566,
+   "lng": 132.499527,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -290004,9 +290004,9 @@
    "municipality": "安芸郡府中町",
    "place_name": "イオンスタイル広島府中",
    "address": "広島県安芸郡府中町大須2丁目1-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.394566,
+   "lng": 132.499527,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -290784,9 +290784,9 @@
    "municipality": "山県郡安芸太田町",
    "place_name": "月ヶ瀬温泉",
    "address": "広島県山県郡安芸太田町加計3505ー2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.609978,
+   "lng": 132.322021,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -291109,9 +291109,9 @@
    "municipality": "熊毛郡田布施町",
    "place_name": "本格手打ちうどん 克 本店",
    "address": "山口県熊毛郡田布施町大波野282-3",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.969334,
+   "lng": 132.058746,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -292799,9 +292799,9 @@
    "municipality": "板野郡板野町",
    "place_name": "丸池製麺所",
    "address": "徳島県板野郡板野町大寺大向北98-8",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.138615,
+   "lng": 134.464264,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -292864,9 +292864,9 @@
    "municipality": "海部郡海陽町",
    "place_name": "のなみ",
    "address": "徳島県海部郡海陽町奥浦西分28-2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.593124,
+   "lng": 134.353073,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -293124,9 +293124,9 @@
    "municipality": "美馬郡つるぎ町",
    "place_name": "インドラ",
    "address": "徳島県美馬郡つるぎ町貞光太田西286–2",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.043819,
+   "lng": 134.074585,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -293254,9 +293254,9 @@
    "municipality": "仲多度郡多度津町",
    "place_name": "Warung Buddha",
    "address": "香川県仲多度郡多度津町見立1069-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.247887,
+   "lng": 133.715393,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -293644,9 +293644,9 @@
    "municipality": "小豆郡土庄町",
    "place_name": "寿司割烹 助さん",
    "address": "香川県小豆郡土庄町淵崎甲2071-21",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.486393,
+   "lng": 134.191055,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -293969,9 +293969,9 @@
    "municipality": "木田郡三木町",
    "place_name": "スーパー ふくいち",
    "address": "香川県木田郡三木町氷上8",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.269279,
+   "lng": 134.129532,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -294164,9 +294164,9 @@
    "municipality": "小豆郡小豆島町",
    "place_name": "道の駅小豆島オリーブ公園",
    "address": "香川県小豆郡小豆島町西村甲1941-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 34.472862,
+   "lng": 134.273773,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -294814,9 +294814,9 @@
    "municipality": "伊予郡松前町",
    "place_name": "フジグラン エミフルMASAKI",
    "address": "愛媛県伊予郡松前町筒井850",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.789639,
+   "lng": 132.715591,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -295854,9 +295854,9 @@
    "municipality": "高岡郡四万十町",
    "place_name": "道の駅 四万十とおわ",
    "address": "高知県高岡郡四万十町十和川口62-9",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.22945,
+   "lng": 132.835861,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -295919,9 +295919,9 @@
    "municipality": "安芸郡芸西村",
    "place_name": "Kochi黒潮カントリークラブ",
    "address": "高知県安芸郡芸西村西分甲5207",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.532635,
+   "lng": 133.794601,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -296829,9 +296829,9 @@
    "municipality": "八女郡広川町",
    "place_name": "奥八女 茶の葉堂",
    "address": "福岡県八女郡広川町水原2022-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.248215,
+   "lng": 130.595001,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -297544,9 +297544,9 @@
    "municipality": "糟屋郡粕屋町",
    "place_name": "イオンモール福岡",
    "address": "福岡県糟屋郡粕屋町酒殿字老ノ木192-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.596455,
+   "lng": 130.480286,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -299754,9 +299754,9 @@
    "municipality": "三養基郡みやき町",
    "place_name": "卓海（たくみ）",
    "address": "佐賀県三養基郡みやき町江口",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.312153,
+   "lng": 130.46756,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -300079,9 +300079,9 @@
    "municipality": "上益城郡山都町",
    "place_name": "おちかラーメン",
    "address": "熊本県上益城郡山都町下市5",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 32.681023,
+   "lng": 130.988342,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -300144,9 +300144,9 @@
    "municipality": "阿蘇郡南小国町",
    "place_name": "御客屋旅館",
    "address": "熊本県阿蘇郡南小国町満願寺6546",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.07019,
+   "lng": 131.141968,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -300404,9 +300404,9 @@
    "municipality": "玉名郡和水町",
    "place_name": "湯亭 上弦の月",
    "address": "熊本県玉名郡和水町大田黒310-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.039841,
+   "lng": 130.609756,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -301444,9 +301444,9 @@
    "municipality": "上益城郡山都町",
    "place_name": "おちかラーメン",
    "address": "熊本県上益城郡山都町下市5",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 32.681023,
+   "lng": 130.988342,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -301639,9 +301639,9 @@
    "municipality": "玖珠郡九重町",
    "place_name": "食品スーパー 高原ショップ 小野",
    "address": "大分県玖珠郡九重町田野1512-7",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 33.152756,
+   "lng": 131.235001,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -303264,9 +303264,9 @@
    "municipality": "児湯郡新富町",
    "place_name": "ながのうどん店",
    "address": "宮崎県児湯郡新富町三納代1788-1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 32.073673,
+   "lng": 131.495667,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -303654,9 +303654,9 @@
    "municipality": "東諸県郡綾町",
    "place_name": "手打ち蕎麦 トナニカ",
    "address": "宮崎県東諸県郡綾町入野1200",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 31.999405,
+   "lng": 131.260712,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -303719,9 +303719,9 @@
    "municipality": "熊毛郡屋久島町",
    "place_name": "手打そば 松竹",
    "address": "鹿児島県熊毛郡屋久島町栗生1684",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 30.281143,
+   "lng": 130.426849,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -304889,9 +304889,9 @@
    "municipality": "国頭郡本部町",
    "place_name": "オリオンホテル モトブ リゾート＆スパ",
    "address": "沖縄県国頭郡本部町備瀬148番地1",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 26.701693,
+   "lng": 127.884453,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
@@ -304954,9 +304954,9 @@
    "municipality": "中頭郡嘉手納町",
    "place_name": "さしだ商店",
    "address": "沖縄県中頭郡嘉手納町屋良969",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 26.365038,
+   "lng": 127.768387,
+   "precision": "address",
    "extra_points": []
   },
   "category": [
@@ -305279,9 +305279,9 @@
    "municipality": "国頭郡宜野座村",
    "place_name": "道の駅 ぎのざ",
    "address": "沖縄県国頭郡宜野座村漢那1633",
-   "lat": null,
-   "lng": null,
-   "precision": "prefecture",
+   "lat": 26.488623,
+   "lng": 127.944199,
+   "precision": "town",
    "extra_points": []
   },
   "category": [
